@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reti di Calcolatori | Marino Miculan</title>
+    <link>https://miculan.github.io/category/reti-di-calcolatori/</link>
+      <atom:link href="https://miculan.github.io/category/reti-di-calcolatori/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reti di Calcolatori</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sat, 12 Sep 2020 10:10:46 +0000</lastBuildDate>
+    <image>
+      <url>https://miculan.github.io/images/icon_hucd11276fae71caa54a4868a16e56c065_1592_512x512_fill_lanczos_center_2.png</url>
+      <title>Reti di Calcolatori</title>
+      <link>https://miculan.github.io/category/reti-di-calcolatori/</link>
+    </image>
+    
+    <item>
+      <title>Qualche statistica su Reti di Calcolatori 2019-20</title>
+      <link>https://miculan.github.io/2020/09/qualche-statistica-su-reti-di-calcolatori-2019-20/</link>
+      <pubDate>Sat, 12 Sep 2020 10:10:46 +0000</pubDate>
+      <guid>https://miculan.github.io/2020/09/qualche-statistica-su-reti-di-calcolatori-2019-20/</guid>
+      <description>&lt;p&gt;Come di tradizione, adesso che si è chiuso anche l&amp;rsquo;ultimo appello di Reti di Calcolatori per l&amp;rsquo;A.A. 2019-20 possiamo fare qualche veloce analisi.&lt;/p&gt;
+&lt;p&gt;Nei cinque appelli del 2020 si sono iscritti ad almeno un appello 144 studenti (-5 rispetto al 2019; -3,3%), per complessive 251 iscrizioni (-20; -7,4%).&lt;br&gt;
+Si sono registrate 218 presenze agli scritti (+22; +11,2%), e sono stati consegnati 185 compiti (+19; +11,4%).&lt;br&gt;
+Di questi, dopo l&amp;rsquo;eventuale esame orale sono stati verbalizzati 97 esami (+7; +7,7%) (c&amp;rsquo;è una discreta variabilità tra un appello e l&amp;rsquo;altro: da un minimo di 13 ad un massimo di 25 pe appello).&lt;br&gt;
+Il voto medio è stato 21,7 (0,4 più alto dell&amp;rsquo;anno scorso); il voto massimo è stato 30.&lt;/p&gt;
+&lt;p&gt;Quindi possiamo dire che:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;lo Studente che si iscrive all&amp;rsquo;esame scritto ha una probabilità di registrare il voto pari a 97/251= 38,6% (+5,4%), quindi lo Studente si iscrive mediamente 251/97 = 2,6 volte prima di superare l&amp;rsquo;esame&lt;/li&gt;
+&lt;li&gt;lo Studente che consegna lo scritto ha una probabilità di registrare il voto pari a 97/185= 52,4% (-1,6%), quindi lo Studente deve consegnare mediamente 185/97 = 1,9 volte;&lt;/li&gt;
+&lt;li&gt;la probabilità che lo Studente superi l&amp;rsquo;esame di Reti di Calcolatori in un anno accademico è pari a 97/144= 67,4% (+7%);&lt;/li&gt;
+&lt;li&gt;il &amp;ldquo;backlog&amp;rdquo; è di 144-97=47 studenti (-12).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cyberchallenge 2020 – spostamento scadenza iscrizioni</title>
+      <link>https://miculan.github.io/2020/01/cyberchallenge-2020-spostamento-scadenza-iscrizioni/</link>
+      <pubDate>Tue, 14 Jan 2020 21:32:33 +0000</pubDate>
+      <guid>https://miculan.github.io/2020/01/cyberchallenge-2020-spostamento-scadenza-iscrizioni/</guid>
+      <description>&lt;p&gt;La scadenza per le iscrizioni alla 
+&lt;a href=&#34;http://users.dimi.uniud.it/~marino.miculan/wordpress/2019/12/cyberchallenge-it-2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CyberChallenge 2020&lt;/a&gt; è stata spostata al 6 febbraio 2020. Iscrivetevi numerosi!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OWASP Day 2019 @ Udine</title>
+      <link>https://miculan.github.io/2019/12/owasp-day-2019-udine/</link>
+      <pubDate>Tue, 10 Dec 2019 13:56:10 +0000</pubDate>
+      <guid>https://miculan.github.io/2019/12/owasp-day-2019-udine/</guid>
+      <description>&lt;p&gt;OWASP Italy Day is a one-day conference focused on web application and software security, application security testing tools and technologies and cloud security. This conference provides a unique opportunity to learn about application security topics and to network with application security professionals/managers, software engineers, software quality engineers/testers and computer science students. This year special topic of interest is the security of emerging technologies.&lt;/p&gt;
+&lt;p&gt;OWASP Day 2019 will be held at the 
+&lt;a href=&#34;http://www.uniud.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Università degli Studi di Udine&lt;/a&gt;, Palazzo Antonini, Via Tarcisio Petracco, 8, 33100 Udine UD, Italy, on December 14, 2019, from 9:00 to 13:30.&lt;/p&gt;
+&lt;p&gt;This conference is organized by the OWASP foundation and OWASP Italy in collaboration with the University of Udine, Italy. We refer to the 
+&lt;a href=&#34;https://www.owasp.org/index.php/Italy_OWASP_Day_Udine_2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;official web page&lt;/a&gt; for the program and more details.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cyberchallenge.it 2020</title>
+      <link>https://miculan.github.io/2019/12/cyberchallenge-it-2020/</link>
+      <pubDate>Fri, 06 Dec 2019 15:18:24 +0000</pubDate>
+      <guid>https://miculan.github.io/2019/12/cyberchallenge-it-2020/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://www.cyberchallenge.it&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CyberChallenge.it&lt;/a&gt; 2020 è il primo programma italiano di addestramento alla cybersecurity per giovani di talento delle scuole superiori e delle università. Il programma mira a identificare, attrarre, reclutare e collocare la prossima generazione di professionisti della  sicurezza informatica.&lt;/p&gt;
+&lt;p&gt;Il programma si rivolge ai  &lt;strong&gt;giovani talenti tra i 16 e i 23 anni&lt;/strong&gt;, e  affianca un’attività formativa tradizionale a un approccio orientato alla  &lt;em&gt;gamification&lt;/em&gt;  che si traduce nella partecipazione a competizioni online che simulano scenari di reti e ambienti lavorativi reali.  &lt;/p&gt;
+&lt;div class=&#34;wp-block-image&#34;&gt;
+  &lt;figure class=&#34;alignright is-resized&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://users.dimi.uniud.it/~marino.miculan/wordpress/wp-content/uploads/2019/12/70073537_1458872087596608_1459282096662793664_n.jpg&#34; alt=&#34;&#34; class=&#34;wp-image-1049&#34; width=&#34;304&#34; height=&#34;380&#34; srcset=&#34;http://users.dimi.uniud.it/~marino.miculan/wordpress/wp-content/uploads/2019/12/70073537_1458872087596608_1459282096662793664_n.jpg 640w, http://users.dimi.uniud.it/~marino.miculan/wordpress/wp-content/uploads/2019/12/70073537_1458872087596608_1459282096662793664_n-240x300.jpg 240w&#34; sizes=&#34;(max-width: 304px) 100vw, 304px&#34; /&gt;&lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt;Nel 2020 anche l’Università di Udine parteciperà con un suo team, e siamo nella fase di reclutamento dei partecipanti. Vogliamo avere i migliori hacker della regione e non solo!&lt;/p&gt;
+&lt;p&gt;La partecipazione al programma di formazione è  &lt;strong&gt;completamente gratuita&lt;/strong&gt;  per gli studenti (e per le scuole), ma limitata a  &lt;strong&gt;20 partecipanti per sede,&lt;/strong&gt;  selezionati mediante dei test online e in presenza.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Le iscrizioni alle selezioni sono già aperte dal 2 dicembre e si chiuderanno il &lt;del&gt;17 gennaio&lt;/del&gt; 6 febbraio 2020&lt;/strong&gt;.  Iscrivetivi qua:  &lt;a rel=&#34;noreferrer noopener&#34; href=&#34;https://www.cyberchallenge.it/venue/uniud&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;https://www.cyberchallenge.it/venue/uniud&#34;&gt;https://www.cyberchallenge.it/venue/uniud&lt;/a&gt;&lt;/a&gt; &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Qualche statistica su Reti di Calcolatori 2018-19</title>
+      <link>https://miculan.github.io/2019/09/qualche-statistica-su-reti-di-calcolatori-2018-19/</link>
+      <pubDate>Mon, 30 Sep 2019 15:50:53 +0000</pubDate>
+      <guid>https://miculan.github.io/2019/09/qualche-statistica-su-reti-di-calcolatori-2018-19/</guid>
+      <description>&lt;p&gt;Come di tradizione, adesso che si è chiuso anche l’ultimo appello di Reti di Calcolatori per l’A.A. 2018-19 possiamo fare qualche veloce analisi.&lt;/p&gt;
+&lt;p&gt;Nei cinque appelli del 2019 si sono iscritti ad almeno un appello 149 studenti (-13 rispetto al 2018; -8%), per complessive 271 iscrizioni (-39; -12,6%).&lt;br&gt;
+Si sono registrate 196 presenze agli scritti (-49; -20%), e sono stati consegnati 166 compiti (-36; -17,8%).&lt;br&gt;
+Di questi, dopo l’eventuale esame orale sono stati verbalizzati 90 esami (-7; -7,2%) (c’è molta variabilità tra un appello e l’altro).&lt;br&gt;
+Il voto medio è stato 21,3 (come l’anno scorso); il voto massimo è stato 30 e lode (molto meglio dell’anno scorso, quando non si è superato il 26).&lt;/p&gt;
+&lt;p&gt;Quindi possiamo dire che:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;lo Studente che si iscrive all’esame scritto ha una probabilità di registrare il voto pari a 90/271=33,2% (+1,9%), quindi lo Studente si iscrive mediamente 271/90 = 3 volte prima di superare l’esame&lt;/li&gt;
+&lt;li&gt;lo Studente che consegna lo scritto ha una probabilità di registrare il voto pari a 90/166=54% (+6,2%), quindi lo Studente deve consegnare mediamente 166/90 = 1,84 volte;&lt;/li&gt;
+&lt;li&gt;la probabilità che lo Studente superi l’esame di Reti di Calcolatori in un anno accademico è pari a 90/149=60,4% (+0,6%);&lt;/li&gt;
+&lt;li&gt;il “backlog” è di 149-90=59 studenti (-6).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tesi, Tirocini e Posizioni in Security presso Cybaze</title>
+      <link>https://miculan.github.io/2019/06/tesi-tirocini-e-posizioni-in-security-presso-cybaze/</link>
+      <pubDate>Thu, 13 Jun 2019 21:25:33 +0000</pubDate>
+      <guid>https://miculan.github.io/2019/06/tesi-tirocini-e-posizioni-in-security-presso-cybaze/</guid>
+      <description>&lt;p&gt;La 
+&lt;a href=&#34;https://cybaze.it&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybaze&lt;/a&gt; (che ha recentemente acquisito Emaze Networks) è disposta ad ospitare, presso la sede di Trieste, tesisti triennali interessati allo sbocco professionale come IT Security Analyst Consultant per Security Operation Center (SOC). Gli interessati dovranno sviluppare dei tool SW che sono funzionali all’attività degli analisti.&lt;/p&gt;
+&lt;p&gt;Inoltre, sono alla ricerca di giovani da avviare alla professione di IT Security Analyst Consultant per Security Operation Center (SOC) presso clienti a Milano e Roma. Le attività lavorative consistono in:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;L’analisi degli incidenti di sicurezza informatica, valutandone la gravità e l’impatto per una migliore gestione delle contromisure da adottare&lt;/li&gt;
+&lt;li&gt;La gestione dei Log Applicativi e correlazione degli eventi di sicurezza basate sulle piattaforme SIEM&lt;/li&gt;
+&lt;li&gt;Attività legate al mondo della sicurezza informatica, utilizzando i prodotti di mercato in campo antivirus, antispam, firewall, IDS, IPS, WAF&lt;/li&gt;
+&lt;li&gt;Conoscenza delle principali tipologie di attacchi informatici e tecniche identificazione e contrasto.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Sono richieste le seguenti competenze tecniche:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Conoscenza dei protocolli di networking e dei principali servizi di rete&lt;/li&gt;
+&lt;li&gt;Conoscenza delle principali metodologie e minacce dei sistemi informatici e delle reti&lt;/li&gt;
+&lt;li&gt;Conoscenza o pregressa esperienza dei principali strumenti di NIDS&lt;/li&gt;
+&lt;li&gt;Utilizzo di strumenti specifici nell’ambito dell’IT &amp;amp; Network Security&lt;/li&gt;
+&lt;li&gt;Conoscenza di uno o più linguaggi di Scripting: Shell Script; Python, Ruby, Perl, …&lt;/li&gt;
+&lt;li&gt;Conoscenza dei sistemi operativi Linux e Windows&lt;/li&gt;
+&lt;li&gt;Conoscenza o pregressa esperienza di una o più piattaforme SIEM leader di mercato&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Titoli preferenziali:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Una o più certificazioni tra CCNA e/o CCNA Security, SANS, Certified Ethical Hacker o analoghe&lt;/li&gt;
+&lt;li&gt;Buona conoscenza della lingua inglese scritta e parlata.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Gli interessati per le tesi o le posizioni lavorative, possono scrivere a &lt;a href=&#34;mailto:davide.varesano@cybaze.it&#34;&gt;davide.varesano@cybaze.it&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Internship at Electrolux GC&amp;T: ” Anomaly detection in embedded electronic systems”</title>
+      <link>https://miculan.github.io/2018/11/internship-at-electrolux/</link>
+      <pubDate>Wed, 07 Nov 2018 13:17:00 +0000</pubDate>
+      <guid>https://miculan.github.io/2018/11/internship-at-electrolux/</guid>
+      <description>&lt;p&gt;_Pubblico questa proposta di stage/tirocinio con tesi presso il team Global Connectivity and Technology (GC&amp;amp;T) della Electrolux (Porcia). La proposta di tirocinio è principalmente orientata a studenti della laurea magistrale in Informatica o Computer Science, ma anche studenti della laurea triennale adeguatamente motivati possono fare domanda. __Se siete interessati, contattatemi via email. _&lt;/p&gt;
+&lt;p&gt;In the IoT era, household appliances play a relevant role inside connectivity ecosystems thanks their diffusion on the market and their potential in terms of computational power compared to simple sensors. More than that a specific focus is on connectible appliances exploitation as a channel for cloud resourced applications. Connectible appliance has to be considered as an embedded electronic system with the typical computational capability of a household appliance plus a communication node.&lt;/p&gt;
+&lt;p&gt;The goal of this internship is to design and develop suitable techniques to monitor specific processes of the above mentioned embedded system (in particular the communication node), in order to promptly detect anomalies caused by unexpected faults or external attacks. Your research tasks will be integrated with running projects aimed at developing and validating solutions in the field of electronic embedded systems.&lt;/p&gt;
+&lt;p&gt;Main duties:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Literature review&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;font-size: 14px;&#34;&gt;Experimental phase:&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;font-size: 14px;&#34;&gt;Reference HW-FW analysis, Process characterization&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;font-size: 14px;&#34;&gt;Design of a potential solution&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;font-size: 14px;&#34;&gt;Development on a reference HW and FW&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;font-size: 14px;&#34;&gt;Final report.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The student will carry over the research tasks in Electrolux facility (GC&amp;amp;T Porcia (Pn)), under the responsibility of an academic scientific reference and an Electrolux tutor, within the collaboration between University of Udine and Electrolux.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Qualche statistica su Reti di Calcolatori 2017-18</title>
+      <link>https://miculan.github.io/2018/09/qualche-statistica-su-reti-di-calcolatori-2017-18/</link>
+      <pubDate>Tue, 25 Sep 2018 12:53:16 +0000</pubDate>
+      <guid>https://miculan.github.io/2018/09/qualche-statistica-su-reti-di-calcolatori-2017-18/</guid>
+      <description>&lt;p&gt;Come di tradizione, adesso che si è chiuso anche l’ultimo appello di Reti di Calcolatori per l’A.A. 2017-18 possiamo fare qualche veloce analisi.&lt;/p&gt;
+&lt;p&gt;Nei cinque appelli del 2018 si sono iscritti ad almeno un appello 162 studenti (+13 rispetto al 2017; 8,7%), per complessive 310 iscrizioni (+49; +18,7%).&lt;br&gt;
+Si sono registrate 245 presenze agli scritti (+41; +20%), e sono stati consegnati 202 compiti (+55; +37,4%).&lt;br&gt;
+Di questi, dopo l’eventuale esame orale sono stati verbalizzati 97 esami (+19; +24,3%) (c’è molta variabilità tra un appello e l’altro).&lt;br&gt;
+Il voto medio è stato 21,3; il voto massimo è stato 26.&lt;/p&gt;
+&lt;p&gt;Quindi possiamo dire che:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;lo Studente che si iscrive all’esame scritto ha una probabilità di registrare il voto pari a 97/310=31,29% (+1,41%), quindi lo Studente deve iscriversi mediamente 1/0,3129 = 3,2 volte;&lt;/li&gt;
+&lt;li&gt;lo Studente che consegna lo scritto ha una probabilità di registrare il voto pari a 97/202=48% (-5,1%), quindi lo Studente deve consegnare mediamente 1/0,48 = 2,1 volte;&lt;/li&gt;
+&lt;li&gt;la probabilità che lo Studente superi l’esame di Reti di Calcolatori in un anno accademico è pari a 97/162=59,8% (+7,5%);&lt;/li&gt;
+&lt;li&gt;il “backlog” è di 162-97=65 studenti (-6).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RIMANDATO! Seminario “Gestire la complessità dei moderni sistemi software: spaghetti, esagoni e alveari”</title>
+      <link>https://miculan.github.io/2018/01/seminario-gestire-la-complessita-dei-moderni-sistemi-software-spaghetti-esagoni-e-alveari/</link>
+      <pubDate>Tue, 16 Jan 2018 18:40:31 +0000</pubDate>
+      <guid>https://miculan.github.io/2018/01/seminario-gestire-la-complessita-dei-moderni-sistemi-software-spaghetti-esagoni-e-alveari/</guid>
+      <description>&lt;p&gt;Causa indisponibilità di uno dei relatori per motivi di salute, il seminario è RIMANDATO.&lt;/p&gt;
+&lt;p&gt;=======&lt;/p&gt;
+&lt;p&gt;Titolo: &lt;strong&gt;Gestire la complessità dei moderni sistemi software: spaghetti, esagoni e alveari&lt;/strong&gt;.&lt;br&gt;
+Luogo e data: DA FISSARE!&lt;br&gt;
+Relatori:&lt;br&gt;
+– Andrea Baruzzo (
+&lt;a href=&#34;http://users.dimi.uniud.it/~andrea.baruzzo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DMIF, UniUD&lt;/a&gt;)&lt;br&gt;
+– Giacomo Alzetta, Mauro Rocchi (
+&lt;a href=&#34;http://www.emaze.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;emaze Networks&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Il seminario discute un approccio metodologico alla costruzione di sistemi software complessi di media e grande dimensione, dove gli aspetti legati alla manutenibilità, alla gestione del debito tecnico e alla costruzione di architetture solide sono elementi chiave per la sostenibilità di un progetto. Nella prima parte dell’incontro vengono discusse alcune tecniche chiave come il Domain-Driven Design, il Design for Testability, i Microservizi e la scrittura di clean-code. La seconda parte, invece, fornisce alcuni spunti per implementare una soluzione in linea con l’approccio presentato, discutendo nel dettaglio un piccolo sottosistema di autenticazione degli utenti sviluppato in Kotlin.&lt;/p&gt;
+&lt;p&gt;Tutti gli interessati sono invitati a partecipare.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Qualche statistica su Reti di Calcolatori 2016-17</title>
+      <link>https://miculan.github.io/2017/10/qualche-statistica-su-reti-di-calcolatori-2016-17/</link>
+      <pubDate>Tue, 03 Oct 2017 12:42:32 +0000</pubDate>
+      <guid>https://miculan.github.io/2017/10/qualche-statistica-su-reti-di-calcolatori-2016-17/</guid>
+      <description>&lt;p&gt;Come di tradizione, adesso che si è chiuso anche l’ultimo appello di Reti di Calcolatori per l’A.A. 2016-17 possiamo fare qualche veloce analisi.&lt;/p&gt;
+&lt;p&gt;Nei cinque appelli del 2017 si sono iscritti ad almeno un appello 149 studenti (+5 rispetto al 2016; 3,5%), per complessive 261 iscrizioni (-13; -4,7%).&lt;br&gt;
+Si sono registrate 204 presenze agli scritti (-13; -6%), e sono stati consegnati 147 compiti (-10; -6,4%).&lt;br&gt;
+Di questi, dopo l’eventuale esame orale sono stati verbalizzati 78 esami (+0; +0%) (c’è molta variabilità tra un appello e l’altro).&lt;br&gt;
+Il voto medio è stato 20,71; il voto massimo è stato 30 (nessuna lode).&lt;/p&gt;
+&lt;p&gt;Quindi possiamo dire che:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;lo Studente che si iscrive all’esame scritto ha una probabilità di registrare il voto pari a 78/261=29,88% (-1,6%), quindi lo Studente deve iscriversi mediamente 1/0,2988 = 3,35 volte;&lt;/li&gt;
+&lt;li&gt;lo Studente che consegna lo scritto ha una probabilità di registrare il voto pari a 78/147=53,1% (+3,4%), quindi lo Studente deve consegnare mediamente 1/0,5306 = 1,88 volte;&lt;/li&gt;
+&lt;li&gt;la probabilità che lo Studente superi l’esame di Reti di Calcolatori in un anno accademico è pari a 78/149=52,34% (-1,8%);&lt;/li&gt;
+&lt;li&gt;il “backlog” è di 149-78=71 studenti (+5).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Qualche statistica su Reti di Calcolatori 2015-16</title>
+      <link>https://miculan.github.io/2016/09/qualche-statistica-su-reti-di-calcolatori-2015-16/</link>
+      <pubDate>Mon, 26 Sep 2016 12:19:31 +0000</pubDate>
+      <guid>https://miculan.github.io/2016/09/qualche-statistica-su-reti-di-calcolatori-2015-16/</guid>
+      <description>&lt;p&gt;Come di tradizione, adesso che si è chiuso anche l’ultimo appello di Reti di Calcolatori per l’A.A. 2015-16 possiamo fare qualche veloce analisi.&lt;/p&gt;
+&lt;p&gt;Nei cinque appelli del 2016 si sono iscritti ad almeno un appello 144 studenti (+37 rispetto al 2015, 34,6%), per complessive 248 iscrizioni (+56, 29,2%).&lt;br&gt;
+Si sono registrate 217 presenze agli scritti (+77, 55%), e sono stati consegnati 157 compiti (+37, 30,8%).&lt;br&gt;
+Di questi, dopo l’eventuale esame orale sono stati verbalizzati 78 esami (+22, +39%) (c’è molta variabilità tra un appello e l’altro).&lt;/p&gt;
+&lt;p&gt;Quindi possiamo dire che:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;lo Studente che si iscrive all’esame scritto ha una probabilità di registrare il voto pari a 78/248=31,45% (+2,2%), quindi lo Studente deve iscriversi mediamente 1/0,3145 = 3,18 volte;&lt;/li&gt;
+&lt;li&gt;lo Studente che consegna lo scritto ha una probabilità di registrare il voto pari a 78/157=49,7% (+3%), quindi lo Studente deve consegnare mediamente 1/0,497 = 2,01 volte;&lt;/li&gt;
+&lt;li&gt;la probabilità che lo Studente superi l’esame di Reti di Calcolatori in un anno accademico è pari a 78/144=54,16% (+1,8%);&lt;/li&gt;
+&lt;li&gt;il “backlog” è di 144-78=66 studenti (+15).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seminario “Sicurezza dell’Internet of Things in contesto industriale”</title>
+      <link>https://miculan.github.io/2016/01/seminario-iot-industriale/</link>
+      <pubDate>Mon, 18 Jan 2016 14:03:35 +0000</pubDate>
+      <guid>https://miculan.github.io/2016/01/seminario-iot-industriale/</guid>
+      <description>&lt;p&gt;Come di tradizione, a conclusione del corso di “Reti di Calcolatori” organizziamo un evento su Sicurezza Informatica.&lt;br&gt;
+L’argomento di quest’anno è &lt;strong&gt;Sicurezza dell’Internet of Things in contesto industriale&lt;/strong&gt;.&lt;br&gt;
+L’evento si terrà presso l’&lt;strong&gt;Aula Multimediale&lt;/strong&gt;, dalle 14:30 alle 16:30 di &lt;strong&gt;martedì 26 gennaio 2016&lt;/strong&gt;, con i seguenti relatori:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Francesco Cavasin (
+&lt;a href=&#34;http://www.horizonsecurity.it/IT/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Horizon Security&lt;/a&gt;, Sales Director &amp;amp; Advisory Board Member): Breve presentazione Horizon e temi sicurezza&lt;/li&gt;
+&lt;li&gt;Filippo Morgan (
+&lt;a href=&#34;http://www.horizonsecurity.it/IT/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Horizon Security&lt;/a&gt;, Security Consultant): 
+&lt;a href=&#34;https://miculan.github.io/~marino.miculan/wordpress/wp-content/uploads/2016/01/Horizon-IoT.pdf&#34;&gt;IoT Security e Sicurezza nel mondo Industriale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Andrea Vallavanti (
+&lt;a href=&#34;http://www.oltoffshore.it&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OLT Offshore Livorno Toscana&lt;/a&gt;, ICT Manager): Progetto Radio Link: sfide e rischi&lt;/li&gt;
+&lt;li&gt;Filippo Morgan: Dimostrazione di un incidente informatico in un ambiente IoT simulato&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Tutti gli interessati sono invitati a partecipare – e a girare il presente invito ad altri.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Qualche statistica su Reti di Calcolatori 2014-15</title>
+      <link>https://miculan.github.io/2015/09/qualche-statistica-su-reti-di-calcolatori-2014-15/</link>
+      <pubDate>Fri, 25 Sep 2015 22:11:33 +0000</pubDate>
+      <guid>https://miculan.github.io/2015/09/qualche-statistica-su-reti-di-calcolatori-2014-15/</guid>
+      <description>&lt;p&gt;Come di tradizione, adesso che si è chiuso anche l’ultimo appello di Reti di Calcolatori per l’A.A. 2014-15 possiamo fare qualche veloce analisi.&lt;/p&gt;
+&lt;p&gt;Nei cinque appelli del 2015, complessivamente si sono iscritti all’esame scritto 192 candidati (contando anche le ripetizioni). Si sono effettivamente presentati allo scritto 140 candidati, e sono stati consegnati 120 compiti. Di questi, dopo l’eventuale esame orale sono stati verbalizzati 56 esami (Nota: c’è molta variabilità tra un appello e l’altro).&lt;br&gt;
+Quindi, approssimativamente, per ogni appello:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;lo Studente che si iscrive all’esame scritto ha una probabilità di registrare il voto pari a&lt;img src=&#39;http://s0.wp.com/latex.php?latex=p_1%3D56%2F192%3D29%2C2%5C%25&amp;#038;bg=ffffff&amp;#038;fg=000000&amp;#038;s=0&#39; alt=&#39;p_1=56/192=29,2\%&#39; title=&#39;p_1=56/192=29,2\%&#39; class=&#39;latex&#39; /&gt;&lt;/li&gt;
+&lt;li&gt;lo Studente che consegna lo scritto ha una probabilità di registrare il voto pari a&lt;img src=&#39;http://s0.wp.com/latex.php?latex=p_2%3D56%2F120%3D46%2C7%5C%25&amp;#038;bg=ffffff&amp;#038;fg=000000&amp;#038;s=0&#39; alt=&#39;p_2=56/120=46,7\%&#39; title=&#39;p_2=56/120=46,7\%&#39; class=&#39;latex&#39; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Quindi, al fine di passare l’esame di Reti di Calcolatori:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;lo Studente deve iscriversi mediamente 1/0,292 = 3,43 volte;&lt;/li&gt;
+&lt;li&gt;lo Studente deve consegnare mediamente 1/0,467 = 2,14 volte.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seminario “Security and Secure Coding”</title>
+      <link>https://miculan.github.io/2015/05/seminario-business-e-network-security/</link>
+      <pubDate>Thu, 21 May 2015 11:40:18 +0000</pubDate>
+      <guid>https://miculan.github.io/2015/05/seminario-business-e-network-security/</guid>
+      <description>&lt;p&gt;Il giorno venerdì 29 maggio 2015 alle ore 10.30 in aula 12, Davide Varesano di 
+&lt;a href=&#34;https://www.emaze.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eMaze&lt;/a&gt; terrà un intervento dal titolo &lt;em&gt;Security and Secure Coding&lt;/em&gt; all’interno del corso di “Sistemi Distribuiti”, riguardante aspetti di sicurezza informatica a livello industriale. L’intervento è rivolto a tutto gli studenti di Reti di Calcolatori, Sistemi Operativi, Sistemi Distribuiti, ecc.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seminario “Business Security: Wireless and Industrial Security”</title>
+      <link>https://miculan.github.io/2015/01/678/</link>
+      <pubDate>Thu, 08 Jan 2015 10:20:17 +0000</pubDate>
+      <guid>https://miculan.github.io/2015/01/678/</guid>
+      <description>&lt;p&gt;Come di tradizione, a conclusione del corso di “Reti di Calcolatori” organizziamo un evento su Sicurezza Informatica.&lt;br&gt;
+L’argomento di quest’anno è &lt;strong&gt;Business Security: Wireless and Industrial Security&lt;/strong&gt;.&lt;br&gt;
+L’evento si terrà presso le &lt;strong&gt;Aule Beta1 e Beta2&lt;/strong&gt;, dalle 14:30 alle 16:30 di &lt;strong&gt;mercoledì 21 gennaio 2015&lt;/strong&gt;, e vedrà il contributo dei seguenti relatori:&lt;/p&gt;
+&lt;p&gt;Alan Ferrario, 
+&lt;a href=&#34;http://www.horizonsecurity.it/IT/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Horizon Security&lt;/a&gt;: &lt;em&gt;WiFi: History and security&lt;/em&gt;&lt;br&gt;
+Alessandro Marzi, 
+&lt;a href=&#34;http://www.eni.com/it_IT/home.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ENI&lt;/a&gt;: &lt;em&gt;Industrial Plant: Security at a glance&lt;/em&gt;&lt;br&gt;
+Filippo Morgan, 
+&lt;a href=&#34;http://www.horizonsecurity.it/IT/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Horizon Security&lt;/a&gt;: &lt;em&gt;Live Demo: Your WiFi is my WiFi!&lt;/em&gt; Le slide sono disponibili a 
+&lt;a href=&#34;https://miculan.github.io/~marino.miculan/wordpress/wp-content/uploads/2015/01/WiFi_Morgan.pdf&#34;&gt;questo link&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Tutti gli interessati sono invitati a partecipare – e a girare il presente invito ad altri.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Esercitazione di Reti di Calcolatori</title>
+      <link>https://miculan.github.io/2015/01/esercitazione-di-reti-di-calcolatori/</link>
+      <pubDate>Mon, 05 Jan 2015 14:26:31 +0000</pubDate>
+      <guid>https://miculan.github.io/2015/01/esercitazione-di-reti-di-calcolatori/</guid>
+      <description>&lt;p&gt;Come annunciato alla fine del corso, in vista dell’esame di Reti di Calcolatori si terrà una lezione extra il 12 gennaio 2015 (alle 10.30 in aula I, come al solito). In tale lezione verranno svolte esercitazioni su esercizi degli esami scorsi, specialmente sulla terza parte (sicurezza delle reti).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Orario ultime lezioni di Reti di Calcolatori</title>
+      <link>https://miculan.github.io/2014/12/orario-ultime-lezioni-reti/</link>
+      <pubDate>Mon, 15 Dec 2014 13:17:23 +0000</pubDate>
+      <guid>https://miculan.github.io/2014/12/orario-ultime-lezioni-reti/</guid>
+      <description>&lt;p&gt;Come annunciato oggi, per terminare le lezioni del corso di Reti di Calcolatori prima di Natale, recupereremo alcune ore il giorno lunedì 22 dicembre. Pertanto, l’orario delle prossime lezioni sarà il seguente:&lt;br&gt;
+– martedì 16 dicembre, 14.30-16.30 in aula 5 (come sempre)&lt;br&gt;
+– mercoledì 17 dicembre, 16.30-18.30 in aula Beta 2&lt;br&gt;
+– giovedì 18 dicembre, 8.30-10.30 in aula I (come sempre)&lt;br&gt;
+– lunedì 22 dicembre, 9.00-11.00 in aula I&lt;br&gt;
+– lunedì 22 dicembre, 11.30-13.30 in aula I (quasi come sempre)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Assenza 26-28 novembre</title>
+      <link>https://miculan.github.io/2014/11/assenza-26-28-novembre/</link>
+      <pubDate>Sun, 23 Nov 2014 22:49:11 +0000</pubDate>
+      <guid>https://miculan.github.io/2014/11/assenza-26-28-novembre/</guid>
+      <description>&lt;p&gt;Causa missione fuori sede, sarò assente dal 26 novembre pomeriggio al 27, e forse anche 28 novembre. La lezione di Reti di Calcolatori del 27 novembre quindi non si terrà, e verrà recuperata in data da destinarsi.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slot per recuperi lezioni di Reti di Calcolatori</title>
+      <link>https://miculan.github.io/2014/11/slot-per-recuperi-lezioni-di-reti-di-calcolatori/</link>
+      <pubDate>Tue, 18 Nov 2014 17:44:21 +0000</pubDate>
+      <guid>https://miculan.github.io/2014/11/slot-per-recuperi-lezioni-di-reti-di-calcolatori/</guid>
+      <description>&lt;p&gt;Come detto in aula oggi, per riuscire a finire il corso entro dicembre dobbiamo recuperare alcune lezioni. La segreteria ci ha allocato il &lt;strong&gt;mercoledì, ore 16.30-18.30&lt;/strong&gt; in Aula Beta2, come slot per eventuali recuperi. Il primo di questo sarà domani, 19 novembre; altri eventuali verranno comunicati a tempo debito, su questa pagina. State in campana!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recupero lezione di Reti di Calcolatori</title>
+      <link>https://miculan.github.io/2014/10/recupero-lezione-di-reti-di-calcolatori/</link>
+      <pubDate>Thu, 23 Oct 2014 15:43:41 +0000</pubDate>
+      <guid>https://miculan.github.io/2014/10/recupero-lezione-di-reti-di-calcolatori/</guid>
+      <description>&lt;p&gt;Al fine di terminare le lezioni prima della pausa natalizia, è necessario recuperare una lezione a breve. Pertanto, vista la disponibilità di aule e l’assenza di altre lezioni del terzo anno, il giorno &lt;strong&gt;giovedì 30 ottobre&lt;/strong&gt; ci saranno 2 lezioni di Reti di calcolatori:&lt;br&gt;
+– ore 8.30-10.15&lt;br&gt;
+– ore 13.00-14.30&lt;br&gt;
+sempre in Aula I. La seconda lezione inizia alle 13 e non alle 12.30 per lasciare lo spazio per un rapido pasto (per chi non ha ancora perso il vizio di mangiare).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seminario “Business Security: Botnet and Data Protection”</title>
+      <link>https://miculan.github.io/2014/03/botnetanddataprotection/</link>
+      <pubDate>Fri, 07 Mar 2014 13:05:06 +0000</pubDate>
+      <guid>https://miculan.github.io/2014/03/botnetanddataprotection/</guid>
+      <description>&lt;p&gt;All’interno (e di seguito) del corso di “Reti di Calcolatori”, abbiamo organizzato un evento su Sicurezza Informatica, e precisamente su &lt;strong&gt;Business Security: Botnet and Data Protection&lt;/strong&gt;.&lt;br&gt;
+L’evento si terrà presso l’Aula Multimediale del DIMI, dalle 14:30 alle 16:30 di &lt;strong&gt;mercoledì 19 marzo 2014&lt;/strong&gt;, e vedrà il contributo dei seguenti relatori:&lt;/p&gt;
+&lt;p&gt;Alessandro Re, Horizon Security: &lt;em&gt;The attacker: How to catch a bot!&lt;/em&gt;&lt;br&gt;
+Alberto Gramegna, Pirelli: &lt;em&gt;The Real Life of an IT Security Manager&lt;/em&gt;&lt;br&gt;
+Filippo Morgan, Horizon Security: &lt;em&gt;Botnet: Topologies and Black Market&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Tutti gli interessati sono invitati a partecipare – e a girare il presente invito ad altri.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reti di Calcolatori</title>
+      <link>https://miculan.github.io/reti-di-calcolatori/</link>
+      <pubDate>Wed, 29 Feb 2012 14:50:59 +0000</pubDate>
+      <guid>https://miculan.github.io/reti-di-calcolatori/</guid>
+      <description>&lt;p&gt;(For the original version, also in English, see the 
+&lt;a href=&#34;https://www.dmif.uniud.it/didattica/triennali/informatica/2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;official page on the Faculty website&lt;/a&gt;)&lt;/p&gt;
+&lt;h2 id=&#34;docenti&#34;&gt;Docenti&lt;/h2&gt;
+&lt;p&gt;Prof. Marino Miculan&lt;/p&gt;
+&lt;h2 id=&#34;crediti&#34;&gt;Crediti&lt;/h2&gt;
+&lt;p&gt;9 CFU&lt;/p&gt;
+&lt;h2 id=&#34;finalità&#34;&gt;Finalità&lt;/h2&gt;
+&lt;p&gt;Scopo del corso è introdurre i concetti fondamentali delle moderne reti di calcolatori, e fornire allo studente le necessarie conoscenze per affrontare l’analisi e lo studio di una rete. In particolare verranno presentate le caratteristiche generali delle reti, i modelli ISO/OSI e TCP/IP, e le problematiche affrontate dai principali protocolli ad ogni livello di questi modelli. Inoltre vengono affrontate le problematiche di sicurezza delle comunicazioni tra calcolatori; a questo scopo, verranno introdotti anche alcune nozioni di crittografia.&lt;/p&gt;
+&lt;h2 id=&#34;programma&#34;&gt;Programma&lt;/h2&gt;
+&lt;dl&gt;
+&lt;dt&gt;Principi fondamentali&lt;/dt&gt;
+&lt;dd&gt;Applicazioni delle reti. Requisiti. Architettura di rete. Implementazione di software di rete. Prestazioni&lt;/dd&gt;
+&lt;dt&gt;Connessione a una rete&lt;/dt&gt;
+&lt;dd&gt;Panoramica sulle connessioni ad una rete. Codifiche. Tramatura. Rilevazione d’errore. Trasmissione affidabile. Reti ad accesso multiplo. Reti wireless.&lt;/dd&gt;
+&lt;dt&gt;Interconnessione di reti&lt;/dt&gt;
+&lt;dd&gt;Commutazione e bridging. Semplice interconnessione di reti. Instradamento. Instradamento interdominio. Implementazione e prestazioni. Multicast.&lt;/dd&gt;
+&lt;dt&gt;Protocolli di trasporto&lt;/dt&gt;
+&lt;dd&gt;Comunicazione tra processi. Demultiplexing. Flusso affidabile. Prestazioni&lt;/dd&gt;
+&lt;dt&gt;Controllo della congestione&lt;/dt&gt;
+&lt;dd&gt;Allocazione delle risorse. Politiche di gestione delle code. Controllo della congestione in TCP. Prevenzione della congestione.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;!-- dt&gt;Rappresentazione dei dati&lt;/dt&gt;
+
+
+ 	
+
+&lt;dd&gt;Formato di presentazione. Dati multimediali: formati lossless, lossy.&lt;/dd --&gt;
+&lt;dl&gt;
+&lt;dt&gt;Sicurezza delle reti&lt;/dt&gt;
+&lt;dd&gt;Aspetti generali. Goal di sicurezza. Tipi di attacchi. Servizi di sicurezza. Meccanismi di sicurezza. Il modello Dolev-Yao. Collocazione dei meccanismi di sicurezza ai vari livelli dello stack OSI. Cenni di crittografia. Crittografia a chiave simmetrica, cifrari AES, RC4. Cifratura a chiave pubblica, cifrario RSA. Autenticazione e integrità dei messaggi. Firme digitali. Servizi di sicurezza per email. Autenticazione di entità. Protocolli di autenticazione. Kerberos. Algoritmo Diffie-Hellman per la creazione di chiavi condivise. Certificati. X.509, PKI. Sicurezza ai livelli di trasporto. SSL/TLS. Sicurezza a livello rete. IPSec. Modi di funzionamento. Virtual Private Networks.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;h2 id=&#34;bibliografia&#34;&gt;Bibliografia&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Larry L. Peterson, Bruce S. Davie, “Reti di calcolatori, 3a ed.”. Apogeo, 2012.&lt;/li&gt;
+&lt;li&gt;In alternativa: A. Tanenbaum, D. Wetherall, “Reti di calcolatori, 5a ed.”. Pearson, 2011.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;programma-preliminare-per-l8217aa-2018-19&#34;&gt;Programma preliminare per l’A.A. 2018-19&lt;/h2&gt;
+&lt;p&gt;Il programma coprirà le seguenti parti del libro di testo Peterson-Davie:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cap. 1: tutto.&lt;/li&gt;
+&lt;li&gt;Cap. 2: tutto tranne 2.3.3&lt;/li&gt;
+&lt;li&gt;Cap. 3: tutto tranne ATM e 3.2.9 (Reti virtuali).&lt;/li&gt;
+&lt;li&gt;Cap. 4: solo 4.1 e 4.2.&lt;/li&gt;
+&lt;li&gt;Cap. 5: solo 5.1 e 5.2 tranne Karn/Partdrige, Jacobsen/Karels, 5.2.8, 5.2.10.&lt;/li&gt;
+&lt;li&gt;Cap. 6: solo 6.1, 6.2, 6.3, 6.4.2.&lt;/li&gt;
+&lt;li&gt;Cap. 8: 8.1, 8.2, 8.3, 8.4. Attenzione che a lezione è stato trattato più materiale, quindi bisogna integrare il testo con le slide e gli appunti presi a lezione.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;modalità-d8217esame&#34;&gt;Modalità d’esame&lt;/h2&gt;
+&lt;p&gt;L’esame si compone di una prova scritta e di una eventuale prova orale.&lt;br&gt;
+Per sostenere la prova scritta è necessario iscriversi all’appello tre giorni prima della prova. Non è necessario iscriversi all’orale corrispondente: l’iscrizione alla prova orale è automatica per chi vi è ammesso.&lt;/p&gt;
+&lt;p&gt;La prova scritta richiede di svolgere alcuni esercizi inerenti gli argomenti del Corso e rispondere ad alcune domande teoriche. Sul sito 
+&lt;a href=&#34;http://materialedidattico.uniud.it&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;materiale didattico&lt;/a&gt;, nella sezione dedicata al corso “Reti di calcolatori”, è possibile reperire i testi degli esami scritti passati, con le soluzioni.&lt;/p&gt;
+&lt;p&gt;La prova orale è obbligatoria solo per discriminare le “situazioni di confine”, ossia per chi ha conseguito allo scritto un voto tra 17 e 19 compresi, oppure maggiore o uguale a 28. Con un voto inferiore a 17 non si è ammessi all’orale.&lt;br&gt;
+L’orale consiste in due-tre domande e può variare il voto dello scritto al massimo di un paio di punti (in più, ma anche in meno).&lt;/p&gt;
+&lt;p&gt;Gli studenti che hanno nel proprio piano di studi l’esame da 6 CFU possono sostenere l’esame da 9 CFU (comprendente quindi anche la parte di Sicurezza), utilizzando 3 crediti tra quelli a scelta dello studente. Chi vuole avvalersi di tale possibilità deve chiedere in Segreteria di inserire l’insegnamento di “Reti di Calcolatori (iterazione)” per 3 CFU, e deve comunicarmelo al momento dell’iscrizione su Esse3 all’appello d’esame usando l’apposito campo “Note”.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

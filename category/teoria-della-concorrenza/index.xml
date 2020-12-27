@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teoria della Concorrenza | Marino Miculan</title>
+    <link>https://miculan.github.io/category/teoria-della-concorrenza/</link>
+      <atom:link href="https://miculan.github.io/category/teoria-della-concorrenza/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teoria della Concorrenza</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Mon, 19 Sep 2016 12:23:58 +0000</lastBuildDate>
+    <image>
+      <url>https://miculan.github.io/images/icon_hucd11276fae71caa54a4868a16e56c065_1592_512x512_fill_lanczos_center_2.png</url>
+      <title>Teoria della Concorrenza</title>
+      <link>https://miculan.github.io/category/teoria-della-concorrenza/</link>
+    </image>
+    
+    <item>
+      <title>Seminario-Esame per Teoria della Concorrenza</title>
+      <link>https://miculan.github.io/2016/09/seminario-teoria-concorrenza/</link>
+      <pubDate>Mon, 19 Sep 2016 12:23:58 +0000</pubDate>
+      <guid>https://miculan.github.io/2016/09/seminario-teoria-concorrenza/</guid>
+      <description>&lt;p&gt;Giovedì 22 settembre, dalle 10:30 alle 11:30 circa, in Sala Riunioni del DIMA (ex DIMI, futuro DMIF), si terrà il seguente seminario-esame per il corso di Teoria della Concorrenza:&lt;/p&gt;
+&lt;p&gt;– &lt;em&gt;Giacomo Alzetta&lt;/em&gt;: &lt;strong&gt;Verifying privacy-type properties of electronic voting protocols&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tutti gli interessati sono invitati a partecipare.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seminari-Esame per Teoria della Concorrenza</title>
+      <link>https://miculan.github.io/2016/07/esami-teoria-della-concorrenza/</link>
+      <pubDate>Mon, 11 Jul 2016 14:52:49 +0000</pubDate>
+      <guid>https://miculan.github.io/2016/07/esami-teoria-della-concorrenza/</guid>
+      <description>&lt;p&gt;Venerdì 15 luglio, dalle 9:00 alle 13:00 circa, in Sala Riunioni del DIMA (ex DIMI, futuro DMIF), si terranno i seguenti seminari-esame per il corso di Teoria della Concorrenza:&lt;/p&gt;
+&lt;p&gt;– &lt;em&gt;Alessio Mansutti&lt;/em&gt;: &lt;strong&gt;Decidibilità della hedged bisimulation per lo spi calculus&lt;/strong&gt;&lt;br&gt;
+– &lt;em&gt;Alexandru Pruteanu&lt;/em&gt;: &lt;strong&gt;Modelli per sistemi transazionali&lt;/strong&gt;&lt;br&gt;
+– &lt;em&gt;Federico Igne&lt;/em&gt;: &lt;strong&gt;Modelli per la programmazione ad attori&lt;/strong&gt;&lt;br&gt;
+– &lt;em&gt;Luca Geatti&lt;/em&gt;: &lt;strong&gt;Modelli per la Systems Biology&lt;/strong&gt;&lt;br&gt;
+– &lt;em&gt;Davide Martincigh&lt;/em&gt;: &lt;strong&gt;Semantiche quantitative per calcoli con aspetti probabilistici e stocastici&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tutti gli interessati sono invitati a partecipare.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seminario “Security and Secure Coding”</title>
+      <link>https://miculan.github.io/2015/05/seminario-business-e-network-security/</link>
+      <pubDate>Thu, 21 May 2015 11:40:18 +0000</pubDate>
+      <guid>https://miculan.github.io/2015/05/seminario-business-e-network-security/</guid>
+      <description>&lt;p&gt;Il giorno venerdì 29 maggio 2015 alle ore 10.30 in aula 12, Davide Varesano di 
+&lt;a href=&#34;https://www.emaze.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eMaze&lt;/a&gt; terrà un intervento dal titolo &lt;em&gt;Security and Secure Coding&lt;/em&gt; all’interno del corso di “Sistemi Distribuiti”, riguardante aspetti di sicurezza informatica a livello industriale. L’intervento è rivolto a tutto gli studenti di Reti di Calcolatori, Sistemi Operativi, Sistemi Distribuiti, ecc.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Esame Francescon per Teoria della Concorrenza</title>
+      <link>https://miculan.github.io/2015/03/esame-francescon-per-teoria-della-concorrenza/</link>
+      <pubDate>Thu, 12 Mar 2015 11:07:41 +0000</pubDate>
+      <guid>https://miculan.github.io/2015/03/esame-francescon-per-teoria-della-concorrenza/</guid>
+      <description>&lt;p&gt;Luca Francescon terrà il seminario-esame del corso di Teoria della Concorrenza il giorno martedì 17 marzo ore 14:00 in Aula Multimediale del DiMI.&lt;br&gt;
+Francescon ci parlerà di &lt;em&gt;Timing attack: automated analysis and prevention&lt;/em&gt;, ossia sui modelli per attacchi di sicurezza basati su aspetti temporali, e la loro applicazione.&lt;/p&gt;
+&lt;p&gt;Tutti gli studenti del corso di Teoria della Concorrenza sono &lt;em&gt;invitati&lt;/em&gt; a partecipare, e a girare l’invito ad altre persone interessate.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Esame Foschiano per Teoria della Concorrenza</title>
+      <link>https://miculan.github.io/2014/12/foschiano-tdc/</link>
+      <pubDate>Mon, 15 Dec 2014 16:05:14 +0000</pubDate>
+      <guid>https://miculan.github.io/2014/12/foschiano-tdc/</guid>
+      <description>&lt;p&gt;Andrea Foschiano terrà il seminario-esame del corso di Teoria della Concorrenza il giorno venerdì 19 dicembre ore 9:00 in Sala Riunioni del DiMI.&lt;br&gt;
+Foschiano ci parlerà di &lt;em&gt;Making random choices invisible to the scheduler&lt;/em&gt;, ossia come la schedulazione può estrarre informazioni dai processi, e su come evitarlo.&lt;/p&gt;
+&lt;p&gt;Tutti gli studenti del corso di Teoria della Concorrenza sono &lt;em&gt;invitati&lt;/em&gt; a partecipare (non mi risulta che ci siano lezioni in sovrapposizione), e a girare l’invito ad altre persone interessate.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seminario Filippo Bonchi su  “Coinduction Up-To (and some applications to equivalence checking)”</title>
+      <link>https://miculan.github.io/2014/05/seminario-bonchi-coinduction-up-to/</link>
+      <pubDate>Mon, 26 May 2014 20:46:28 +0000</pubDate>
+      <guid>https://miculan.github.io/2014/05/seminario-bonchi-coinduction-up-to/</guid>
+      <description>&lt;p&gt;Mercoledì 28 maggio alle 9:30 in Sala Riunioni del DiMI, il dott. 
+&lt;a href=&#34;http://perso.ens-lyon.fr/filippo.bonchi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Filippo Bonchi&lt;/a&gt;, Chargé de Recherche CNRS presso l’Ecole Normale Supérieure di Lione, terrà il seguente seminario riguardante recenti suoi risultati:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Coinduction Up-To (and some applications to equivalence checking)&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Abstract: Coinduction proof principles, and their enhancements by means of up-to techniques, are widely used for reasoning about automata and processes. In this talk, I will consider bisimulation up-to congruence as a technique for proving language equivalence of non-deterministic finite automata. This technique can be effectively implemented in an algorithm that exponentially improves the state of the art.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Tutti gli interessati sono invitati a partecipare.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

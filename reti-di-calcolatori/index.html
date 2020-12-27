@@ -1,0 +1,965 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
+
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Marino Miculan">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="(For the original version, also in English, see the official page on the Faculty website)
+Docenti Prof. Marino Miculan
+Crediti 9 CFU
+Finalità Scopo del corso è introdurre i concetti fondamentali delle moderne reti di calcolatori, e fornire allo studente le necessarie conoscenze per affrontare l’analisi e lo studio di una rete.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://miculan.github.io/reti-di-calcolatori/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+
+  
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+    
+      
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+    
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+  
+
+
+  
+  
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hucd11276fae71caa54a4868a16e56c065_1592_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hucd11276fae71caa54a4868a16e56c065_1592_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="https://miculan.github.io/reti-di-calcolatori/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="Marino Miculan">
+  <meta property="og:url" content="https://miculan.github.io/reti-di-calcolatori/">
+  <meta property="og:title" content="Reti di Calcolatori | Marino Miculan">
+  <meta property="og:description" content="(For the original version, also in English, see the official page on the Faculty website)
+Docenti Prof. Marino Miculan
+Crediti 9 CFU
+Finalità Scopo del corso è introdurre i concetti fondamentali delle moderne reti di calcolatori, e fornire allo studente le necessarie conoscenze per affrontare l’analisi e lo studio di una rete."><meta property="og:image" content="https://miculan.github.io/images/icon_hucd11276fae71caa54a4868a16e56c065_1592_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="https://miculan.github.io/images/icon_hucd11276fae71caa54a4868a16e56c065_1592_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2012-02-29T14:50:59&#43;00:00">
+    
+    <meta property="article:modified_time" content="2012-02-29T14:50:59&#43;00:00">
+  
+
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>Reti di Calcolatori | Marino Miculan</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class=" ">
+
+  
+  
+  
+    <script>window.staDarkLightChooser = true;</script>
+  
+  
+    <script>const isSiteThemeDark = false;</script>
+  
+  
+  <script src="/js/load-theme.js"></script>
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Marino Miculan</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Marino Miculan</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span></span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/news-events"><span>News & Events</span></a>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Research</span><span class="caret"></span>
+          </a>
+          <div class="dropdown-menu">
+            
+              <a class="dropdown-item" href="/research/"><span>Research </span></a>
+            
+              <a class="dropdown-item" href="/conferences/"><span>Conferences</span></a>
+            
+              <a class="dropdown-item" href="/projects/"><span>Projects</span></a>
+            
+              <a class="dropdown-item" href="/positions/"><span>Positions</span></a>
+            
+              <a class="dropdown-item" href="/publications/"><span>Publications</span></a>
+            
+          </div>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Teaching/Didattica</span><span class="caret"></span>
+          </a>
+          <div class="dropdown-menu">
+            
+              <a class="dropdown-item" href="/teaching/"><span>Teaching/Didattica </span></a>
+            
+              <a class="dropdown-item" href="/reti-di-calcolatori/"><span>Reti di Calcolatori</span></a>
+            
+              <a class="dropdown-item" href="/sistemi-distribuiti/"><span>Sistemi Distribuiti</span></a>
+            
+              <a class="dropdown-item" href="/scambi-erasmus/"><span>Scambi Erasmus+</span></a>
+            
+              <a class="dropdown-item" href="/people/"><span>Students</span></a>
+            
+          </div>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/laboratoritesi/"><span>Laboratori & Tesi</span></a>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Downloads</span><span class="caret"></span>
+          </a>
+          <div class="dropdown-menu">
+            
+              <a class="dropdown-item" href="/downloads/"><span>Downloads </span></a>
+            
+              <a class="dropdown-item" href="/cofe/"><span>(Complete) Ordered Families of Equivalences</span></a>
+            
+              <a class="dropdown-item" href="/minipackage-per-tesi-in-latex/"><span>THUD - Minipackage LaTeX</span></a>
+            
+              <a class="dropdown-item" href="/erlang-coq-synthesizer/"><span>The Erlang-Coq Synthesizer Tool (ECS)</span></a>
+            
+          </div>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/prova/"><span>ProvaLatex</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-palette" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+
+  <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Reti di Calcolatori</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/didattica/">Didattica</a>, <a href="/category/reti-di-calcolatori/">Reti di Calcolatori</a></span>
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>(For the original version, also in English, see the 
+<a href="https://www.dmif.uniud.it/didattica/triennali/informatica/2018/" target="_blank" rel="noopener">official page on the Faculty website</a>)</p>
+<h2 id="docenti">Docenti</h2>
+<p>Prof. Marino Miculan</p>
+<h2 id="crediti">Crediti</h2>
+<p>9 CFU</p>
+<h2 id="finalità">Finalità</h2>
+<p>Scopo del corso è introdurre i concetti fondamentali delle moderne reti di calcolatori, e fornire allo studente le necessarie conoscenze per affrontare l’analisi e lo studio di una rete. In particolare verranno presentate le caratteristiche generali delle reti, i modelli ISO/OSI e TCP/IP, e le problematiche affrontate dai principali protocolli ad ogni livello di questi modelli. Inoltre vengono affrontate le problematiche di sicurezza delle comunicazioni tra calcolatori; a questo scopo, verranno introdotti anche alcune nozioni di crittografia.</p>
+<h2 id="programma">Programma</h2>
+<dl>
+<dt>Principi fondamentali</dt>
+<dd>Applicazioni delle reti. Requisiti. Architettura di rete. Implementazione di software di rete. Prestazioni</dd>
+<dt>Connessione a una rete</dt>
+<dd>Panoramica sulle connessioni ad una rete. Codifiche. Tramatura. Rilevazione d’errore. Trasmissione affidabile. Reti ad accesso multiplo. Reti wireless.</dd>
+<dt>Interconnessione di reti</dt>
+<dd>Commutazione e bridging. Semplice interconnessione di reti. Instradamento. Instradamento interdominio. Implementazione e prestazioni. Multicast.</dd>
+<dt>Protocolli di trasporto</dt>
+<dd>Comunicazione tra processi. Demultiplexing. Flusso affidabile. Prestazioni</dd>
+<dt>Controllo della congestione</dt>
+<dd>Allocazione delle risorse. Politiche di gestione delle code. Controllo della congestione in TCP. Prevenzione della congestione.</dd>
+</dl>
+<!-- dt>Rappresentazione dei dati</dt>
+
+
+ 	
+
+<dd>Formato di presentazione. Dati multimediali: formati lossless, lossy.</dd -->
+<dl>
+<dt>Sicurezza delle reti</dt>
+<dd>Aspetti generali. Goal di sicurezza. Tipi di attacchi. Servizi di sicurezza. Meccanismi di sicurezza. Il modello Dolev-Yao. Collocazione dei meccanismi di sicurezza ai vari livelli dello stack OSI. Cenni di crittografia. Crittografia a chiave simmetrica, cifrari AES, RC4. Cifratura a chiave pubblica, cifrario RSA. Autenticazione e integrità dei messaggi. Firme digitali. Servizi di sicurezza per email. Autenticazione di entità. Protocolli di autenticazione. Kerberos. Algoritmo Diffie-Hellman per la creazione di chiavi condivise. Certificati. X.509, PKI. Sicurezza ai livelli di trasporto. SSL/TLS. Sicurezza a livello rete. IPSec. Modi di funzionamento. Virtual Private Networks.</dd>
+</dl>
+<h2 id="bibliografia">Bibliografia</h2>
+<ol>
+<li>Larry L. Peterson, Bruce S. Davie, “Reti di calcolatori, 3a ed.”. Apogeo, 2012.</li>
+<li>In alternativa: A. Tanenbaum, D. Wetherall, “Reti di calcolatori, 5a ed.”. Pearson, 2011.</li>
+</ol>
+<h2 id="programma-preliminare-per-l8217aa-2018-19">Programma preliminare per l’A.A. 2018-19</h2>
+<p>Il programma coprirà le seguenti parti del libro di testo Peterson-Davie:</p>
+<ul>
+<li>Cap. 1: tutto.</li>
+<li>Cap. 2: tutto tranne 2.3.3</li>
+<li>Cap. 3: tutto tranne ATM e 3.2.9 (Reti virtuali).</li>
+<li>Cap. 4: solo 4.1 e 4.2.</li>
+<li>Cap. 5: solo 5.1 e 5.2 tranne Karn/Partdrige, Jacobsen/Karels, 5.2.8, 5.2.10.</li>
+<li>Cap. 6: solo 6.1, 6.2, 6.3, 6.4.2.</li>
+<li>Cap. 8: 8.1, 8.2, 8.3, 8.4. Attenzione che a lezione è stato trattato più materiale, quindi bisogna integrare il testo con le slide e gli appunti presi a lezione.</li>
+</ul>
+<h2 id="modalità-d8217esame">Modalità d’esame</h2>
+<p>L’esame si compone di una prova scritta e di una eventuale prova orale.<br>
+Per sostenere la prova scritta è necessario iscriversi all’appello tre giorni prima della prova. Non è necessario iscriversi all’orale corrispondente: l’iscrizione alla prova orale è automatica per chi vi è ammesso.</p>
+<p>La prova scritta richiede di svolgere alcuni esercizi inerenti gli argomenti del Corso e rispondere ad alcune domande teoriche. Sul sito 
+<a href="http://materialedidattico.uniud.it" target="_blank" rel="noopener">materiale didattico</a>, nella sezione dedicata al corso “Reti di calcolatori”, è possibile reperire i testi degli esami scritti passati, con le soluzioni.</p>
+<p>La prova orale è obbligatoria solo per discriminare le “situazioni di confine”, ossia per chi ha conseguito allo scritto un voto tra 17 e 19 compresi, oppure maggiore o uguale a 28. Con un voto inferiore a 17 non si è ammessi all’orale.<br>
+L’orale consiste in due-tre domande e può variare il voto dello scritto al massimo di un paio di punti (in più, ma anche in meno).</p>
+<p>Gli studenti che hanno nel proprio piano di studi l’esame da 6 CFU possono sostenere l’esame da 9 CFU (comprendente quindi anche la parte di Sicurezza), utilizzando 3 crediti tra quelli a scelta dello studente. Chi vuole avvalersi di tale possibilità deve chiedere in Segreteria di inserire l’insegnamento di “Reti di Calcolatori (iterazione)” per 3 CFU, e deve comunicarmelo al momento dell’iscrizione su Esse3 all’appello d’esame usando l’apposito campo “Note”.</p>
+
+    </div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/highlight.min.js" integrity="sha512-7t8APmYpzEsZP7CYoA7RfMPV9Bb+PJHa9x2WiUnDXZx3XHveuyWUtvNOexhkierl5flZ3tr92dP1mMS+SGlD+A==" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks",
+        'slides' : "Slides"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.3b2b658c61ebd725bd5fc606c89fe44c.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+  <p class="powered-by">
+    
+      <a href="/tag/privacy/">privacy</a>
+    
+    
+  </p>
+  
+
+  <p class="powered-by">
+    © 2021
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    Published with
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic Website Builder</a>
+    
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

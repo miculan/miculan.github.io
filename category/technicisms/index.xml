@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technicisms | Marino Miculan</title>
+    <link>https://miculan.github.io/category/technicisms/</link>
+      <atom:link href="https://miculan.github.io/category/technicisms/index.xml" rel="self" type="application/rss+xml" />
+    <description>Technicisms</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sat, 04 Oct 2014 21:48:45 +0000</lastBuildDate>
+    <image>
+      <url>https://miculan.github.io/images/icon_hucd11276fae71caa54a4868a16e56c065_1592_512x512_fill_lanczos_center_2.png</url>
+      <title>Technicisms</title>
+      <link>https://miculan.github.io/category/technicisms/</link>
+    </image>
+    
+    <item>
+      <title>System crash recovery</title>
+      <link>https://miculan.github.io/2014/10/system-crash-recovery/</link>
+      <pubDate>Sat, 04 Oct 2014 21:48:45 +0000</pubDate>
+      <guid>https://miculan.github.io/2014/10/system-crash-recovery/</guid>
+      <description>&lt;p&gt;Dear all,&lt;br&gt;
+last week the server hosting this web page has suffered a drastic (hardware) failure, and it has been re-installed from scratch. Long story short, now is back online, some data have been recovered from backups, but unfortunately we have lost all changes and updates done during August and September. I will re-do them as soon as possible.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aggiornamento di THUD – THesis at uniUD</title>
+      <link>https://miculan.github.io/2014/03/aggiornamento-di-thud-thesis-at-uniud/</link>
+      <pubDate>Wed, 12 Mar 2014 22:34:25 +0000</pubDate>
+      <guid>https://miculan.github.io/2014/03/aggiornamento-di-thud-thesis-at-uniud/</guid>
+      <description>&lt;p&gt;In vista della sessione di lauree di marzo, il pacchetto THUD è stato aggiornato ed esteso con nuove funzionalità: adesso offre anche una classe derivata da Beamer, e uno schema base per la stesura delle slide. Contestualmente è stata leggermente modificata (e migliorata) anche la classe thud.cls, che è quella usata per la stesura della tesi.&lt;br&gt;
+Potete trovare maggiori dettagli nella 
+&lt;a href=&#34;http://sole.dimi.uniud.it/~marino.miculan/wordpress/downloads/minipackage-per-tesi-in-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pagina di download&lt;/a&gt; ad esso dedicato.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lezione di esercitazione del corso di Reti di Calcolatori</title>
+      <link>https://miculan.github.io/2014/01/lezione-di-esercitazione-del-corso-di-reti-di-calcolatori/</link>
+      <pubDate>Fri, 17 Jan 2014 16:26:35 +0000</pubDate>
+      <guid>https://miculan.github.io/2014/01/lezione-di-esercitazione-del-corso-di-reti-di-calcolatori/</guid>
+      <description>&lt;p&gt;Annuncio riservato agli studenti del corso di Reti di calcolatori:&lt;br&gt;
+la lezione extra di esercitazione &lt;strong&gt;non&lt;/strong&gt; si terrà martedì 21, perché non è stato possibile trovare un’aula grande libera. Pertanto, l’esercitazione si terrà &lt;strong&gt;lunedì 20 gennaio&lt;/strong&gt; secondo l’orario consueto (ossia alle 10.30 in Aula I).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Talk su Agenda Digitale</title>
+      <link>https://miculan.github.io/2013/11/talk-su-agenda-digitale/</link>
+      <pubDate>Fri, 22 Nov 2013 22:11:19 +0000</pubDate>
+      <guid>https://miculan.github.io/2013/11/talk-su-agenda-digitale/</guid>
+      <description>&lt;p&gt;Oggi ho dato una breve presentazione sull’Agenda Digitale, per un seminario organizzato dall’IRES FVG sulla digitalizzazione delle PMI.&lt;br&gt;
+Per l’occasione ho preparato il 
+&lt;a href=&#34;http://prezi.com/gihpeigmf2oc/la-digitalizzazione-unopportunita-per-cittadini-e-imprese/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mio secondo Prezi&lt;/a&gt;.&lt;br&gt;
+È un po’ preoccupante vedere come gli obiettivi vengano vieppiù ridotti…ma capisco che non si può ottenere tutto e subito. Almeno, quei tre obiettivi cerchiamo di portarli a casa!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>World IPv6 Launch</title>
+      <link>https://miculan.github.io/2012/06/world-ipv6-launch/</link>
+      <pubDate>Wed, 06 Jun 2012 09:52:20 +0000</pubDate>
+      <guid>https://miculan.github.io/2012/06/world-ipv6-launch/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;http://www.worldipv6launch.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img loading=&#34;lazy&#34; class=&#34;alignleft&#34; title=&#34;WorldIPv6Launch&#34; src=&#34;http://www.worldipv6launch.org/wp-content/themes/ipv6/downloads/World_IPv6_launch_badge_256.png&#34; alt=&#34;&#34; width=&#34;107&#34; height=&#34;107&#34; /&gt;&lt;/a&gt;At last, today the Internet is moving to IPv6!  (Hoping that this time is for real :))  Don’t forget to enable IPv6 on your PC/home router/website/services, etc.&lt;br&gt;
+DO YOUR PART: JOIN THE LAUNCH!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Facebook integration</title>
+      <link>https://miculan.github.io/2012/02/facebook-integration/</link>
+      <pubDate>Sun, 19 Feb 2012 19:37:12 +0000</pubDate>
+      <guid>https://miculan.github.io/2012/02/facebook-integration/</guid>
+      <description>&lt;p&gt;I’ve installed the &lt;a href=&#34;http://wordpress.org/extend/plugins/simple-facebook-connect/&#34; target=&#34;_blank&#34;&gt;Simple Facebook Connect&lt;/a&gt; plugin. Now one should be able to leave comments using her Facebook identity. Lemme know if it works.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slowness</title>
+      <link>https://miculan.github.io/2012/02/slowness/</link>
+      <pubDate>Sun, 19 Feb 2012 07:46:12 +0000</pubDate>
+      <guid>https://miculan.github.io/2012/02/slowness/</guid>
+      <description>&lt;p&gt;Just installed WordPress, and I’m experiencing already my first problems with it.  Namely, sometimes it is very sloooooooow.  It may take 1-2 minutes to load a page. Dunno why; will investigate.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Migrating to WordPress</title>
+      <link>https://miculan.github.io/2012/02/migrating-to-wordpress/</link>
+      <pubDate>Fri, 17 Feb 2012 08:22:51 +0000</pubDate>
+      <guid>https://miculan.github.io/2012/02/migrating-to-wordpress/</guid>
+      <description>&lt;p&gt;After a few years, I decided to change again my home page. 
+&lt;a href=&#34;http://www.skybluecanvas.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SkyBlueCanvas&lt;/a&gt; was a good CMS, but it has not been developed for a long time. So eventually here I am to WordPress. Me too, indeed.&lt;/p&gt;
+&lt;p&gt;Not everything from the old site has been moved yet. So if you don’t find something, have a look 
+&lt;a href=&#34;../skybluecanvas&#34;&gt;around here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

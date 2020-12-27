@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cyber security | Marino Miculan</title>
+    <link>https://miculan.github.io/tag/cyber-security/</link>
+      <atom:link href="https://miculan.github.io/tag/cyber-security/index.xml" rel="self" type="application/rss+xml" />
+    <description>cyber security</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sun, 26 Apr 2020 21:34:25 +0000</lastBuildDate>
+    <image>
+      <url>https://miculan.github.io/images/icon_hucd11276fae71caa54a4868a16e56c065_1592_512x512_fill_lanczos_center_2.png</url>
+      <title>cyber security</title>
+      <link>https://miculan.github.io/tag/cyber-security/</link>
+    </image>
+    
+    <item>
+      <title>Recovering shape and geometric features from anonymous contact tracing data</title>
+      <link>https://miculan.github.io/2020/04/recovering-shape-and-geometric-features-from-anonymous-contact-tracing-data/</link>
+      <pubDate>Sun, 26 Apr 2020 21:34:25 +0000</pubDate>
+      <guid>https://miculan.github.io/2020/04/recovering-shape-and-geometric-features-from-anonymous-contact-tracing-data/</guid>
+      <description>&lt;p&gt;The actual COVID-19 pandemic has induced many governments to call for technological solutions for tracing contacts between people, with great concerns for privacy. We would like to trace who has been in contact with an infected patient, without revealing their real positions and movements. Proposed apps claim to deal with anonymized data, only. But… what can be recovered from anonymized contact tracing data?&lt;/p&gt;
+&lt;p&gt;I have done a small exercise in data analysis: an anonymized proximity graph can contain enough information to reproduce the geometry of the area where the data came from. No geometric / GPS / geolocation / distance information is needed: the contact information will suffice.&lt;/p&gt;
+&lt;p&gt;For more details, see here: &lt;a href=&#34;https://miculan.github.io/shaping-anonymous-contact-tracing-data/&#34;&gt;https://miculan.github.io/shaping-anonymous-contact-tracing-data/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cyber Security Today: Data Breach, Incident Management, Security Operation Center e Computer Emergency Response Team</title>
+      <link>https://miculan.github.io/2013/06/cyber-security-today/</link>
+      <pubDate>Wed, 12 Jun 2013 13:37:55 +0000</pubDate>
+      <guid>https://miculan.github.io/2013/06/cyber-security-today/</guid>
+      <description>&lt;p&gt;Continuando una ormai consolidata tradizione, a conclusione del corso di “Reti di Calcolatori” si organizza un evento su Sicurezza Informatica.&lt;br&gt;
+L’evento di quest’anno verterà su &lt;strong&gt;Cyber Security Today: Data Breach, Incident Management, Security Operation Center (SOC) e Computer Emergency Response Team (CERT)&lt;/strong&gt; e vedrà il contributo dei seguenti relatori:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Corradino Corradi, Vodafone, Head of ICT Security &amp;amp; Fraud Management&lt;/li&gt;
+&lt;li&gt;Paolo Dal Cin, Accenture, Senior Manager, Security Sales Lead&lt;/li&gt;
+&lt;li&gt;Fabio Battelli, Accenture, Senior Manager, Chief Security Strategist&lt;/li&gt;
+&lt;li&gt;Paolo Colombo, Accenture, Manager, Cyber Security Offering Lead&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;L’evento si terrà presso l’Aula Multimediale del DIMI, dalle 14:30 alle 16:30 di martedì 25 giugno 2013.&lt;/p&gt;
+&lt;p&gt;Tutti gli interessati sono invitati a partecipare – e a girare il presente invito ad altri.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

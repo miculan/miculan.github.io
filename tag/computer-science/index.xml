@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computer science | Marino Miculan</title>
+    <link>https://miculan.github.io/tag/computer-science/</link>
+      <atom:link href="https://miculan.github.io/tag/computer-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>computer science</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Mon, 11 May 2020 22:59:11 +0000</lastBuildDate>
+    <image>
+      <url>https://miculan.github.io/images/icon_hucd11276fae71caa54a4868a16e56c065_1592_512x512_fill_lanczos_center_2.png</url>
+      <title>computer science</title>
+      <link>https://miculan.github.io/tag/computer-science/</link>
+    </image>
+    
+    <item>
+      <title>We are hiring! Two fellowship grants within the “IT MATTERS” project</title>
+      <link>https://miculan.github.io/2020/05/we-are-hiring-two-fellowship-grants-within-the-it-matters-project/</link>
+      <pubDate>Mon, 11 May 2020 22:59:11 +0000</pubDate>
+      <guid>https://miculan.github.io/2020/05/we-are-hiring-two-fellowship-grants-within-the-it-matters-project/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Two fellowship grants&lt;/strong&gt; are available at the University of Udine, Italy, for &lt;strong&gt;12 and 18 months&lt;/strong&gt; respectively, within the Italian national project “IT MATTERS – Methods and Tools for Trustworthy Smart Systems”. The fellowships are research-only, with no teaching or administrative obligations.&lt;/p&gt;
+&lt;p&gt;Deadline for application is &lt;strong&gt;May 31, 2020, 14:00 CEST&lt;/strong&gt;. Having a PhD is appreciated but not required. Starting date is (partly) negotiable. Both positions can be extended for another 12 months (subject to funding availability).&lt;/p&gt;
+&lt;p&gt;For any information, contact Marino Miculan &amp;laquo;&lt;a href=&#34;mailto:marino.miculan@uniud.it&#34;&gt;marino.miculan@uniud.it&lt;/a&gt;&amp;raquo;&lt;/p&gt;
+&lt;h2 id=&#34;brief-research-description&#34;&gt;&lt;strong&gt;Brief research description&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;The overall aim of the “IT MATTERS” project is the development of a novel methodology, based on formal methods, for the specification, implementation and validation of trustworthy “smart” systems. Within this project, the two grants are roughly targeted as follows; however &lt;strong&gt;the subjects can be adapted&lt;/strong&gt;, as long as they fit the global project.&lt;/p&gt;
+&lt;h3 id=&#34;position-20a046-18-months-innovative-programming-models-and-paradigms&#34;&gt;&lt;strong&gt;Position 20A046 (18 months): “Innovative programming models and paradigms”&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;This position will focus on the definition of a new paradigm to support the design, implementation and execution of “smart” large-scale distributed systems. This framework will be developed starting from existing models for large scale distributed systems, and should support the generation of “stubs” to monitor components in order to guarantee invariants and monitor behaviors at runtime.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;: large-scale distributed systems, concurrency theory, programming languages, process calculi.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Remuneration:&lt;/strong&gt; total gross € 34,440 = 1913 €/month, that is 1695 €/month net, after taxes and contributions for social security and retirement scheme.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;More details at&lt;/strong&gt;  &lt;a href=&#34;http://web.uniud.it/ateneo/normativa/albo_ufficiale/303%20-%202020/20200303.2%20Notice%20-%20ARIC.pdf&#34;&gt;http://web.uniud.it/ateneo/normativa/albo_ufficiale/303%20-%202020/20200303.2%20Notice%20-%20ARIC.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Applications at&lt;/strong&gt; &lt;a href=&#34;https://pica.cineca.it/uniud/20a046/&#34;&gt;https://pica.cineca.it/uniud/20a046/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;position-20a047-12-months-graph-based-models-and-logics&#34;&gt;&lt;strong&gt;Position 20A047 (12 months): “Graph-based Models and Logics”&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;This position will focus on the application of graph-based models (such as &lt;em&gt;bigraphs&lt;/em&gt;) to “smart” systems scenarios, such as agent-based autonomous systems, fog and edge computing, etc. In particular, we aim to develop suitable spatial logics, balancing expressiveness and usability. On the applicative side, we will aim to the design and implementation of a model checker for the logic above.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;: semantics, process calculi, (graph based) models of concurrent systems, spatial logics&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Remuneration:&lt;/strong&gt; total gross € 21,250 = 1770 €/month, that is 1570 €/month net, after taxes and contributions for social security and retirement scheme.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;More details at&lt;/strong&gt; &lt;a href=&#34;http://web.uniud.it/ateneo/normativa/albo_ufficiale/304%20-%202020/20200304.2%20Notice%20-%20ARIC.pdf&#34;&gt;http://web.uniud.it/ateneo/normativa/albo_ufficiale/304%20-%202020/20200304.2%20Notice%20-%20ARIC.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Applications&lt;/strong&gt; &lt;strong&gt;at&lt;/strong&gt; &lt;a href=&#34;https://pica.cineca.it/uniud/20a047/&#34;&gt;https://pica.cineca.it/uniud/20a047/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;working-environment&#34;&gt;&lt;strong&gt;Working environment&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;The research fellows will work at the 
+&lt;a href=&#34;https://www.dmif.uniud.it&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Department of Mathematics, Computer Science and Physics&lt;/a&gt; at the University of Udine. Founded in 1978, the Department is among the oldest CS departments in Italy; it counts about 40 permanent professors and ~15 PhD students and postdocs in Computer Science and Computer Engineering (and about the same in maths). Research topics include models and logics for programming languages and type theories, theoretical foundations and tools for program analysis, cybersecurity, formal verification and model checking, etc.&lt;/p&gt;
+&lt;p&gt;While the position is based in Udine, frequent interactions will be conducted with the other partners of the project (possibly online, if the pandemics continues): the universities of Camerino and Pisa, the Italian CNR, the GSSI in l’Aquila, and the IMT in Lucca.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.turismofvg.it/Information-about/Tourist-offices/Udine-Tourist-office&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Udine&lt;/a&gt; is a historical city in the North-East of Italy, strategically positioned one hour from the Alps and the Adriatic Sea. Dubbed “Venice on land” for its architecture, this city is among 
+&lt;a href=&#34;https://static.italiaoggi.it/content_upload/doc/2019/11/201911041344089559/Qdv2019.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the top ten Italian cities for quality of life&lt;/a&gt;, but with an affordable cost of living.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

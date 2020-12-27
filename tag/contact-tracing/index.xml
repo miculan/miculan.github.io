@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>contact tracing | Marino Miculan</title>
+    <link>https://miculan.github.io/tag/contact-tracing/</link>
+      <atom:link href="https://miculan.github.io/tag/contact-tracing/index.xml" rel="self" type="application/rss+xml" />
+    <description>contact tracing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sun, 26 Apr 2020 21:34:25 +0000</lastBuildDate>
+    <image>
+      <url>https://miculan.github.io/images/icon_hucd11276fae71caa54a4868a16e56c065_1592_512x512_fill_lanczos_center_2.png</url>
+      <title>contact tracing</title>
+      <link>https://miculan.github.io/tag/contact-tracing/</link>
+    </image>
+    
+    <item>
+      <title>Recovering shape and geometric features from anonymous contact tracing data</title>
+      <link>https://miculan.github.io/2020/04/recovering-shape-and-geometric-features-from-anonymous-contact-tracing-data/</link>
+      <pubDate>Sun, 26 Apr 2020 21:34:25 +0000</pubDate>
+      <guid>https://miculan.github.io/2020/04/recovering-shape-and-geometric-features-from-anonymous-contact-tracing-data/</guid>
+      <description>&lt;p&gt;The actual COVID-19 pandemic has induced many governments to call for technological solutions for tracing contacts between people, with great concerns for privacy. We would like to trace who has been in contact with an infected patient, without revealing their real positions and movements. Proposed apps claim to deal with anonymized data, only. But… what can be recovered from anonymized contact tracing data?&lt;/p&gt;
+&lt;p&gt;I have done a small exercise in data analysis: an anonymized proximity graph can contain enough information to reproduce the geometry of the area where the data came from. No geometric / GPS / geolocation / distance information is needed: the contact information will suffice.&lt;/p&gt;
+&lt;p&gt;For more details, see here: &lt;a href=&#34;https://miculan.github.io/shaping-anonymous-contact-tracing-data/&#34;&gt;https://miculan.github.io/shaping-anonymous-contact-tracing-data/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

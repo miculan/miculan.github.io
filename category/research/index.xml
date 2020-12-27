@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research | Marino Miculan</title>
+    <link>https://miculan.github.io/category/research/</link>
+      <atom:link href="https://miculan.github.io/category/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Mon, 11 May 2020 22:59:11 +0000</lastBuildDate>
+    <image>
+      <url>https://miculan.github.io/images/icon_hucd11276fae71caa54a4868a16e56c065_1592_512x512_fill_lanczos_center_2.png</url>
+      <title>Research</title>
+      <link>https://miculan.github.io/category/research/</link>
+    </image>
+    
+    <item>
+      <title>We are hiring! Two fellowship grants within the “IT MATTERS” project</title>
+      <link>https://miculan.github.io/2020/05/we-are-hiring-two-fellowship-grants-within-the-it-matters-project/</link>
+      <pubDate>Mon, 11 May 2020 22:59:11 +0000</pubDate>
+      <guid>https://miculan.github.io/2020/05/we-are-hiring-two-fellowship-grants-within-the-it-matters-project/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Two fellowship grants&lt;/strong&gt; are available at the University of Udine, Italy, for &lt;strong&gt;12 and 18 months&lt;/strong&gt; respectively, within the Italian national project “IT MATTERS – Methods and Tools for Trustworthy Smart Systems”. The fellowships are research-only, with no teaching or administrative obligations.&lt;/p&gt;
+&lt;p&gt;Deadline for application is &lt;strong&gt;May 31, 2020, 14:00 CEST&lt;/strong&gt;. Having a PhD is appreciated but not required. Starting date is (partly) negotiable. Both positions can be extended for another 12 months (subject to funding availability).&lt;/p&gt;
+&lt;p&gt;For any information, contact Marino Miculan &amp;laquo;&lt;a href=&#34;mailto:marino.miculan@uniud.it&#34;&gt;marino.miculan@uniud.it&lt;/a&gt;&amp;raquo;&lt;/p&gt;
+&lt;h2 id=&#34;brief-research-description&#34;&gt;&lt;strong&gt;Brief research description&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;The overall aim of the “IT MATTERS” project is the development of a novel methodology, based on formal methods, for the specification, implementation and validation of trustworthy “smart” systems. Within this project, the two grants are roughly targeted as follows; however &lt;strong&gt;the subjects can be adapted&lt;/strong&gt;, as long as they fit the global project.&lt;/p&gt;
+&lt;h3 id=&#34;position-20a046-18-months-innovative-programming-models-and-paradigms&#34;&gt;&lt;strong&gt;Position 20A046 (18 months): “Innovative programming models and paradigms”&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;This position will focus on the definition of a new paradigm to support the design, implementation and execution of “smart” large-scale distributed systems. This framework will be developed starting from existing models for large scale distributed systems, and should support the generation of “stubs” to monitor components in order to guarantee invariants and monitor behaviors at runtime.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;: large-scale distributed systems, concurrency theory, programming languages, process calculi.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Remuneration:&lt;/strong&gt; total gross € 34,440 = 1913 €/month, that is 1695 €/month net, after taxes and contributions for social security and retirement scheme.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;More details at&lt;/strong&gt;  &lt;a href=&#34;http://web.uniud.it/ateneo/normativa/albo_ufficiale/303%20-%202020/20200303.2%20Notice%20-%20ARIC.pdf&#34;&gt;http://web.uniud.it/ateneo/normativa/albo_ufficiale/303%20-%202020/20200303.2%20Notice%20-%20ARIC.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Applications at&lt;/strong&gt; &lt;a href=&#34;https://pica.cineca.it/uniud/20a046/&#34;&gt;https://pica.cineca.it/uniud/20a046/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;position-20a047-12-months-graph-based-models-and-logics&#34;&gt;&lt;strong&gt;Position 20A047 (12 months): “Graph-based Models and Logics”&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;This position will focus on the application of graph-based models (such as &lt;em&gt;bigraphs&lt;/em&gt;) to “smart” systems scenarios, such as agent-based autonomous systems, fog and edge computing, etc. In particular, we aim to develop suitable spatial logics, balancing expressiveness and usability. On the applicative side, we will aim to the design and implementation of a model checker for the logic above.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;: semantics, process calculi, (graph based) models of concurrent systems, spatial logics&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Remuneration:&lt;/strong&gt; total gross € 21,250 = 1770 €/month, that is 1570 €/month net, after taxes and contributions for social security and retirement scheme.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;More details at&lt;/strong&gt; &lt;a href=&#34;http://web.uniud.it/ateneo/normativa/albo_ufficiale/304%20-%202020/20200304.2%20Notice%20-%20ARIC.pdf&#34;&gt;http://web.uniud.it/ateneo/normativa/albo_ufficiale/304%20-%202020/20200304.2%20Notice%20-%20ARIC.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Applications&lt;/strong&gt; &lt;strong&gt;at&lt;/strong&gt; &lt;a href=&#34;https://pica.cineca.it/uniud/20a047/&#34;&gt;https://pica.cineca.it/uniud/20a047/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;working-environment&#34;&gt;&lt;strong&gt;Working environment&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;The research fellows will work at the 
+&lt;a href=&#34;https://www.dmif.uniud.it&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Department of Mathematics, Computer Science and Physics&lt;/a&gt; at the University of Udine. Founded in 1978, the Department is among the oldest CS departments in Italy; it counts about 40 permanent professors and ~15 PhD students and postdocs in Computer Science and Computer Engineering (and about the same in maths). Research topics include models and logics for programming languages and type theories, theoretical foundations and tools for program analysis, cybersecurity, formal verification and model checking, etc.&lt;/p&gt;
+&lt;p&gt;While the position is based in Udine, frequent interactions will be conducted with the other partners of the project (possibly online, if the pandemics continues): the universities of Camerino and Pisa, the Italian CNR, the GSSI in l’Aquila, and the IMT in Lucca.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.turismofvg.it/Information-about/Tourist-offices/Udine-Tourist-office&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Udine&lt;/a&gt; is a historical city in the North-East of Italy, strategically positioned one hour from the Alps and the Adriatic Sea. Dubbed “Venice on land” for its architecture, this city is among 
+&lt;a href=&#34;https://static.italiaoggi.it/content_upload/doc/2019/11/201911041344089559/Qdv2019.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the top ten Italian cities for quality of life&lt;/a&gt;, but with an affordable cost of living.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recovering shape and geometric features from anonymous contact tracing data</title>
+      <link>https://miculan.github.io/2020/04/recovering-shape-and-geometric-features-from-anonymous-contact-tracing-data/</link>
+      <pubDate>Sun, 26 Apr 2020 21:34:25 +0000</pubDate>
+      <guid>https://miculan.github.io/2020/04/recovering-shape-and-geometric-features-from-anonymous-contact-tracing-data/</guid>
+      <description>&lt;p&gt;The actual COVID-19 pandemic has induced many governments to call for technological solutions for tracing contacts between people, with great concerns for privacy. We would like to trace who has been in contact with an infected patient, without revealing their real positions and movements. Proposed apps claim to deal with anonymized data, only. But… what can be recovered from anonymized contact tracing data?&lt;/p&gt;
+&lt;p&gt;I have done a small exercise in data analysis: an anonymized proximity graph can contain enough information to reproduce the geometry of the area where the data came from. No geometric / GPS / geolocation / distance information is needed: the contact information will suffice.&lt;/p&gt;
+&lt;p&gt;For more details, see here: &lt;a href=&#34;https://miculan.github.io/shaping-anonymous-contact-tracing-data/&#34;&gt;https://miculan.github.io/shaping-anonymous-contact-tracing-data/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OWASP Day 2019 @ Udine</title>
+      <link>https://miculan.github.io/2019/12/owasp-day-2019-udine/</link>
+      <pubDate>Tue, 10 Dec 2019 13:56:10 +0000</pubDate>
+      <guid>https://miculan.github.io/2019/12/owasp-day-2019-udine/</guid>
+      <description>&lt;p&gt;OWASP Italy Day is a one-day conference focused on web application and software security, application security testing tools and technologies and cloud security. This conference provides a unique opportunity to learn about application security topics and to network with application security professionals/managers, software engineers, software quality engineers/testers and computer science students. This year special topic of interest is the security of emerging technologies.&lt;/p&gt;
+&lt;p&gt;OWASP Day 2019 will be held at the 
+&lt;a href=&#34;http://www.uniud.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Università degli Studi di Udine&lt;/a&gt;, Palazzo Antonini, Via Tarcisio Petracco, 8, 33100 Udine UD, Italy, on December 14, 2019, from 9:00 to 13:30.&lt;/p&gt;
+&lt;p&gt;This conference is organized by the OWASP foundation and OWASP Italy in collaboration with the University of Udine, Italy. We refer to the 
+&lt;a href=&#34;https://www.owasp.org/index.php/Italy_OWASP_Day_Udine_2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;official web page&lt;/a&gt; for the program and more details.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New paper “A GSOS for Attribute-based Communication”</title>
+      <link>https://miculan.github.io/2019/07/new-paper-a-gsos-for-attribute-based-communication/</link>
+      <pubDate>Tue, 30 Jul 2019 13:53:12 +0000</pubDate>
+      <guid>https://miculan.github.io/2019/07/new-paper-a-gsos-for-attribute-based-communication/</guid>
+      <description>&lt;p&gt;The short paper &lt;em&gt;A GSOS for Attribute-based Communication&lt;/em&gt; by Matteo Paier and myself, has been accepted to EXPRESS/SOS, the Combined 26th International Workshop on Expressiveness in Concurrency and 16th Workshop on Structural Operational Semantics.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: We propose a new GSOS semantics fo AbC, a calculus for attribute-based communication. This semantics is simpler than the previous ones, but as much as expressive; in fact, we will show that there is a precise equivalence. The new semantics will be useful for simplifying bisimulation proofs, and it is preparatory to the definition of a bialgebraic semantics for AbC.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LMCS Special Festschrift Issue in Honor of Furio Honsell</title>
+      <link>https://miculan.github.io/2019/07/lmcs-special-festschrift-issue-in-honor-of-furio-honsell/</link>
+      <pubDate>Sun, 28 Jul 2019 19:19:36 +0000</pubDate>
+      <guid>https://miculan.github.io/2019/07/lmcs-special-festschrift-issue-in-honor-of-furio-honsell/</guid>
+      <description>&lt;p&gt;Finally, the LMCS 
+&lt;a href=&#34;https://lmcs.episciences.org/volume/view/id/321&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Special Issue&lt;/a&gt; collecting a selection of the papers presented at the 
+&lt;a href=&#34;http://lts.dimi.uniud.it&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Symposium in honour of Furio Honsell&lt;/a&gt;, on the occasion of his 60th birthday, is 
+&lt;a href=&#34;https://lmcs.episciences.org/volume/view/id/321&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;out on the Logical Methods in Computer Science&lt;/a&gt; website.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New paper “An abstract distributed middleware for transactions over heterogeneous stores﻿”</title>
+      <link>https://miculan.github.io/2019/07/new-paper-an-abstract-distributed-middleware-for-transactions-over-heterogeneous-stores/</link>
+      <pubDate>Wed, 10 Jul 2019 13:39:23 +0000</pubDate>
+      <guid>https://miculan.github.io/2019/07/new-paper-an-abstract-distributed-middleware-for-transactions-over-heterogeneous-stores/</guid>
+      <description>&lt;p&gt;The paper &lt;em&gt;An abstract distributed middleware for transactions over heterogeneous stores&lt;/em&gt; by Luca Geatti, Federico Igne and myself, has been accepted to the &lt;em&gt;20th Italian Conference on Theoretical Computer Science&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: We present an abstract middleware, called Acidify, for the coordination of transactions between distributed processes accessing shared heterogeneous (possibly remote) storage services. Processes can specify transactions by means of a specific abstract language; each transaction is then executed atomically and in isolation, following an “optimistic” strategy. To ensure scalability and reliability, Acidify is peer-to-peer, without relying on any centralized service. Moreover, it is abstract, in the sense that the transaction language is independent from the underlying storage services, and it can be readily ported to any storage service.&lt;br&gt;
+We provide a formal model of Acidify as a set of interacting automata; this allows us to prove soundness and termination of the algorithms, and to estimate the overhead in terms of exchanged messages and delays. Finally, we provide an implementation of Acidify as an Erlang behaviour, together with the bindings for Riak KV and Amazon S3.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One year research position at the University of Udine (deadline: April 10, 2019)</title>
+      <link>https://miculan.github.io/2019/03/one-year-industrial-research-position-at-the-university-of-udine/</link>
+      <pubDate>Thu, 21 Mar 2019 15:39:56 +0000</pubDate>
+      <guid>https://miculan.github.io/2019/03/one-year-industrial-research-position-at-the-university-of-udine/</guid>
+      <description>&lt;h3 id=&#34;one-year-research-position-at-the-university-of-udine-about&#34;&gt;One-year research position at the University of Udine about&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Modelling and performance evaluation of train on-board networks&lt;/strong&gt;&lt;/em&gt;&lt;br&gt;
+Funded by EU FSE program HEaD&lt;/p&gt;
+&lt;h4 id=&#34;deadline-for-application-aprile-10-2019-1130&#34;&gt;Deadline for application: Aprile 10, 2019, 11:30.&lt;/h4&gt;
+&lt;h4 id=&#34;subject&#34;&gt;Subject&lt;/h4&gt;
+&lt;p&gt;Nowadays trains feature advanced on-board information networks which are used both for essential services and for additional (infotainment) services, and must guarantee an adequate level of service quality.&lt;br&gt;
+Designing, implementing and validating these networks, respecting precise qualitative and quantitative constraints (bandwidth, delay, fault tolerance, etc.) is complex and error-prone.&lt;br&gt;
+The objective of this project is to define practical methods and solutions for modelling train on-board networks, both in the topological and in the quantitative aspects, with the aim to simulate and predict their behavior in various traffic conditions before implementation and deployment. These solutions will use tools and technologies currently developed within the academic community, such as quantitative simulators and model checkers.&lt;/p&gt;
+&lt;h4 id=&#34;profile&#34;&gt;Profile&lt;/h4&gt;
+&lt;p&gt;Candidates must have a Master degree in Computer Science or Computer Engineering (PhD is not required but appreciated), and possibly a background in network simulation, performance analysis and evaluation. Good programming skills will be appreciated.&lt;/p&gt;
+&lt;h4 id=&#34;working-conditions&#34;&gt;Working conditions&lt;/h4&gt;
+&lt;p&gt;The selected candidate will work mainly at the Department of Mathematics, Computer Science and Physics (DMIF), of the University of Udine (Italy), in strict cooperation with VDS Rail, a leading industry of the sector.&lt;/p&gt;
+&lt;p&gt;The total net salary is 20.382,00 euro.&lt;/p&gt;
+&lt;p&gt;For more information please contact Marino Miculan (&lt;a href=&#34;mailto:marino.miculan@uniud.it&#34;&gt;marino.miculan@uniud.it&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;More details about the applications are at the 
+&lt;a href=&#34;http://web.uniud.it/ateneo/normativa/albo_ufficiale/252-2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;official call&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Workshop “Code is Law” vs “Law is Code”:  Il caso degli Smart Contracts</title>
+      <link>https://miculan.github.io/2019/01/workshop-code-is-law-vs-law-is-code-il-caso-degli-smart-contracts/</link>
+      <pubDate>Thu, 31 Jan 2019 12:02:39 +0000</pubDate>
+      <guid>https://miculan.github.io/2019/01/workshop-code-is-law-vs-law-is-code-il-caso-degli-smart-contracts/</guid>
+      <description>&lt;p&gt;Ho l’onore di partecipare al workshop &lt;em&gt;“Code is Law” vs “Law is Code”: Il caso degli Smart Contracts&lt;/em&gt; che si terrà lunedì 4 febbraio 2019 ore 16, presso l’Aula E del Polo Economico-Giuridico (Via Tomadini 30/A, Udine). Maggiori informazioni alla 
+&lt;a href=&#34;https://www.uniud.it/it/ateneo-uniud/ateneo-uniud-organizzazione/dipartimenti/disg/Eventi/lunedi-4-febbraio-2019-workshop-code-is-law-vs-law-is-code-il-caso-degli-smart-contracts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pagina dell’evento&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New paper “Constructive logical characterizations of bisimilarity for reactive probabilistic systems”</title>
+      <link>https://miculan.github.io/2019/01/new-paper-constructive-logical-characterizations-of-bisimilarity-for-reactive-probabilistic-systems/</link>
+      <pubDate>Sat, 05 Jan 2019 09:41:48 +0000</pubDate>
+      <guid>https://miculan.github.io/2019/01/new-paper-constructive-logical-characterizations-of-bisimilarity-for-reactive-probabilistic-systems/</guid>
+      <description>&lt;p&gt;The paper 
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0304397518307217&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;“Constructive logical characterizations of bisimilarity for reactive probabilistic systems”&lt;/a&gt;, by Marco Bernardo and myself, has been published on Theoretical Computer Science (online, for the time being).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2018 EUTypes Summer School on Types for Programming and Verification</title>
+      <link>https://miculan.github.io/2018/06/2018-eutypes-summer-school-on-types-for-programming-and-verification/</link>
+      <pubDate>Tue, 12 Jun 2018 09:40:45 +0000</pubDate>
+      <guid>https://miculan.github.io/2018/06/2018-eutypes-summer-school-on-types-for-programming-and-verification/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://sites.google.com/view/2018eutypesschool/home&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;EUTypes Summer School&lt;/a&gt; is a well-established school aiming to provide advanced training, especially to PhD students and early-career researchers, in all aspects of the theory and practice of type theory and applications.&lt;br&gt;
+The call for grants is open until June 20, so if you are interested, &lt;a href=&#34;https://sites.google.com/view/2018eutypesschool/registration&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;apply now&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Conferenza “Bitcoin e crittovalute: dal catasto tavolare alla blockchain”</title>
+      <link>https://miculan.github.io/2018/06/conferenza-bitcoin-e-crittovalute-dal-catasto-tavolare-alla-blockchain/</link>
+      <pubDate>Sat, 09 Jun 2018 09:26:27 +0000</pubDate>
+      <guid>https://miculan.github.io/2018/06/conferenza-bitcoin-e-crittovalute-dal-catasto-tavolare-alla-blockchain/</guid>
+      <description>&lt;p&gt;Giovedì 7 giugno ho tenuto una conferenza intitolata “&lt;a href=&#34;https://ordineingegneri.ts.it/blockchain/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Bitcoin e crittovalute: dal catasto tavolare alla blockchain&lt;/a&gt;“, presso il MIB di Trieste, su invito dell’Ordine degli Ingegneri di Trieste. Grazie a tutti i partecipanti!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>News about LFMTP</title>
+      <link>https://miculan.github.io/2017/09/news-about-lfmtp/</link>
+      <pubDate>Fri, 01 Sep 2017 17:10:04 +0000</pubDate>
+      <guid>https://miculan.github.io/2017/09/news-about-lfmtp/</guid>
+      <description>&lt;p&gt;The workshop 
+&lt;a href=&#34;http://lfmtp.org/workshops/2017/home.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LFMTP 2017&lt;/a&gt; is going to be a nice event. We’ve got 
+&lt;a href=&#34;http://lfmtp.org/workshops/2017/program.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;many interesting papers&lt;/a&gt;, and the session dedicated to Randy Pollack is the cherry on the cake (pun intended)!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Premio Best Italian Master Thesis in Theoretical Computer Science: Alessio Mansutti</title>
+      <link>https://miculan.github.io/2017/05/mansutti-premio-ictcs/</link>
+      <pubDate>Thu, 04 May 2017 13:19:39 +0000</pubDate>
+      <guid>https://miculan.github.io/2017/05/mansutti-premio-ictcs/</guid>
+      <description>&lt;p&gt;Ho appena saputo che il premio del Capitolo Italiano dell’EATCS per la migliore tesi magistrale in informatica teorica del 2016 è stato assegnato alla tesi 
+&lt;a href=&#34;https://miculan.github.io/~marino.miculan/wordpress/wp-content/uploads/2017/05/alessio_mansutti_tesi.pdf&#34;&gt;&lt;em&gt;Le Simulazioni Lasche: Definizione, Applicazioni e Computazione Distribuita&lt;/em&gt;&lt;/a&gt; di Alessio Mansutti, di cui sono stato relatore (e Marco Peressotti correlatore).&lt;br&gt;
+Congratulazioni Alessio!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LFMTP 2017 Call for papers is out</title>
+      <link>https://miculan.github.io/2017/04/lfmtp-2017-cfp/</link>
+      <pubDate>Thu, 13 Apr 2017 14:41:34 +0000</pubDate>
+      <guid>https://miculan.github.io/2017/04/lfmtp-2017-cfp/</guid>
+      <description>&lt;p&gt;The Call for Papers for the 2017 edition of “Logical Frameworks and Meta Languages:&lt;br&gt;
+Theory and Practice.” is out: see the 
+&lt;a href=&#34;http://lfmtp.org/workshops/2017/home.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;workshop webpage&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This year LFMTP is hosted by 
+&lt;a href=&#34;http://www.cs.ox.ac.uk/conferences/fscd2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FSCD 2017&lt;/a&gt; and co-located with ICFP 2017 and other 10 workshops: EUTypes, HDRA, HoTT, IFIP, IWC, SD, String, TLLA, UNIF and WPTE. September will be great in Oxford, so submit to 
+&lt;a href=&#34;https://easychair.org/conferences/?conf=lfmtp2017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LFMTP 2017&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ACM SAC:CM 2016</title>
+      <link>https://miculan.github.io/2015/06/acm-saccm16/</link>
+      <pubDate>Thu, 18 Jun 2015 21:57:51 +0000</pubDate>
+      <guid>https://miculan.github.io/2015/06/acm-saccm16/</guid>
+      <description>&lt;p&gt;I am honored to serve in the Program Committee of the 
+&lt;a href=&#34;http://sac2016.apice.unibo.it&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Special Track on Coordination Models, Languages and Applications&lt;/a&gt; of the ACM SAC 2016 conference. Please consider to submit your papers about models, formalisms and mechanisms to describe concurrent and distributed computations, in due time!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Program of MeMo 2015 is online</title>
+      <link>https://miculan.github.io/2015/05/program-of-memo-2015/</link>
+      <pubDate>Thu, 21 May 2015 11:26:25 +0000</pubDate>
+      <guid>https://miculan.github.io/2015/05/program-of-memo-2015/</guid>
+      <description>&lt;p&gt;The program of the 2nd International Workshop on Meta Models for Process Languages (MeMo 2015) is online at &lt;a href=&#34;http://discotec2015.inria.fr/memo-2015/&#34;&gt;http://discotec2015.inria.fr/memo-2015/&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New paper: Structural Operational Semantics for Continuous State Stochastic Transition Systems</title>
+      <link>https://miculan.github.io/2015/03/new-paper-structural-operational-semantics-for-continuous-state-stochastic-transition-systems/</link>
+      <pubDate>Thu, 12 Mar 2015 11:26:33 +0000</pubDate>
+      <guid>https://miculan.github.io/2015/03/new-paper-structural-operational-semantics-for-continuous-state-stochastic-transition-systems/</guid>
+      <description>&lt;p&gt;The paper 
+&lt;a href=&#34;http://authors.elsevier.com/a/1QgPc50971GNq&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Structural Operational Semantics for Continuous State Stochastic Transition Systems&lt;/em&gt;&lt;/a&gt; by Giorgio Bacci and myself has been published on &lt;em&gt;Journal of Computer and System Sciences&lt;/em&gt; 81 (2015).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seminario Filippo Bonchi su  “Coinduction Up-To (and some applications to equivalence checking)”</title>
+      <link>https://miculan.github.io/2014/05/seminario-bonchi-coinduction-up-to/</link>
+      <pubDate>Mon, 26 May 2014 20:46:28 +0000</pubDate>
+      <guid>https://miculan.github.io/2014/05/seminario-bonchi-coinduction-up-to/</guid>
+      <description>&lt;p&gt;Mercoledì 28 maggio alle 9:30 in Sala Riunioni del DiMI, il dott. 
+&lt;a href=&#34;http://perso.ens-lyon.fr/filippo.bonchi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Filippo Bonchi&lt;/a&gt;, Chargé de Recherche CNRS presso l’Ecole Normale Supérieure di Lione, terrà il seguente seminario riguardante recenti suoi risultati:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Coinduction Up-To (and some applications to equivalence checking)&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Abstract: Coinduction proof principles, and their enhancements by means of up-to techniques, are widely used for reasoning about automata and processes. In this talk, I will consider bisimulation up-to congruence as a technique for proving language equivalence of non-deterministic finite automata. This technique can be effectively implemented in an algorithm that exponentially improves the state of the art.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Tutti gli interessati sono invitati a partecipare.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LFMTP 2014: 9th International Workshop on Logical Frameworks and Meta-languages: Theory and Practice</title>
+      <link>https://miculan.github.io/2014/04/lfmtp-2014/</link>
+      <pubDate>Fri, 11 Apr 2014 08:04:01 +0000</pubDate>
+      <guid>https://miculan.github.io/2014/04/lfmtp-2014/</guid>
+      <description>&lt;p&gt;LFMTP is a long-standing forum for presenting state-of-the-art techniques and discuss progress in the area of logical frameworks and meta-languages. This workshop brings together designers, implementers, and practitioners to discuss various aspects impinging on the structure and utility of logical frameworks, including the treatment of variable binding, inductive and co-inductive reasoning techniques and the expressivity and lucidity of the reasoning process.&lt;/p&gt;
+&lt;p&gt;This year, LFMTP is affiliated with CSL-LICS 2014 and IJCAR 2014 and held as part of the Federated Logic Conference (FLoC) and the 
+&lt;a href=&#34;http://vsl2014.at&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vienna Summer of Logic (VSL)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;IMPORTANT DATES&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Paper Submission: May 2&lt;/li&gt;
+&lt;li&gt;Notification: June 3&lt;/li&gt;
+&lt;li&gt;Final papers due: June 19&lt;/li&gt;
+&lt;li&gt;Workshop: July 17&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More details are on the 
+&lt;a href=&#34;http://complogic.cs.mcgill.ca/lfmtp14/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LFMTP workshop web page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MeMo 2014 – 1st International Workshop on Meta Models for Process Languages</title>
+      <link>https://miculan.github.io/2014/03/memo2014/</link>
+      <pubDate>Fri, 07 Mar 2014 18:02:19 +0000</pubDate>
+      <guid>https://miculan.github.io/2014/03/memo2014/</guid>
+      <description>&lt;p&gt;The 
+&lt;a href=&#34;http://www.itu.dk/research/models/wiki/index.php/MeMo2014&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;1st International Workshop on Meta Models for Process Languages (MeMo) 2014&lt;/a&gt; is a new workshop, affiliated to 
+&lt;a href=&#34;http://www.discotec.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DisCoTec&lt;/a&gt; series of federated conference, which will be held in Berlin on June 6, 2014.&lt;/p&gt;
+&lt;p&gt;The goal of the workshop is to bring together researchers working on the development of theory and tools for meta models for process languages – to share insights, uncover similarities and differences, possibilities for cross-fertilization and stimulate further research in this exciting area. The workshop will be welcoming old and new members of the community alike.&lt;/p&gt;
+&lt;p&gt;In addition to presentations of contributed papers the workshop will offer two 1-hour tutorials (one about psi-calculus by J. Parrow, and one about Bigraphical Reactive Systems by myself), a poster session and a round-table discussion at the end of the workshop.&lt;/p&gt;
+&lt;p&gt;Important dates:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Abstract regular papers: &lt;del datetime=&#34;2014-03-25T10:23:45+00:00&#34;&gt;20 March 2014&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;Submission regular papers: &lt;del datetime=&#34;2014-03-25T10:23:45+00:00&#34;&gt;24 March 2014&lt;/del&gt; &lt;strong&gt;4 April 2014&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Notification regular papers: 25 April 2014&lt;/li&gt;
+&lt;li&gt;Camera-ready copy: 5 May 2014&lt;/li&gt;
+&lt;li&gt;Submission posters: 28 April 2014&lt;/li&gt;
+&lt;li&gt;Notification posters: 5 May 2014​&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For further details, see the 
+&lt;a href=&#34;http://www.itu.dk/research/models/wiki/index.php/MeMo2014&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;web page of MeMo 2014&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Assenza 18-20 febbraio</title>
+      <link>https://miculan.github.io/2014/02/assenza-18-20-febbraio/</link>
+      <pubDate>Fri, 14 Feb 2014 17:44:08 +0000</pubDate>
+      <guid>https://miculan.github.io/2014/02/assenza-18-20-febbraio/</guid>
+      <description>&lt;p&gt;Per gli studenti e i tesisti: sarò assente dal 18 al 20 febbraio 2014, per partecipare al 
+&lt;a href=&#34;http://sysma.imtlucca.it/cina/doku.php?id=general-meeting&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2nd General Meeting del PRIN CINA&lt;/a&gt;. Spero di riuscire comunque a pubblicare su Esse3 i risultati dello scritto di Reti di Calcolatori del 17 febbraio prima dell’alba del 21…&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Brace yourselves</title>
+      <link>https://miculan.github.io/2013/09/brace-yourselves/</link>
+      <pubDate>Tue, 17 Sep 2013 10:19:03 +0000</pubDate>
+      <guid>https://miculan.github.io/2013/09/brace-yourselves/</guid>
+      <description>&lt;p&gt;The 
+&lt;a href=&#34;http://mads.dimi.uniud.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MADSLab&lt;/a&gt; is coming.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>“Superiore alla media”</title>
+      <link>https://miculan.github.io/2013/07/superiore-alla-media/</link>
+      <pubDate>Sat, 27 Jul 2013 21:54:37 +0000</pubDate>
+      <guid>https://miculan.github.io/2013/07/superiore-alla-media/</guid>
+      <description>&lt;p&gt;Come è noto, da pochi giorni sono uscite le 
+&lt;a href=&#34;http://www.anvur.org/rapporto/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;valutazioni dell’Agenzia Nazionale di Valutazione del Sistema Universitario e della Ricerca&lt;/a&gt; (ANVUR), e già si scatenano le 
+&lt;a href=&#34;http://www.roars.it/online/vqr-le-classifiche-daltoniche-dellanvur/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;inevitabili polemiche&lt;/a&gt; – che non intendo riprendere in questa sede. In questo post, voglio segnalare l’eccellente performance del Dipartimento di Matematica e Informatica dell’Università di Udine. Complessivamente per l’area 01 (Matematica e Informatica), Udine si piazza terza su 22 (Tabella 3.5 del 
+&lt;a href=&#34;http://www.anvur.org/rapporto/files/Area01/VQR2004-2010_Area01_Tabelle.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rapporto finale&lt;/a&gt;), ossia 86º percentile. Più specificatamente, il settore INF/01 al DIMI è 5º su 30, ossia all’83º percentile (Tabella 4.7).&lt;br&gt;
+“Il Quotidiano FVG” ha riassunto questi risultati in un articolo giornalistico che riporto qui: 
+&lt;a href=&#34;http://sole.dimi.uniud.it/~marino.miculan/wordpress/wp-content/uploads/2013/08/Valutazione-Anvur-2013.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Valutazione Anvur 2013&lt;/a&gt;. Come si vede da questa tabella, la nostra area è quella che ha ottenuto il migliore piazzamento, confrontando con le altre aree all’interno dell’ateneo udinese. Sarebbe bello che questo risultato venisse riconosciuto…&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seminario “Duality for Transition Systems”</title>
+      <link>https://miculan.github.io/2013/05/seminario-duality-for-transition-systems/</link>
+      <pubDate>Tue, 21 May 2013 13:33:13 +0000</pubDate>
+      <guid>https://miculan.github.io/2013/05/seminario-duality-for-transition-systems/</guid>
+      <description>&lt;p&gt;Il giorno 27 maggio 2013, ore 14:00-15:00, presso l’Aula Multimediale del DIMI, Università di Udine, il 
+&lt;a href=&#34;http://www.cs.mcgill.ca/~prakash/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;prof. Prakash Panangaden&lt;/a&gt; (McGill University) terrà un seminario su &lt;em&gt;Duality for Transition Systems&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Abstract&lt;br&gt;
+In this talk we consider the problem of representing and reasoning about&lt;br&gt;
+systems, especially probabilistic systems, with hidden state. We consider&lt;br&gt;
+transition systems where the state is not completely visible to an outside&lt;br&gt;
+observer. Instead, there are observables that partly identify the state.&lt;br&gt;
+We show that one can interchange the notions of state and observation and&lt;br&gt;
+obtain what we call a dual system. The double dual gives a minimal&lt;br&gt;
+representation of the behaviour of the original system. We extend this to&lt;br&gt;
+nondeterministic systems and to probabilistic transition systems and&lt;br&gt;
+finally to partially observable Markov decision processes (POMDPs).&lt;/p&gt;
+&lt;p&gt;This research began with joint work with colleagues from McGill especially&lt;br&gt;
+Doina Precup and Chris Hunt. The recent categorical understanding is&lt;br&gt;
+joint work with Clemens Kupke and Nick Bezhanishvili.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Assegno di ricerca su Sicurezza di Femtocelle</title>
+      <link>https://miculan.github.io/2013/05/assegno-di-ricerca-su-sicurezza-di-femtocelle/</link>
+      <pubDate>Mon, 06 May 2013 07:15:01 +0000</pubDate>
+      <guid>https://miculan.github.io/2013/05/assegno-di-ricerca-su-sicurezza-di-femtocelle/</guid>
+      <description>&lt;p&gt;È disponibile &lt;em&gt;da subito&lt;/em&gt; un assegno di ricerca della durata di 12 mesi per uno studio riguardante la sicurezza delle reti cellulari di nuova generazione (UMTS e LTE) basate su femtocelle. L’attività verrà svolta in collaborazione con una nota azienda di sicurezza informatica regionale, e comprende sia un’attività di analisi e progetto, sia una parte di implementazione di un tool prototipale per il testing dei dispositivi di rete (BTS) per le femtocelle.&lt;/p&gt;
+&lt;p&gt;Il candidato ideale dovrebbe avere buone conoscenze dei protocolli di rete, e possibilmente delle metodologie di testing. Il candidato deve essere in possesso di una laurea specialistica o magistrale in Informatica, Ingegneria Elettronica o Informatica, o equivalenti.&lt;/p&gt;
+&lt;p&gt;Se vi può interessare, contattatemi al più presto.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CALCO 2013 – Extended deadlines</title>
+      <link>https://miculan.github.io/2013/02/calco-2013-extended-deadlines/</link>
+      <pubDate>Mon, 25 Feb 2013 08:07:17 +0000</pubDate>
+      <guid>https://miculan.github.io/2013/02/calco-2013-extended-deadlines/</guid>
+      <description>&lt;p&gt;The 
+&lt;a href=&#34;http://coalg.org/calco13/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CALCO 2013&lt;/a&gt; conference has extended the deadlines for submission. The new deadlines are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Abstract submission: February 29, 2013&lt;/li&gt;
+&lt;li&gt;Full paper submission: March 8, 2013&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bigraph 2013</title>
+      <link>https://miculan.github.io/2013/02/bigraph-2013-2/</link>
+      <pubDate>Sat, 16 Feb 2013 11:55:47 +0000</pubDate>
+      <guid>https://miculan.github.io/2013/02/bigraph-2013-2/</guid>
+      <description>&lt;p&gt;Attending BIGRAPH 2013 at the IT University, Copenhagen. Pleasantly surprised of many interesting applications of bigraphs that we were not aware of, from architectural refinements to unmanned veichles coordination. Yes, serious stuff.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CINA Kickoff meeting</title>
+      <link>https://miculan.github.io/2013/02/cina-kickoff-meeting/</link>
+      <pubDate>Tue, 05 Feb 2013 13:30:57 +0000</pubDate>
+      <guid>https://miculan.github.io/2013/02/cina-kickoff-meeting/</guid>
+      <description>&lt;p&gt;I’m in Pisa, participating to the 
+&lt;a href=&#34;http://cina.di.unipi.it/dokuwiki/doku.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;kickoff meeting&lt;/a&gt; of the PRIN 2010 project “CINA”. Kickoff meetings are always the best moment of the projects-so many nice people, so many ideas… and not so many negative results yet.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Third International Workshop on Bigraphs (Bigraph 2013)</title>
+      <link>https://miculan.github.io/2013/01/bigraph-2013/</link>
+      <pubDate>Sat, 05 Jan 2013 22:26:50 +0000</pubDate>
+      <guid>https://miculan.github.io/2013/01/bigraph-2013/</guid>
+      <description>&lt;p&gt;Do you work on or with bigraphs? Do you want to learn about bigraphs? Then you have to participate to the 
+&lt;a href=&#34;http://bigraph.org/bigraph2013/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Third International Workshop on Bigraphs (Bigraphs 2013)&lt;/a&gt;, to be held at the IT University of Copenhagen on 16 February 2013.&lt;br&gt;
+Speakers are invited to submit an abstract of no more than two pages as a proposal for a talk to be given during the workshop. Any research related to bigraphs is within scope. Summaries of work in progress or intended future research are also welcome.&lt;br&gt;
+Deadline for submissions: 21 January 2013.&lt;br&gt;
+For more details, see the 
+&lt;a href=&#34;http://bigraph.org/bigraph2013/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;workshop web page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IMT @ Lucca</title>
+      <link>https://miculan.github.io/2012/11/imt-lucca/</link>
+      <pubDate>Wed, 28 Nov 2012 23:20:05 +0000</pubDate>
+      <guid>https://miculan.github.io/2012/11/imt-lucca/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;http://sole.dimi.uniud.it/~marino.miculan/wordpress/wp-content/uploads/2012/11/2012-11-25-19.49.40.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img loading=&#34;lazy&#34; class=&#34;alignright size-medium wp-image-265&#34; title=&#34;Fog in Lucca&#34; src=&#34;http://sole.dimi.uniud.it/~marino.miculan/wordpress/wp-content/uploads/2012/11/2012-11-25-19.49.40-300x225.jpg&#34; alt=&#34;&#34; width=&#34;300&#34; height=&#34;225&#34; srcset=&#34;http://users.dimi.uniud.it/~marino.miculan/wordpress/wp-content/uploads/2012/11/2012-11-25-19.49.40-300x225.jpg 300w, http://users.dimi.uniud.it/~marino.miculan/wordpress/wp-content/uploads/2012/11/2012-11-25-19.49.40-1024x768.jpg 1024w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt;&lt;/a&gt;Just spent some days visiting the 
+&lt;a href=&#34;http://sysma.imtlucca.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SysMA&lt;/a&gt; group at 
+&lt;a href=&#34;http://www.imtlucca.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IMT&lt;/a&gt;, Lucca. A quite interesting environment indeed… Since it is a PhD-only institute, it is smaller than standard universities, but nevertheless very active! And I liked the multidisciplinary atmosphere (sciences, economics, cultural heritage, politics, …).&lt;br&gt;
+And the city is nice, of course–even with this unusal fog!&lt;/p&gt;
+&lt;p&gt;Starting something similar is hard, and keeping it growing and improving is harder. So keep up the good work, guys!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EPTCS 100</title>
+      <link>https://miculan.github.io/2012/11/eptcs-100/</link>
+      <pubDate>Thu, 15 Nov 2012 14:41:09 +0000</pubDate>
+      <guid>https://miculan.github.io/2012/11/eptcs-100/</guid>
+      <description>&lt;p&gt;The 
+&lt;a href=&#34;http://rvg.web.cse.unsw.edu.au/eptcs/content.cgi?MeCBIC2012&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Proceedings of MeCBIC 2012&lt;/a&gt; are now online, and it turns out to be the centenary volume of EPTCS! 🙂&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lecturing @ IT-U</title>
+      <link>https://miculan.github.io/2012/10/lecturin-it-u/</link>
+      <pubDate>Wed, 24 Oct 2012 16:36:15 +0000</pubDate>
+      <guid>https://miculan.github.io/2012/10/lecturin-it-u/</guid>
+      <description>&lt;p&gt;Today I’ve started the PhD mini-course about 
+&lt;a href=&#34;http://www.mt-lab.dk/en/news__events/phd_mini-course_on_sos_for_probabilistic_and_stochastic_processes.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Structured Operational Semantics for Probabilistic and Stochastic Processes&lt;/a&gt;, at the IT University.  I was pleasedly surprised to get ~20 students (also from DTU and DIKU)! Hoping to be not disappointing…&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Visiting IT University @ CPH</title>
+      <link>https://miculan.github.io/2012/10/arrivingcph/</link>
+      <pubDate>Mon, 01 Oct 2012 18:39:02 +0000</pubDate>
+      <guid>https://miculan.github.io/2012/10/arrivingcph/</guid>
+      <description>&lt;p&gt;Arrived in Copenhagen, Denmark, for a one-month stay at IT University, visiting 
+&lt;a href=&#34;http://www.mt-lab.dk/&#34; title=&#34;MT-Lab&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MT-LAB&lt;/a&gt; and 
+&lt;a href=&#34;http://www.itu.dk/research/pls/wiki/index.php/Main_Page&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PLS&lt;/a&gt; groups. Great place for establishing new connection – and strengthening old ones 🙂&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CONCUR &amp; MeCBIC 2012</title>
+      <link>https://miculan.github.io/2012/09/concur-mecbic-2012/</link>
+      <pubDate>Mon, 10 Sep 2012 20:49:10 +0000</pubDate>
+      <guid>https://miculan.github.io/2012/09/concur-mecbic-2012/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;http://sole.dimi.uniud.it/~marino.miculan/wordpress/wp-content/uploads/2012/09/2012-09-08-23.22.07.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img class=&#34;alignleft size-medium wp-image-215&#34; title=&#34;Tyne Bridge&#34; src=&#34;http://sole.dimi.uniud.it/~marino.miculan/wordpress/wp-content/uploads/2012/09/2012-09-08-23.22.07-300x225.jpg&#34; alt=&#34;&#34; width=&#34;200&#34; srcset=&#34;http://users.dimi.uniud.it/~marino.miculan/wordpress/wp-content/uploads/2012/09/2012-09-08-23.22.07-300x225.jpg 300w, http://users.dimi.uniud.it/~marino.miculan/wordpress/wp-content/uploads/2012/09/2012-09-08-23.22.07-1024x768.jpg 1024w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt;&lt;/a&gt;&lt;br&gt;
+Back from 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Newcastle_upon_Tyne&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Newcastle upon Tyne&lt;/a&gt; (see pic), for a (too short) participation to CONCUR and MeCBIC. Only two days, but the quality of talks I’ve attended was great. Met so many ol’ friends. And the city was also nice and lively (!), and the weather was also good.  What else could I ask??&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bando per l’ammissione al Dottorato – XXVIII ciclo</title>
+      <link>https://miculan.github.io/2012/08/bando-per-lammissione-al-dottorato-xxviii-ciclo/</link>
+      <pubDate>Fri, 31 Aug 2012 07:38:07 +0000</pubDate>
+      <guid>https://miculan.github.io/2012/08/bando-per-lammissione-al-dottorato-xxviii-ciclo/</guid>
+      <description>&lt;p&gt;Il 
+&lt;a href=&#34;http://www.uniud.it/ateneo/normativa/albo_ufficiale/492%20-%202012/file&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bando di concorso per l’ammissione al XXVIII ciclo dei corsi di Dottorato di Ricerca&lt;/a&gt; a Udine è online. Scadenza 1° ottobre 2012.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CALCO 2013</title>
+      <link>https://miculan.github.io/2012/07/calco-2013/</link>
+      <pubDate>Thu, 26 Jul 2012 12:20:44 +0000</pubDate>
+      <guid>https://miculan.github.io/2012/07/calco-2013/</guid>
+      <description>&lt;p&gt;The website of 
+&lt;a href=&#34;http://coalg.org/calco13/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CALCO 2013&lt;/a&gt; is online!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TYPES 2013</title>
+      <link>https://miculan.github.io/2012/07/types-2013/</link>
+      <pubDate>Mon, 23 Jul 2012 14:49:03 +0000</pubDate>
+      <guid>https://miculan.github.io/2012/07/types-2013/</guid>
+      <description>&lt;p&gt;The 
+&lt;a href=&#34;http://www.irit.fr/TYPES2013/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website of TYPES 2013&lt;/a&gt; is online. But don’t worry, there is still plenty of time for submitting your paper :).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Milner Symposium</title>
+      <link>https://miculan.github.io/2012/04/milner-symposium/</link>
+      <pubDate>Wed, 18 Apr 2012 22:59:12 +0000</pubDate>
+      <guid>https://miculan.github.io/2012/04/milner-symposium/</guid>
+      <description>&lt;p&gt;So Milner Symposium is over, but Robin’s work will keep inspiring the research of so many people for many years to come…&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Back from ETAPS</title>
+      <link>https://miculan.github.io/2012/04/back-from-etaps/</link>
+      <pubDate>Tue, 03 Apr 2012 06:04:32 +0000</pubDate>
+      <guid>https://miculan.github.io/2012/04/back-from-etaps/</guid>
+      <description>&lt;p&gt;And so also ETAPS is over. Nice people, nice friends, nice city, nice food… and yes, nice conference! Got more ideas than I can develop properly. So little time, so much to do.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Da CPH a VQR</title>
+      <link>https://miculan.github.io/2012/03/da-cph-a-vqr/</link>
+      <pubDate>Mon, 19 Mar 2012 20:45:29 +0000</pubDate>
+      <guid>https://miculan.github.io/2012/03/da-cph-a-vqr/</guid>
+      <description>&lt;p&gt;il rientro da CPH è stato assai pesante… forse perché adesso devo cercare di capire le complicazioni della VQR invece delle composizioni di bimoduli? certo che uno si fa venire certi pensieri…&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BunnyTN3</title>
+      <link>https://miculan.github.io/2012/03/bunnytn3/</link>
+      <pubDate>Tue, 13 Mar 2012 07:41:41 +0000</pubDate>
+      <guid>https://miculan.github.io/2012/03/bunnytn3/</guid>
+      <description>&lt;p&gt;Di ritorno dal workshop 
+&lt;a href=&#34;http://www.science.unitn.it/~sala/BunnyTN/index2012_march.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BunnyTN3&lt;/a&gt;. Format interessante: un giusto mix di matematici e di informatici, di speaker “senior” e di studenti (anche di laurea). Certo, alcuni talk erano piuttosto ostici, ma esporsi anche a settori non propri non può fare che bene.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
