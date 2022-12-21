@@ -14,6 +14,8 @@ nav_order: 5
 
 ### Academic duties
 - Referente per l'Orientamento e Tutorato del DMIF
+- Referente per la [CyberChallenge.it](https://cyberchallenge.it) presso l'Università di Udine.
+- Rappresentante dell'Università di Udine nel Consiglio Direttivo del [Consorzio CINI](https://www.consorzio-cini.it)
 
 ### Past events
 -   [6th Italian Conference on Cybersecurity (ITASEC 2022)](https://2022.itasec.it/) (PC member)
