@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://marino.miculan.org/sitemap.xml
