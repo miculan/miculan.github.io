@@ -1,0 +1,10 @@
+github_users:
+  - miculan
+
+github_repos:
+  - abu-lang/goabu
+  - abu-lang/abudsl
+  - abu-lang/abuc
+  - miculan/telegram-mtproto2-verification
+  - miculan/shaping-anonymous-contact-tracing-data
+  - bigraphs/jlibbig
