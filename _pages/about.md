@@ -10,6 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Office SN3</p>
+    <p>DMIF - Università di Udine</p>
     <p>Via delle Scienze 206</p>
     <p>I-33100, Udine, Italy</p>
 
