@@ -12,6 +12,8 @@ nav_order: 5
 -   [5th Distributed Ledger Technology Workshop (DLT 2023)](https://dltgroup.dmi.unipg.it/DLTWorkshop/dlt2023.html) (PC member)
 -   [International Conference on Security for Information Technology and Communications (SecITC 2022)](https://secitc.eu) (PC member)
 
+### Academic duties
+- Referente per l'Orientamento e Tutorato del DMIF
 
 ### Past events
 -   [6th Italian Conference on Cybersecurity (ITASEC 2022)](https://2022.itasec.it/) (PC member)

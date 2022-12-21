@@ -36,6 +36,7 @@ type theory,
 logical frameworks,
 proof assistants.
 
-Currently, I am mostly interested in formal methods and languages for distributed, component-based and *smart* systems, with a focus on system and network security.  If these are your interests too, drop me a note.
+Currently, I am mostly interested in formal methods and languages for distributed, component-based and *smart* systems, with a focus on system and network security.
+If these are your interests too, drop me a note.
 
 > Experience without theory is blind, but theory without experience is mere intellectual play. (I. Kant)
