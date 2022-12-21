@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 This webpage collects some information about my research, including my [publications](/publications/), the [projects](/projects/) I am involved in, and my [teaching](/teaching/) and [professional](/services/) activities.
-I lead the [Models and Applications of Distributed Systems](https://mads.uniud.it) laboratory.
+I lead the [Models and Applications of Distributed Systems](https://mads.uniud.it) lab, and the CyberSecurity lab.
 I have the fortune to work with a great [research group](/group/).
 
 [I am a *horizontal* scientist, rather than vertical. I prefer to range over many different subjects, finding connections between apparently distant subjects.]::
