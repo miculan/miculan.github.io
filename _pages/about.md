@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Office SN6</p>
+    <p>Office SN6 (L2-17-BC)</p>
     <p>DMIF - Università di Udine</p>
     <p>Via delle Scienze 206</p>
     <p>I-33100, Udine, Italy</p>
@@ -37,7 +37,7 @@ type theory,
 logical frameworks,
 proof assistants.
 
-Currently, I am mostly interested in formal methods and languages for distributed, component-based and *smart* systems, with a focus on system and network security.
+Currently, I am mostly interested in security aspects of distributed, component-based and *smart* systems, for which I use and develop semantic models, formal methods and domain specific languages.
 If these are your interests too, drop me a note.
 
 > Experience without theory is blind, but theory without experience is mere intellectual play. (I. Kant)
