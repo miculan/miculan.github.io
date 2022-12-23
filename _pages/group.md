@@ -8,9 +8,9 @@ nav_order: 5
 ---
 
 ### Current group
-- Vincenzo Riccio (RTD-B INF/01)
 - Matteo Paier (PhD student, Ciclo XXXVIII)
 - Davide Castelnovo (PhD student, Ciclo XXXV)
+- Vincenzo Riccio (RTD-B INF/01)
 - Pietro Di Gianantonio (Associate Professor)
 
 ### Past PhD students and research fellows
@@ -21,8 +21,7 @@ nav_order: 5
 - Michele Pasqua (research fellow, oct 2020-sep 2021)
 - Carlo Maiero (research fellow, oct 2010-sep 2011)
 
-
-### Undergrad students
+### Past undergraduate students
 Too many to list 'em all. Some are:
 - [Alessio Mansutti](https://alessiomansutti.github.io) (2016)
 - [Luca Geatti](https://users.dimi.uniud.it/~luca.geatti/) (2016)

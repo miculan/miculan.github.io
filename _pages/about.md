@@ -15,7 +15,6 @@ profile:
     <p>I-33100, Udine, Italy</p>
 
 news: true  # includes a list of news items
-news_limit: 3
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
@@ -38,7 +37,7 @@ type theory,
 logical frameworks,
 proof assistants.
 
-Currently, I am mostly interested in security aspects of distributed, component-based and *smart* systems, for which I use and develop semantic models, formal methods and domain specific languages.
+Currently, I am mostly interested in security aspects of distributed, component-based and *smart* systems, for which I use and develop semantic models, formal methods and domain specific languages.<br/>
 If these are your interests too, drop me a note.
 
 > Experience without theory is blind, but theory without experience is mere intellectual play. (I. Kant)
