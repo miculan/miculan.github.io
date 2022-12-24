@@ -2,8 +2,8 @@
 layout: page
 permalink: /news/
 title: news
-nav: false
-nav_order: 4
+nav: true
+nav_order: 1
 ---
           
 <div class="news">

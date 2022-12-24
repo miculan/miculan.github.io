@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Two papers accepted at ICTCS 2022.
+title: Two papers accepted at ICTCS 2022
 date: 2022-06-30
 inline: false
 public: false

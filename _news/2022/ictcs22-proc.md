@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Two papers published on the Proceedings of ICTCS 2022.
+title: Two papers published on the Proceedings of ICTCS 2022
 date: 2022-11-22
 inline: false
 public: false

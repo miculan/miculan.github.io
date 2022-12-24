@@ -12,6 +12,7 @@ nav_order: 5
 - Davide Castelnovo (PhD student, Ciclo XXXV)
 - Vincenzo Riccio (RTD-B INF/01)
 - Pietro Di Gianantonio (Associate Professor)
+- Ivan Scagnetto (Assistant Professor)
 
 ### Past PhD students and research fellows
 - [Marco Peressotti](https://uniud.academia.edu/MarcoPeressotti) (PhD student, ciclo XXVIII)
