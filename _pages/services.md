@@ -10,7 +10,6 @@ nav_order: 5
 ### Current and incoming events
 -   [7th Italian Conference on Cybersecurity (ITASEC 2023)](https://www.itasec.it/) (PC member)
 -   [5th Distributed Ledger Technology Workshop (DLT 2023)](https://dltgroup.dmi.unipg.it/DLTWorkshop/dlt2023.html) (PC member)
--   [International Conference on Security for Information Technology and Communications (SecITC 2022)](https://secitc.eu) (PC member)
 
 ### Academic duties
 - Referente per l'Orientamento e Tutorato del DMIF
@@ -18,6 +17,7 @@ nav_order: 5
 - Rappresentante dell'Università di Udine nel Consiglio Direttivo del [Consorzio CINI](https://www.consorzio-cini.it)
 
 ### Past events
+-   [International Conference on Security for Information Technology and Communications (SecITC 2022)](https://secitc.eu) (PC member)
 -   [6th Italian Conference on Cybersecurity (ITASEC 2022)](https://2022.itasec.it/) (PC member)
 -   [5th Italian Conference on Cybersecurity (ITASEC 2021)](https://2021.itasec.it/) (PC member)
 -   [4th Italian Conference on Cybersecurity (ITASEC 2020)](https://2020.itasec.it/) (PC member)
