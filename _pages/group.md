@@ -3,7 +3,7 @@ layout: page
 permalink: /group/
 title: group
 description: People I work with at the University of Udine.
-nav: true
+nav: false
 nav_order: 5
 ---
 
