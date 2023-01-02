@@ -2,6 +2,7 @@
 layout: page
 title: TOSCA
 description: MIUR COFIN 1999 (11/1999-11/2001)
+importance: 2
 category: past
 ---
 Project TOSCA was about *Teoria della Concorrenza, Linguaggi di Ordine Superiore e Strutture di Tipi* (Theory of Concurrency, Higher Order Languages and Types). 

@@ -2,7 +2,7 @@
 layout: page
 title: EuroProofNet
 description: EU COST CA20111 (11/2021-10/2025)
-importance: 3
+importance: 11
 category: current
 ---
 EuroProofNet, the *European Research Network on Formal Proofs*, is the European research network on digital proofs. EuroProofNet aims at boosting the interoperability and usability of proof systems.

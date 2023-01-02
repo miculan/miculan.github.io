@@ -2,6 +2,7 @@
 layout: page
 title: COMETA
 description: MIUR COFIN 2001013518 (01/2002-12/2003)
+importance: 4
 category: past
 ---
 Project COMETA was about *Computational Metamodels*. 

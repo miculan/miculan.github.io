@@ -2,7 +2,7 @@
 layout: page
 title: CarnePRI
 description: PSR 2014-2020 (6/2022-6/2024)
-importance: 2
+importance: 12
 category: current
 ---
 I collaborate with the project PSR 2014-2020 “Valorizzazione dell’ambiente, del territorio, delle produzioni, della multifunzionalità delle aziende e dell’agricoltura sociale per l’ambito rurale dei magredi, delle risorgive e della pianura pordenonese”, a EU funded program for rural develpment. 

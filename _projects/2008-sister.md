@@ -2,6 +2,7 @@
 layout: page
 title: SISTER
 description: MIUR PRIN 20088HXMYN (06/2010-05/2012)
+importance: 7
 category: past
 ---
 Project SISTER was about *Reduction Systems: synthesis, refinement and verification of behavioural models*. 

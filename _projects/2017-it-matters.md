@@ -2,7 +2,7 @@
 layout: page
 title: IT MATTERS
 description: MIUR PRIN 2017 (9/2019-8/2023)
-importance: 1
+importance: 10
 category: current
 ---
 The goal of the It-Matters project is the development and the experimentation of a novel methodology for the specification, implementation and validation of trustworthy smart systems based on formal methods. We envisage system development in three steps by first providing and analysing system models to find design errors, then moving from models to executable code by translation into domain-specific programming languages and, finally, monitoring runtime execution to detect anomalous behaviours and to support systems in taking context-dependent decisions autonomously. 
