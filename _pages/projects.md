@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of projects I am involved in.
+description: A growing collection of projects I am involved in. I can't say "no" to a cool proposal.
 nav: true
 nav_order: 2
-display_categories: [current, past, fun]
+display_categories: [current, past]
 horizontal: false
 ---
 

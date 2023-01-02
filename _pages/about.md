@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Associate Professor of Computer Science at <a href="https://www.dmif.uniud.it">DMIF</a>, <a href="https://www.uniud.it">University of Udine</a>.
+subtitle: Associate Professor of Computer Science (<a href="/projects/2023-serics/">mostly</a>) at <a href="https://www.dmif.uniud.it">DMIF</a>, <a href="https://www.uniud.it">University of Udine</a>.
 
 profile:
   align: right
