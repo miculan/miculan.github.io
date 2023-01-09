@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Associate Professor of Computer Science (<a href="/projects/2023-serics/">mostly</a>) at <a href="https://www.dmif.uniud.it">DMIF</a>, <a href="https://www.uniud.it">University of Udine</a>.
+subtitle: Associate Professor of Computer Science at <a href="https://www.dmif.uniud.it">DMIF</a>, <a href="https://www.uniud.it">University of Udine</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Office SN6 (L2-17-BC)</p>
+    <p>Office L2-17-BC</p>
     <p>DMIF - Università di Udine</p>
     <p>Via delle Scienze 206</p>
     <p>I-33100, Udine, Italy</p>
