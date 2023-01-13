@@ -10,8 +10,9 @@ nav_order: 5
 ### Current and incoming events
 - [7th Italian Conference on Cybersecurity (ITASEC 2023)](https://www.itasec.it/) (PC member)
 - [5th Distributed Ledger Technology Workshop (DLT 2023)](https://dltgroup.dmi.unipg.it/DLTWorkshop/dlt2023.html) (PC member)
+- [14th International Workshop on Graph Computation Models (GCM 2023)]() (PC member)
 
-### Academic duties
+### Current academic duties
 - Delegato per l'Orientamento e Tutorato del DMIF
 - Referente per la [CyberChallenge.it](https://cyberchallenge.it) presso l'Università di Udine.
 - Rappresentante dell'Università di Udine nel Consiglio Direttivo del [Consorzio CINI](https://www.consorzio-cini.it)
