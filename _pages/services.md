@@ -10,11 +10,12 @@ nav_order: 5
 ### Current and incoming events
 - [7th Italian Conference on Cybersecurity (ITASEC 2023)](https://www.itasec.it/) (PC member)
 - [5th Distributed Ledger Technology Workshop (DLT 2023)](https://dltgroup.dmi.unipg.it/DLTWorkshop/dlt2023.html) (PC member)
-- [14th International Workshop on Graph Computation Models (GCM 2023)]() (PC member)
+- [14th International Workshop on Graph Computation Models (GCM 2023)](https://conf.researchr.org/home/staf-2023/gcm-2023) (PC member)
 
 ### Current academic duties
 - Delegato per l'Orientamento e Tutorato del DMIF
 - Referente per la [CyberChallenge.it](https://cyberchallenge.it) presso l'Università di Udine.
+- Direttore del nodo locale di Udine del [Laboratorio Nazionale di Cybersecurity](https://cybersecnatlab.it) del CINI
 - Rappresentante dell'Università di Udine nel Consiglio Direttivo del [Consorzio CINI](https://www.consorzio-cini.it)
 
 ### Past events
@@ -91,8 +92,8 @@ nav_order: 5
 -   [TOSCA'01 Final workshop](http://farfarello.dimi.uniud.it/tosca01/)
     (OC member)
 
-### Past Academic duties
+### Past academic duties
 - Head of the Web Commission of the DMIF (2019-2022)
 - Paritetic Commission of the DMIF (2013–2017)
 - Deputy head of the Board of the Computer Science Curricula (2013–2016)
-- Deputy head of the Departmento of Mathematics and Computer Science (2005–2008)
+- Deputy head of the Department of Mathematics and Computer Science (2005–2008)

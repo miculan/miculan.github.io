@@ -48,6 +48,10 @@ layout: default
             <!-- Selected papers -->
             {%- include selected_papers.html %}
           {%- endif %}
+          {% if page.latest_papers -%}
+          <!-- Selected papers -->
+          {%- include latest_papers.html %}
+          {%- endif %}
           {%- if page.social %}
           <!-- Social -->
           <div class="social">
