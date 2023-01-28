@@ -7,8 +7,7 @@ first_name: Marino
 middle_name:
 last_name: Miculan
 email: marino.miculan@uniud.it
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Marino Miculan's web page. Based on [*folio](https://github.com/bogoli/-folio) design.
+description: Marino Miculan's web page.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -50,7 +49,7 @@ navbar_fixed: true
 footer_fixed: false
 
 # Dimensions
-max_width: 800px
+max_width: 1200px
 
 # TODO: add layout settings (single page vs. multi-page)
 
