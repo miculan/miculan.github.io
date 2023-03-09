@@ -2,8 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: Associate Professor of Computer Science at <a href="https://www.dmif.uniud.it">DMIF</a>, <a href="https://www.uniud.it">University of Udine</a>. <small>(Qualified as full professor since March 2018)</small>
-
 profile:
   align: right
   image: prof_pic.jpg
@@ -19,6 +17,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 latest_papers: false # includes 5 most recent papers"
 social: true  # includes social icons at the bottom of the page
 ---
+Associate Professor of Computer Science at <a href="https://www.dmif.uniud.it">DMIF</a>, <a href="https://www.uniud.it">University of Udine</a>. <small>(Qualified as full professor since March 2018)</small>
+
 This webpage collects some information about my research, including my [publications](/publications/), the [projects](/projects/) I am involved in, and my [teaching](/teaching/) and [professional](/services/) activities.<br/>
 I lead the [Models and Applications of Distributed Systems](https://mads.uniud.it) laboratory, and the Udine node of the [CINI National CyberSecurity laboratory](https://cybersecnatlab.it).
 I have the fortune to work with great [people](/group/).
