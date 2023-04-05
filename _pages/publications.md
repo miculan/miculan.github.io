@@ -14,7 +14,8 @@ See also my pages on
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=6602346936),
 [Orcid](https://orcid.org/0000-0003-0755-3444),
 [ResearchGate](https://www.researchgate.net/profile/Marino-Miculan),
-[SemanticScholar](https://www.semanticscholar.org/author/Marino-Miculan/1755352).<br/>
+[SemanticScholar](https://www.semanticscholar.org/author/Marino-Miculan/1755352),
+[MathSciNet](https://mathscinet.ams.org/mathscinet/MRAuthorID/352119).<br/>
 My Erdős number is 3.
 
 <div class="publications">
