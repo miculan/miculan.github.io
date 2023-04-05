@@ -41,5 +41,5 @@ logical frameworks,
 proof assistants.
 (In a sense, I am a *horizontal* researcher.)
 
-I founded and lead the [Models and Applications of Distributed Systems](https://mads.uniud.it) laboratory, and the Udine node of the [CINI National CyberSecurity laboratory](https://cybersecnatlab.it).
+I founded and lead the [Models and Applications of Distributed Systems](https://mads.uniud.it) laboratory, the Udine node of the [CINI National CyberSecurity laboratory](https://cybersecnatlab.it), and the [MadrHacks](https://www.madrhacks.org), the ethical hacking team of the University of Udine.<br/>
 I have the fortune to work with great [people](/group/).
