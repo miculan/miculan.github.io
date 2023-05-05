@@ -16,7 +16,7 @@ See also my pages on
 [ResearchGate](https://www.researchgate.net/profile/Marino-Miculan),
 [SemanticScholar](https://www.semanticscholar.org/author/Marino-Miculan/1755352),
 [MathSciNet](https://mathscinet.ams.org/mathscinet/MRAuthorID/352119).<br/>
-My Erdős number is 3.
+My Erdős number is 3 (Miculan – Rizzi – Hell – Erdős).
 
 <div class="publications">
 {% bibliography -f papers -g year -G descending %}
