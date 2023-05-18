@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Truthster
-description: NGI TruBlo prject (H2020-ICT-2018-2020 957228)
+description: NGI TruBlo project (H2020-ICT-2018-2020 957228)
 importance: 13
 category: current
 ---
