@@ -12,11 +12,13 @@ nav_order: 5
 - [14th International Workshop on Graph Computation Models (GCM 2023)](https://conf.researchr.org/home/staf-2023/gcm-2023) (PC member)
 
 ### Current academic duties
-- Delegate for Orientation and Tutoring at DMIF
-- Head of the [CyberChallenge.it](https://cyberchallenge.it) at the University of Udine
+
 - Head of the Udine node of the [Cybersecurity National Laboratory](https://cybersecnatlab.it)
 - Representative of the University of Udine in the Board of Directors of [CINI](https://www.consorzio-cini.it)
+- Head of the [CyberChallenge.it](https://cyberchallenge.it) at the University of Udine
+- Delegate for Orientation and Tutoring at DMIF
 - Representative of the University of Udine in the Scientific-Technical Board of [IFTS](https://www.formazioneiftsfvg.it/corsi-gratuiti-di-informatica-fvg/)
+
 
 ### Past events
 1. [7th Italian Conference on Cybersecurity (ITASEC 2023)](https://www.itasec.it/) (PC member)
@@ -27,8 +29,6 @@ nav_order: 5
 1. [Italy OWASP Day 2019](https://wiki.owasp.org/index.php/Italy_OWASP_Day_Udine_2019) (OC chair)
 1. [EXPRESS/SOS 2019](https://express-sos2019.cs.ru.nl) (PC member)
 1. [3rd Italian Conference on Cybersecurity (ITASEC 2019)](https://2019.itasec.it/) (PC member)
-1. [Logical Frameworks and Meta-Languages: Theory and
-    Practice](http://lfmtp.org/) (Steering Committee member)
 1. [2018 EUTypes Summer School on Types for Programming and Verification (EUTYPES School 2018)](https://sites.google.com/view/2018eutypesschool/home)
     (chair)
 1. [Logics, Types, and Semantics: a Journey in Theoretical Computer
@@ -66,7 +66,7 @@ nav_order: 5
     (PC member)
 1. [Logical Frameworks and Meta-Languages: Theory and
     Practice](http://lfmtp.org/workshops/2010/Site/Welcome.html) (PC
-    Co-chair, Steering committee member)
+    Co-chair)
 1. [Logical Frameworks and Meta-Languages: Theory and Practice
     2009](http://workshops.inf.ed.ac.uk/lfmtp/) (PC member)
 1. [Membrane Computing and Biologically Inspired Process Calculi
@@ -95,6 +95,8 @@ nav_order: 5
 
 ### Past academic duties
 - Head of the Web Commission of the DMIF (2019-2022)
+- Member of the Steering Committee of [Logical Frameworks and Meta-Languages: Theory and Practice](http://lfmtp.org/) (2010-2015 and 2017-2022)
 - Paritetic Commission of the DMIF (2013–2017)
 - Deputy head of the Board of the Computer Science Curricula (2013–2016)
 - Deputy head of the Department of Mathematics and Computer Science (2005–2008)
+
