@@ -2,9 +2,9 @@
 layout: post
 date: 2023-06-26
 inline: false
-title: Presenting on AbU and Collective Adaptive Systems at OPCT 2023, Bertinoro
+title: Presenting on AbU and Collective Adaptive Systems at OPCT 2023
 ---
-This week I will be attending the [Open Problems in Concurrency Theory (OPCT) 2023](http://www.sti.uniurb.it/events/opct2023/index.html) research seminar, held in the medieval hilltop town of Bertinoro, Italy.
+This week I will be attending the [Open Problems in Concurrency Theory (OPCT) 2023](http://www.sti.uniurb.it/events/opct2023/index.html) research seminar, held in the medieval hilltop town of Bertinoro, Italy (9 years after my first OPCT).
 
 OPCT, sponsored by the [IFIP Working Group 1.8](https://concurrency-theory.org/organizations/ifip), serves as a platform for identifying important open problems in the field of concurrency theory and sharing ongoing studies. 
 During the seminar, I have the privilege of giving an invited presentation on "Modeling Collective Adaptive Systems with Attribute-Based Events: Recent Trends and Open Problems."
