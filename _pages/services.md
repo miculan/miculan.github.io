@@ -8,11 +8,11 @@ nav_order: 5
 ---
 ### Current and incoming events
 - [IEEE 35th International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD 2023)](https://www.inf.pucrs.br/sbacpad2023/) (PC member)
-- [5th Distributed Ledger Technology Workshop (DLT 2023)](https://dltgroup.dmi.unipg.it/DLTWorkshop/dlt2023.html) (PC member)
 - [14th International Workshop on Graph Computation Models (GCM 2023)](https://conf.researchr.org/home/staf-2023/gcm-2023) (PC member)
 
 ### Current academic duties
 
+- Deputy Head of the [Departiment of Mathematics, Computer Science and Physiscs](https://www.dmif.uniud.it)
 - Head of the Udine node of the [Cybersecurity National Laboratory](https://cybersecnatlab.it)
 - Representative of the University of Udine in the Board of Directors of [CINI](https://www.consorzio-cini.it)
 - Head of the [CyberChallenge.it](https://cyberchallenge.it) at the University of Udine
@@ -21,6 +21,7 @@ nav_order: 5
 
 
 ### Past events
+1. [5th Distributed Ledger Technology Workshop (DLT 2023)](https://dltgroup.dmi.unipg.it/DLTWorkshop/dlt2023.html) (PC member)
 1. [7th Italian Conference on Cybersecurity (ITASEC 2023)](https://www.itasec.it/) (PC member)
 1. [International Conference on Security for Information Technology and Communications (SecITC 2022)](https://secitc.eu) (PC member)
 1. [6th Italian Conference on Cybersecurity (ITASEC 2022)](https://2022.itasec.it/) (PC member)
