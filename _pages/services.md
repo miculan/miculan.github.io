@@ -11,13 +11,12 @@ nav_order: 5
 - [14th International Workshop on Graph Computation Models (GCM 2023)](https://conf.researchr.org/home/staf-2023/gcm-2023) (PC member)
 
 ### Current academic duties
-
-- Deputy Head of the [Departiment of Mathematics, Computer Science and Physiscs](https://www.dmif.uniud.it)
-- Head of the Udine node of the [Cybersecurity National Laboratory](https://cybersecnatlab.it)
-- Representative of the University of Udine in the Board of Directors of [CINI](https://www.consorzio-cini.it)
-- Head of the [CyberChallenge.it](https://cyberchallenge.it) at the University of Udine
-- Delegate for Orientation and Tutoring at DMIF
-- Representative of the University of Udine in the Scientific-Technical Board of [IFTS](https://www.formazioneiftsfvg.it/corsi-gratuiti-di-informatica-fvg/)
+- Deputy Head of the [Departiment of Mathematics, Computer Science and Physics](https://www.dmif.uniud.it) (2023-)
+- Head of the Udine node of the [Cybersecurity National Laboratory](https://cybersecnatlab.it) (2015-)
+- Representative of the University of Udine in the Directive Board of [CINI](https://www.consorzio-cini.it) (2008-)
+- Head of the [CyberChallenge.it](https://cyberchallenge.it) at the University of Udine (2020-)
+- Delegate for Orientation and Tutoring at the [Departiment of Mathematics, Computer Science and Physiscs](https://www.dmif.uniud.it) (2019-)
+- Representative of the University of Udine in the Scientific-Technical Board of [IFTS](https://www.formazioneiftsfvg.it/corsi-gratuiti-di-informatica-fvg/) (2016-)
 
 
 ### Past events

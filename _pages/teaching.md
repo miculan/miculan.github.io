@@ -6,17 +6,51 @@ description: Some courses I teach or have teached.
 nav: true
 nav_order: 5
 ---
-
-## Current
-- [Reti di Calcolatori](https://uniud.coursecatalogue.cineca.it/insegnamenti/2022/16019/2017/9999/128) at the BSc in [Computer Science](https://www.uniud.it/it/didattica/corsi/area-scientifica/scienze-matematiche-informatiche-multimediali-fisiche/laurea/informatica/corso/informatica) (Laurea in Informatica) at the University of Udine (2010/11 - current)
+## Current courses
+- [Reti di Calcolatori (Computer Networks)](https://uniud.coursecatalogue.cineca.it/insegnamenti/2022/16019/2017/9999/128) at the BSc in [Computer Science](https://www.uniud.it/it/didattica/corsi/area-scientifica/scienze-matematiche-informatiche-multimediali-fisiche/laurea/informatica/corso/informatica) (Laurea in Informatica) at the University of Udine (2009/10 - current)
 - [Computer Network Security](https://uniud.coursecatalogue.cineca.it/insegnamenti/2022/19626/2020/9999/10644) at the MSc in [Artificial Intelligence & Computer Security](https://www.uniud.it/it/didattica/corsi/area-scientifica/scienze-matematiche-informatiche-multimediali-fisiche/laurea-magistrale/artificial-intelligence-cybersecurity/corso/artificial-intelligence-cybersecurity) (Laurea magistrale double degree) at the University of Udine - University of Klagenfurt (2020/21 - current)
-- [Distributed Systems](https://uniud.coursecatalogue.cineca.it/insegnamenti/2022/19086/2020/9999/10644) at the MSc in [Artificial Intelligence & Computer Security](https://www.uniud.it/it/didattica/corsi/area-scientifica/scienze-matematiche-informatiche-multimediali-fisiche/laurea-magistrale/artificial-intelligence-cybersecurity/corso/artificial-intelligence-cybersecurity) (Laurea magistrale double degree) at the University of Udine - University of Klagenfurt (2010/11 - current)
-- [Introduction to Distributed Systems]() at the Scuola Superiore of the University of Udine (2022/23)
 
-## Past
-- *Intro to Blockchains and Cryptocurrencies* at the MSc in Finance & Management, Cranfield University, UK (2017/18 - 2020/21)
-- *Compilers* (Compilatori) at the MSc in Computer Science (Laurea magistrale in Informatica) at the University of Udine (2009/10 - 2010/11)
-- *Operating Systems* (Sistemi Operativi) at the BSc in Computer Science (Laurea in Informatica) at the University of Udine (1999/2000 - 2004/05)
-- (to be continued...)
+## Students
+Current PhD students:
+- Davide Castelnovo, PhD in Computer Science, Mathematics and Physics, Cycle XXXV (2019-2023). Thesis title: *Fuzzy algebraic theories and M,N-adhesive categories*
+- Matteo Paier, National PhD in Cybersecurity, Cycle XXXVIII (2022-2024).
 
+Past PhD students:
+- [Marco Peressotti](https://marcoperessotti.com/), PhD Program in Computer Science, Cycle XXIX (2013-2016). Thesis title: *Coalgebraic semantics of self-referential behaviours*
+- [Giorgio Bacci](https://homes.cs.aau.dk/~grbacci/), PhD in Computer Science, Cycle XXV (2009-2012). Thesis title: *Generalized labelled Markov processes, coalgebraically*
+- Davide Grohmann, PhD in Computer Science, Cycle XXIII (2007-2009). Thesis title: *Multi-graph Structures as Frameworks for Distributed and Concurrent Systems*
 
+I have supervised more than 150 BSc and MSc theses; for the complete list use [this form](https://servizi.amm.uniud.it/CercaTesi/Home/Advanced/), putting "miculan" in the "Nominativo relatore" field.
+
+## Past courses
+### In BSc courses
+- *Reti di Calcolatori e Sicurezza* at the "Laurea in Informatica", Faculty of Sciences (2005/06 - 2009/10)
+- *Operating Systems* at the "Laurea in Biotecnologie", Faculty of Sciences (2005/06 - 2009/10)
+- *Informatica Documentale* at the "Laurea in Conservazione dei Beni Culturali", Faculty of Letters and Philosophy (2004/05 - 2006/07)
+- *Archiviazione dei documenti multimediali* at the "Laurea in DAMS", Faculty of Letters and Philosophy (2004/05 - 2006/07)
+- *Sistemi Operativi* at the "Laurea in Informatica" (2000/01 - 2003/04)
+- *Informatica Generale* at the "Laurea in Scienze e Tecnologie Multimediali", Faculty of Educational Sciences (2001/02, 2002/03)
+- *Sistemi Operativi* at the "Diploma Universitario in Informatica", Faculty of Sciences (1997/98 - 1999/00)
+- *Laboratorio di Informatica* at the "Laurea in Scienze e Tecnologie Alimentari", Faculty of Agrarian Sciences (1997/98)
+
+### In MSc courses
+- [Distributed Systems](https://uniud.coursecatalogue.cineca.it/insegnamenti/2022/19086/2020/9999/10644) at the MSc in [Artificial Intelligence & Computer Security](https://www.uniud.it/it/didattica/corsi/area-scientifica/scienze-matematiche-informatiche-multimediali-fisiche/laurea-magistrale/artificial-intelligence-cybersecurity/corso/artificial-intelligence-cybersecurity) (Laurea magistrale double degree) at the University of Udine - University of Klagenfurt (2010/11 - 2022/23)
+- *Concurrency Theory* at the MSc in Computer Science, Faculty of Sciences (2011/12, 2013/14, 2015/16)
+- *Compilers* (Compilatori) at the MSc in Computer Science (Laurea magistrale in Informatica) at the University of Udine (2009/10, 2010/11)
+- *Languages and Models for Global Computing* at the MSc in Computer Science, Faculty of Sciences (2004/05 - 2009/10)
+
+### In PhD courses and excellence schools
+- [Introduction to Distributed Systems](https://superiore.uniud.it/it/didattica/corsi_anni_precedenti/corsi-2022-2023/disciplinari-classe-scientifica/introduzione-ai-sistemi-distribuiti) at the Scuola Superiore of the University of Udine (2022/23)
+- *Category theory* at the PhD in Computer Science and the Scuola Superiore of the University of Udine (2012/13, 2017/18, 2020/21)
+- *Logical Frameworks* at the Scuola Superiore of the University of Udine (2016)
+- *Systems Biology* at the PhD in Computer Science (2009)
+
+### In Master courses
+- *Network security* at the II-level Master in Intelligence and ICT (2018/19 - 2022/23)
+- *Computer security* at the II-level Master in Medical Informatics (2007/08)
+
+### In foreign universities and research institutes
+- *Introduction to Blockchains and Cryptocurrencies* at the MSc in Finance & Management, Cranfield University, UK (2019 - 2021)
+- Head of the *EUTypes Summer School on Types for Programming and Verification* (COST action CA15123), Ohrid, Macedonia (2018)
+- *Structural Operational Semantics for Probabilistic and Stochastic Processes* at the PhD in Computer Science, IT University, Copenhagen (Oct 2012)
+- *Functional Programming: foundations and applications* at the Birla Science Center, Hyderabad, India (Nov 2000)
