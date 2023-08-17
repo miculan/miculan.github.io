@@ -11,6 +11,10 @@ nav_order: 41
 - [Computer Network Security](https://uniud.coursecatalogue.cineca.it/insegnamenti/2022/19626/2020/9999/10644) at the MSc in [Artificial Intelligence & Computer Security](https://www.uniud.it/it/didattica/corsi/area-scientifica/scienze-matematiche-informatiche-multimediali-fisiche/laurea-magistrale/artificial-intelligence-cybersecurity/corso/artificial-intelligence-cybersecurity) (Laurea magistrale double degree) at the University of Udine - University of Klagenfurt (2020/21 - current)
 - *Network security* at the [Master in Intelligence and ICT](https://masterintelligenceict.dmif.uniud.it) (2018/19 - current)
 
+## Current PhD students
+- Davide Castelnovo, PhD in Computer Science, Mathematics and Physics, Cycle XXXV (2019-2023). Thesis title: *Fuzzy algebraic theories and M,N-adhesive categories*
+- Matteo Paier, [National PhD in Cybersecurity](https://cysec2022.imtlucca.it/), Cycle XXXVIII (2022-2025).
+
 ## Past courses
 In BSc courses
 - *Reti di Calcolatori e Sicurezza* at the "Laurea in Informatica", Faculty of Sciences (2005/06 - 2009/10)
@@ -43,14 +47,20 @@ In foreign universities and research institutes
 - *Structural Operational Semantics for Probabilistic and Stochastic Processes* at the PhD in Computer Science, IT University, Copenhagen (Oct 2012)
 - *Functional Programming: foundations and applications* at the Birla Science Center, Hyderabad, India (Nov 2000)
 
-## Students
-Current PhD students:
-- Davide Castelnovo, PhD in Computer Science, Mathematics and Physics, Cycle XXXV (2019-2023). Thesis title: *Fuzzy algebraic theories and M,N-adhesive categories*
-- Matteo Paier, [National PhD in Cybersecurity](https://cysec2022.imtlucca.it/), Cycle XXXVIII (2022-2025).
-
-Past PhD students:
+## Past PhD students:
 - [Marco Peressotti](https://marcoperessotti.com/), PhD Program in Computer Science, Cycle XXIX (2013-2016). Thesis title: *Coalgebraic semantics of self-referential behaviours*
 - [Giorgio Bacci](https://homes.cs.aau.dk/~grbacci/), PhD in Computer Science, Cycle XXV (2009-2012). Thesis title: *Generalized labelled Markov processes, coalgebraically*
 - Davide Grohmann, PhD in Computer Science, Cycle XXIII (2007-2009). Thesis title: *Multi-graph Structures as Frameworks for Distributed and Concurrent Systems*
 
+### Past undergraduate students
 I have supervised more than 150 BSc and MSc theses; for the complete list use [this form](https://servizi.amm.uniud.it/CercaTesi/Home/Advanced/), putting "miculan" in the "Nominativo relatore" field.
+Some are:
+- [Alessio Mansutti](https://alessiomansutti.github.io) (2016)
+- [Luca Geatti](https://users.dimi.uniud.it/~luca.geatti/) (2016)
+- [Marco Paviotti](https://mpaviotti.github.io) (2012)
+- [Matteo Cicuttin](http://www.matteocicuttin.it) (2012)
+- [Emanuele D'Osualdo](https://www.emanueledosualdo.com) (2010)
+- [Caterina Urban](http://www.di.ens.fr/~urban/Home_Page.html) (2009)
+- [Matteo Mio](https://sites.google.com/site/miomatteo/) (2007)
+- [Temesghen Kashai](http://www.lememta.info/) (2006)
+

@@ -22,15 +22,3 @@ nav_order: 13
 - Carlo Maiero (research fellow, oct 2010-sep 2011)
 - [Davide Grohmann](http://dk.linkedin.com/pub/davide-grohmann/38/b3a/535) (PhD student, Ciclo XXII)
 
-### Past undergraduate students
-Too many to list 'em all. Some are:
-- [Alessio Mansutti](https://alessiomansutti.github.io) (2016)
-- [Luca Geatti](https://users.dimi.uniud.it/~luca.geatti/) (2016)
-- [Marco Paviotti](https://mpaviotti.github.io) (2012)
-- [Matteo Cicuttin](http://www.matteocicuttin.it) (2012)
-- [Emanuele D'Osualdo](https://www.emanueledosualdo.com) (2010)
-- [Caterina Urban](http://www.di.ens.fr/~urban/Home_Page.html) (2009)
-- [Matteo Mio](https://sites.google.com/site/miomatteo/) (2007)
-- [Temesghen Kashai](http://www.lememta.info/) (2006)
-
-See on [cercatesi](https://servizi.amm.uniud.it/CercaTesi/Home/Advanced/) for a complete list.
