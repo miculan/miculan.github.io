@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: A growing list of projects I am or I have been involved in.
 nav: true
-nav_order: 2
+nav_order: 23
 display_categories: [current, past]
 horizontal: true
 ---

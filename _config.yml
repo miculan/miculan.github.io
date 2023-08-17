@@ -11,10 +11,10 @@ description: Marino Miculan's web page.
 OPTfooter_text: > 
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: uniud, marino-miculan, miculan, computer-science, academic, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords: uniud, marino-miculan, miculan, researcher, computer-science, academic, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://marino.miculan.org # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
@@ -67,7 +67,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: miculan # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: oniramix # your Twitter handle
+twitter_username: # oniramix # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: marino-miculan-2232a52 # your LinkedIn user name
 telegram_username: oniram # your Telegram user name
@@ -81,7 +81,7 @@ quora_username: # your Quora username
 publons_id: AAO-3301-2021 # your ID on Publons
 research_gate_profile: Marino-Miculan # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: # work page URL
+work_url: https://people.uniud.it/page/marino.miculan # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: https://dblp.uni-trier.de/pid/m/MarinoMiculan.html # your DBLP profile url

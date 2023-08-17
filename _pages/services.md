@@ -4,7 +4,7 @@ permalink: /services/
 title: services
 description: Events, committees and other professional activities I am involved in.
 nav: true
-nav_order: 5
+nav_order: 31
 ---
 ### Current and incoming events
 - [IEEE 35th International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD 2023)](https://www.inf.pucrs.br/sbacpad2023/) (PC member)

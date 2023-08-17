@@ -4,24 +4,12 @@ permalink: /teaching/
 title: teaching
 description: Some courses I teach or have taught.
 nav: true
-nav_order: 5
+nav_order: 41
 ---
 ## Current courses
 - [Reti di Calcolatori (Computer Networks)](https://uniud.coursecatalogue.cineca.it/insegnamenti/2022/16019/2017/9999/128) at the BSc in [Computer Science](https://www.uniud.it/it/didattica/corsi/area-scientifica/scienze-matematiche-informatiche-multimediali-fisiche/laurea/informatica/corso/informatica) (Laurea in Informatica) at the University of Udine (2009/10 - current)
 - [Computer Network Security](https://uniud.coursecatalogue.cineca.it/insegnamenti/2022/19626/2020/9999/10644) at the MSc in [Artificial Intelligence & Computer Security](https://www.uniud.it/it/didattica/corsi/area-scientifica/scienze-matematiche-informatiche-multimediali-fisiche/laurea-magistrale/artificial-intelligence-cybersecurity/corso/artificial-intelligence-cybersecurity) (Laurea magistrale double degree) at the University of Udine - University of Klagenfurt (2020/21 - current)
 - *Network security* at the [Master in Intelligence and ICT](https://masterintelligenceict.dmif.uniud.it) (2018/19 - current)
-
-## Students
-Current PhD students:
-- Davide Castelnovo, PhD in Computer Science, Mathematics and Physics, Cycle XXXV (2019-2023). Thesis title: *Fuzzy algebraic theories and M,N-adhesive categories*
-- Matteo Paier, National PhD in Cybersecurity, Cycle XXXVIII (2022-2024).
-
-Past PhD students:
-- [Marco Peressotti](https://marcoperessotti.com/), PhD Program in Computer Science, Cycle XXIX (2013-2016). Thesis title: *Coalgebraic semantics of self-referential behaviours*
-- [Giorgio Bacci](https://homes.cs.aau.dk/~grbacci/), PhD in Computer Science, Cycle XXV (2009-2012). Thesis title: *Generalized labelled Markov processes, coalgebraically*
-- Davide Grohmann, PhD in Computer Science, Cycle XXIII (2007-2009). Thesis title: *Multi-graph Structures as Frameworks for Distributed and Concurrent Systems*
-
-I have supervised more than 150 BSc and MSc theses; for the complete list use [this form](https://servizi.amm.uniud.it/CercaTesi/Home/Advanced/), putting "miculan" in the "Nominativo relatore" field.
 
 ## Past courses
 In BSc courses
@@ -47,10 +35,22 @@ In PhD courses and excellence schools
 - *Systems Biology* at the PhD in Computer Science (2009)
 
 In Master courses
-- *Computer security* at the II-level Master in Medical Informatics (2007/08)
+- *Computer security* at the second level Master in Medical Informatics (2007/08)
 
 In foreign universities and research institutes
 - *Introduction to Blockchains and Cryptocurrencies* at the MSc in Finance & Management, Cranfield University, UK (2019 - 2021)
 - Head of the *EUTypes Summer School on Types for Programming and Verification* (COST action CA15123), Ohrid, Macedonia (2018)
 - *Structural Operational Semantics for Probabilistic and Stochastic Processes* at the PhD in Computer Science, IT University, Copenhagen (Oct 2012)
 - *Functional Programming: foundations and applications* at the Birla Science Center, Hyderabad, India (Nov 2000)
+
+## Students
+Current PhD students:
+- Davide Castelnovo, PhD in Computer Science, Mathematics and Physics, Cycle XXXV (2019-2023). Thesis title: *Fuzzy algebraic theories and M,N-adhesive categories*
+- Matteo Paier, [National PhD in Cybersecurity](https://cysec2022.imtlucca.it/), Cycle XXXVIII (2022-2025).
+
+Past PhD students:
+- [Marco Peressotti](https://marcoperessotti.com/), PhD Program in Computer Science, Cycle XXIX (2013-2016). Thesis title: *Coalgebraic semantics of self-referential behaviours*
+- [Giorgio Bacci](https://homes.cs.aau.dk/~grbacci/), PhD in Computer Science, Cycle XXV (2009-2012). Thesis title: *Generalized labelled Markov processes, coalgebraically*
+- Davide Grohmann, PhD in Computer Science, Cycle XXIII (2007-2009). Thesis title: *Multi-graph Structures as Frameworks for Distributed and Concurrent Systems*
+
+I have supervised more than 150 BSc and MSc theses; for the complete list use [this form](https://servizi.amm.uniud.it/CercaTesi/Home/Advanced/), putting "miculan" in the "Nominativo relatore" field.

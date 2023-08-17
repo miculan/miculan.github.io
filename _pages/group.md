@@ -4,7 +4,7 @@ permalink: /group/
 title: group
 description: People I work with at the University of Udine.
 nav: false
-nav_order: 5
+nav_order: 13
 ---
 
 ### Current group
@@ -15,12 +15,12 @@ nav_order: 5
 - Ivan Scagnetto (Assistant Professor)
 
 ### Past PhD students and research fellows
-- [Marco Peressotti](https://uniud.academia.edu/MarcoPeressotti) (PhD student, ciclo XXVIII)
-- [Giorgio Bacci](http://people.cs.aau.dk/~grbacci/) (PhD student, Ciclo XXIV)
-- [Davide Grohmann](http://dk.linkedin.com/pub/davide-grohmann/38/b3a/535) (PhD student, Ciclo XXII)
 - Claude Stolze (research fellow, oct 2020-sep 2022)
-- Michele Pasqua (research fellow, oct 2020-sep 2021)
+- [Michele Pasqua](https://michelepasqua.github.io/) (research fellow, oct 2020-sep 2021)
+- [Marco Peressotti](https://marcoperessotti.com) (PhD student, ciclo XXVIII)
+- [Giorgio Bacci](http://people.cs.aau.dk/~grbacci/) (PhD student, Ciclo XXIV)
 - Carlo Maiero (research fellow, oct 2010-sep 2011)
+- [Davide Grohmann](http://dk.linkedin.com/pub/davide-grohmann/38/b3a/535) (PhD student, Ciclo XXII)
 
 ### Past undergraduate students
 Too many to list 'em all. Some are:

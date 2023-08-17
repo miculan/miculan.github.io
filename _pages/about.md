@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: home
 OPTsubtitle: Wanderer above the Sea of Computer Science
 permalink: /
 profile:
