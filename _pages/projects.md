@@ -20,7 +20,7 @@ horizontal: true
 ## Concluded projects
 1. [IT MATTERS](/projects/2017-it-matters/): MIUR PRIN 2017 (9/2019-8/2023). Site leader, Work package leader
 1. [TRUTHSTER](/projects/2022-truthster/): NGI TruBlo project (H2020-ICT-2018-2020 957228)
-1. [EUTYPES](/projects/2015-eutypes/): EU COST action CA15123 (04/2016-03/2020). Italy's MC representative
+1. [EUTYPES](/projects/2015-eutypes/): EU COST action CA15123 (04/2016-03/2020). Italy's representative in the Management Committee
 1. [CINA](/projects/2010-cina/): MIUR PRIN 2010 (02/2013-02/2016). Work package leader
 1. [SISTER](/projects/2008-sister/): MIUR PRIN 2008 (06/2010-05/2012). Site leader
 1. [ART](/projects/2005-art/): MIUR PRIN 2005 (02/2006-01/2008). Work package leader
