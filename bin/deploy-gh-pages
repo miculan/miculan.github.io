@@ -1,0 +1,14 @@
+#!/bin/bash
+# Sync master branch and prepare staging branch.
+git checkout master
+git pullgit checkout -B gh-pages-staging
+git branch -D gh-pages 
+# Build storybook-static for staging and push to gh-pages.
+npm run build
+git add -f build
+git commit -m "Add gh-pages"
+git subtree split --prefix build -b gh-pages
+git push origin -f gh-pages:gh-pages 
+# Clean up branches and files.
+git checkout master
+git branch -D gh-pages gh-pages-staging

@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Associate Professor of Computer Science at <a href="https://www.dmif.uniud.it">DMIF</a>, <a href="https://www.uniud.it">University of Udine</a>. <small>(Qualified to Full Professor since March 2018.)</small>
 
-This webpage collects some information about my research, including my [publications](/publications/), the [projects](/projects/) I am involved in, and my [teaching](/teaching/) and [professional](/services/) activities.
+This webpage collects some information about my research, including my [publications](/publications/), the scientific [projects](/projects/) and [events](/events/) I am involved in, my [teaching](/teaching/) activities and academic [services](/services/).
 
 I know one or two things about
 process calculi,
