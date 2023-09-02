@@ -4,7 +4,7 @@ permalink: /services/
 title: services
 description: Duties, committees and other professional activities I am involved in.
 nav: true
-nav_order: 31
+nav_order: 41
 ---
 
 ### Current academic duties

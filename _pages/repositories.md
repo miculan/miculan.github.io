@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /repositories/
-title: repositories
-description: Some GitHub repos I contribute to.
+permalink: /repos/
+title: repos
+description: Some GitHub repositories I contribute to.
 nav: true
-nav_order: 25
+nav_order: 42
 ---
 
 ## GitHub users
