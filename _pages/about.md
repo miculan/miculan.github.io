@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 latest_papers: false # includes 5 most recent papers"
 social: true  # includes social icons at the bottom of the page
 ---
-Associate Professor of Computer Science at <a href="https://www.dmif.uniud.it">DMIF</a>, <a href="https://www.uniud.it">University of Udine</a>. <small>(Qualified to Full Professor since March 2018.)</small>
+Associate Professor of Computer Science and Deputy Head at <a href="https://www.dmif.uniud.it">Department of Mathematics, Computer Science and Physics</a> of the <a href="https://www.uniud.it">University of Udine</a>. <small>(Qualified to Full Professor since March 2018.)</small>
 
 This webpage collects some information about my research, including my [publications](/publications/), the scientific [projects](/projects/) and [events](/events/) I am involved in, my [teaching](/teaching/) activities and academic [services](/services/).
 
