@@ -6,6 +6,12 @@ description: Some courses I teach or have taught.
 nav: true
 nav_order: 31
 ---
+I have taught courses on many subjects, and not only in scientific faculties; in fact, Computer Science is intrinsically multidisciplinary, and hence interacting with students and colleagues from different fields is a valuable and inspiring experience. 
+
+I have created from scratch several courses, such as *Distributed Systems*, *Computer Network Security*, *Concurrency theory*, *Languages and Models for Global Computing*.
+
+Currently I am the coordinator of the [Cybersecurity](https://www.dmif.uniud.it/en/master/computer-science/cybersecurity/) track within the Master Degree in Computer Science.
+
 ## Current courses
 - [Reti di Calcolatori (Computer Networks)](https://uniud.coursecatalogue.cineca.it/insegnamenti/2022/16019/2017/9999/128) at the BSc in [Computer Science](https://www.uniud.it/it/didattica/corsi/area-scientifica/scienze-matematiche-informatiche-multimediali-fisiche/laurea/informatica/corso/informatica) (Laurea in Informatica) at the University of Udine (2009/10 - current)
 - [Computer Network Security](https://uniud.coursecatalogue.cineca.it/insegnamenti/2022/19626/2020/9999/10644) at the MSc in [Computer Science](https://www.uniud.it/it/didattica/corsi/area-scientifica/scienze-matematiche-informatiche-multimediali-fisiche/laurea-magistrale/informatica/corso/informatica) and at the International MSc in  [Artificial Intelligence & Computer Security](https://www.uniud.it/it/didattica/corsi/area-scientifica/scienze-matematiche-informatiche-multimediali-fisiche/laurea-magistrale/artificial-intelligence-cybersecurity/corso/artificial-intelligence-cybersecurity) (Laurea magistrale double degree) at the University of Udine - University of Klagenfurt (2020/21 - current)
