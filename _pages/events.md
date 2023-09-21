@@ -67,7 +67,7 @@ nav_order: 24
 1. [Logical Frameworks and Meta-Languages: Theory and Practice
     2007](http://www.cs.mcgill.ca/~bpientka/lfmtp07/) (PC member)
 1. [TYPES 2007](/types07) (OC and PC member)
-1. [Effects and Type Theory, EffTT 2007](http://cs.ioc.ee/efftt/) .
+1. [Effects and Type Theory, EffTT 2007](http://cs.ioc.ee/efftt/)
 1. [Mathematically Structured Functional Programming
     2006](http://cs.ioc.ee/mpc-amast06/msfp/) (PC member)
 1. [IFIP WG 2.2 Anniversary Meeting](/ifip06) (OC member).
