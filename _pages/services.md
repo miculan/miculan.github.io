@@ -18,7 +18,6 @@ nav_order: 41
 
 ### Past academic positions
 - Head of the Web Commission of the DMIF (2019-2022)
-- Member of the Steering Committee of [Logical Frameworks and Meta-Languages: Theory and Practice](http://lfmtp.org/) (2010-2015 and 2017-2022)
 - Responsible of the Erasmus Exchange with Goteborg University (2009-2020)
 - Member of the Paritetic Commission of the DMIF (2013–2017)
 - Deputy head of the Board of Computer Science Curricula (2013–2016)
