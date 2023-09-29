@@ -9,15 +9,18 @@ nav_order: 41
 ### Current academic positions
 - Deputy Head of the [Department of Mathematics, Computer Science and Physics](https://www.dmif.uniud.it) (2023-)
 - Member of Research Board of the [Department of Mathematics, Computer Science and Physics](https://www.dmif.uniud.it) (2023-)
+- Member of the Faculty Board of the [PhD Course in Computer Science and Artificial Intelligence](https://www.dmif.uniud.it/dottorato/iai/) (2022-)
+- Member of the Faculty Board of the [PhD Course in Computer Science, Mathematics and Physics](https://www.dmif.uniud.it/dottorato/imf/) (2020-)
 - Head of the [CyberChallenge.it](https://cyberchallenge.it) at the University of Udine (2020-)
 - Delegate for Orientation and Tutoring at the [Department of Mathematics, Computer Science and Physics](https://www.dmif.uniud.it) (2019-)
 - Representative of the University of Udine in the Scientific-Technical Board of [IFTS](https://www.formazioneiftsfvg.it/corsi-gratuiti-di-informatica-fvg/) (2016-)
 - Head of the Udine node of the [Cybersecurity National Laboratory](https://cybersecnatlab.it) (2015-)
 - Representative of the University of Udine in the Directive Board of [CINI](https://www.consorzio-cini.it) (2008-)
 
-
 ### Past academic positions
 - Head of the Web Commission of the DMIF (2019-2022)
+- Director of the Udine node of the CINI consortium (2009-2020)
+- Member of the Faculty Board of the [PhD Course in Computer Science](https://www.dmif.uniud.it/dottorato/informatica/) (2006-2017)
 - Responsible of the Erasmus Exchange with Goteborg University (2009-2020)
 - Member of the Paritetic Commission of the DMIF (2013–2017)
 - Deputy head of the Board of Computer Science Curricula (2013–2016)
