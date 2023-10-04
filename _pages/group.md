@@ -7,13 +7,13 @@ nav: true
 nav_order: 25
 ---
 ### Current group
-- Matteo Paier, student of the [National PhD in Cybersecurity](https://cysec2022.imtlucca.it/), Cycle XXXVIII (2022-2025).
-- Davide Castelnovo, PhD student in Computer Science, Mathematics and Physics, Cycle XXXV (2019-2023).
-- Vincenzo Riccio (Tenure-track Assistant Professor (RTD-B))
 - Pietro Di Gianantonio (Associate Professor)
+- Matteo Paier, student of the [National PhD in Cybersecurity](https://cysec2022.imtlucca.it/), Cycle XXXVIII (2022-2025).
+- Vincenzo Riccio (Tenure-track Assistant Professor (RTD-B))
 - Ivan Scagnetto (Assistant Professor)
 
 ### Past PhD students and research fellows
+- Davide Castelnovo (PhD in Computer Science, Mathematics and Physics, Cycle XXXV, 2019-2023). Thesis title: *Fuzzy algebraic theories and 𝓜,𝓝-adhesive categories*.
 - Claude Stolze (research fellow, oct 2020-sep 2022)
 - [Michele Pasqua](https://michelepasqua.github.io/) (research fellow, oct 2020-sep 2021)
 - [Marco Peressotti](https://marcoperessotti.com) (PhD student, Cycle XXVIII, 2013-2016). Thesis title: *Coalgebraic semantics of self-referential behaviours*
