@@ -48,5 +48,7 @@ In foreign universities and research institutes
 - *Structural Operational Semantics for Probabilistic and Stochastic Processes* at the PhD in Computer Science, IT University, Copenhagen (Oct 2012)
 - *Functional Programming: foundations and applications* at the Birla Science Center, Hyderabad, India (Nov 2000)
 
-
-
+In extra-academic courses
+- Responsible and teacher of the ICT cluster of AlForm<sup>3</sup>, third edition of a regional network of high level training of professional figures for business innovation. Financed by the Autonomous Region of Friuli Venezia Giulia (2007/08)
+- *Operating Systems for client/server* at the IFTS course "Higher technician for software development", Pordenone (2003)
+- *Operating Systems* at the IFTS course “Network and information systems technician”, Gorizia (2002)
