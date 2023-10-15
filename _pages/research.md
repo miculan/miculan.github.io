@@ -3,7 +3,13 @@ layout: page
 permalink: /research/
 title: research
 description: My research statement and mission.
-nav: false
+nav: true
 nav_order: 21
 ---
-My research mission is to make it more effective and robust to program and analyse concurrent systems. An overarching theme of my research approach is the use of formal methods and programming languages techniques as well as the aim for a unifying mathematical perspective rooted in Logic and Category Theory.
+My research mission revolves around the fundamental enhancement of concurrent systems—making them not only more effective and robust but also inherently secure. It's a multi-faceted approach that amalgamates formal methods, advanced programming language techniques, and core principles of computer security.
+
+In approaching concurrent systems, I embrace a unified mathematical perspective deeply rooted in Logic, Category Theory, and the foundational principles of computer security. This interdisciplinary foundation is pivotal to tackle the intricate challenges inherent in concurrent systems, providing a solid theoretical framework to enhance both their functionality and security.
+
+Within this framework, my objectives are two-fold. First, I aim to elevate system reliability and security by addressing critical aspects such as race conditions, deadlocks, synchronization issues, and identifying potential vulnerabilities. These are the linchpins of robust and secure concurrent systems. Second, I strive to contribute to a broader understanding of computational processes, especially in the context of secure concurrent systems. This comprehension is essential for driving innovation and ensuring that our systems can withstand the ever-evolving landscape of cyber threats.
+
+Ultimately, my goal is to foster innovation, pushing the boundaries of concurrent programming, analysis, and security methodologies. By blending the power of formal methods, advanced programming techniques, and a solid mathematical and security-driven foundation, I aspire to not only enhance concurrent systems but also pave the way for a safer and more efficient digital future.

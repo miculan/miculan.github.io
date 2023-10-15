@@ -3,95 +3,123 @@
   contents:
     - name: Full Name
       value: Marino Miculan
-    - name: Date of Birth
-      value: 14th March 1879
+    - name: Nationality
+      value: Italian
     - name: Languages
-      value: English, German
+      value: Italian, English, Friulian
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: PhD in Computer Science
+      institution: University of Pisa (Italy)
+      year: Mar 1997
+    - title: Summer School "Advanced School on Logic and Artificial Intelligence"
+      institution: CISM, Udine (Italy)
+      year: Apr 1994
+    - title: Summer school on Types for proofs and programs
+      institution: TYPES, Båstad (Sweden)
+      year: Jun 1993
+    - title: Fourth European Summer School in Logic, Language and Information
+      institution: University of Essex (UK)
+      year: Aug 1992
+    - title: Laurea in Computer Science
+      institution: University of Udine (Italy)
+      year: Jul 1992
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Deputy Head of the Department
+      institution: Department of Mathematical, Computer and Physical Sciences, University of Udine
+      year: July 2023 – today
+    - title: Associate Professor in Computer Science
+      institution: Department of Environmental Sciences, Computer Science and Statistics, Ca' Foscari University of Venice
+      year: May 2022 – today
+      description: Due to my activity in computer security, I have a partial affiliation to the University of Venice to participate to the Spoke 6 <em>Software and Platform Security</em> of SERICS. The aim of this spoke's research is to provide an ecosystem where software developers can easily reason about software security, thanks to innovative security-aware programming abstractions and new semantic models. 
+    - title: Associate Professor in Computer Science 
+      institution: Faculty of Arts and Humanities of the University of Udine, then Faculty of Mathematical, Physical and Natural Sciences, then Department of Mathematical, Computer and Physical Sciences, University of Udine
+      year: Jan 2005 – today
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - In this position I have taught about <a href="/teaching">10 different courses</a> at the undergraduate level and four courses at PhD level, supervised more than a hundred undergraduate theses, four PhD students, etc;
+        - Written about <a href="/publications">sixty papers</a>, participated to a <a href="/projects">dozen research projects</a> (often with leadership positions), etc;
+        - Founded the <a href="https://mads.uniud.it">Laboratory of Models and Applications of Distributed Systems</a>, the <a href="https://cysecud.github.io">Laboratory of Cybersecurity</a> and the <a href="https://www.madrhacks.org">MadrHacks</a>;
+        - Served the Department in many commissions and roles, e.g. as Delegate for Orientation and Tutoring; etc.
+    - title: Assistant Professor in Computer Science
+      institution: Faculty of Mathematical, Physical and Natural Sciences, University of Udine
+      year: Jul 2000 - Jan 2005
+      description: 
+        - In this position I have taught about <a href="/teaching">4 different courses</a> at the undergraduate level (in several Faculties) supervised about 40 undergraduate theses, etc;
+        - Written about <a href="/publications">twenty papers</a>, participated to some <a href="/projects">research projects</a>, etc;
+        - Served the Department in many commissions and roles; etc.
+    - title: Technologist (Tecnologo)
+      institution: INFN (National Institute of Nuclear Physics), Trieste
+      year: Jan 1999 – Jun 2000
+      description: >
+        I was involved in the creation of the <a href="https://jhep.sissa.it">Journal of High Energy Physics</a> (JHEP), the <em>ante litteram</em> open access journal for theoretical physics. It was a quite applicative position, mostly focused on design and implementation of a real system. During these years I hadn't carried out much research, but I learnt a lot about real distributed systems: I had to cope with the CAP theorem, well before it was proved.
+    - title: Research Fellow (Assegno di ricerca)
+      institution: INFN (National Institute of Nuclear Physics), Trieste
+      year: Mar 1997 – Dec 1998
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - As above, but in a fixed-term position.
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - title: Formal methods for security of Concurrent and Distributed Systems
       items:
-        - Description 1.
-        - Description 2.
+        - process calculi
+        - distributed ledgers
+        - bigraphs and bigraphic reactive systems
+        - models and languages for edge computing
+        - verification of security protocols
+        - tools (ProVerif, Tamarin, ecc.)
+        - quantitative systems (DMC, CTMC, MDP)
+    - title: Logic and Category theory
+      items:
+        - Modal, temporal and spatial logics
+        - Fuzzy sets
+        - Monads
+        - Coalgebras
+        - Nominal sets
+    - title: Type theory
+      items:
+        - session and behavioural types
+        - logical frameworks
+        - proof assistants (Coq)
+
+- title: Open Source Projects
+  type: map
+  contents:
+    - name: PicNIC
+      value: a non-interference verifier for the π-calculus
+    - name: DBtk
+      value: a toolkit for directed bigraphs
+    - name: jLibBig
+      value: a Java library for bigraphs
+    - name: docker2ldb
+      value: a correctness verifier for the composition of Docker containers
+    - name: dbcchecker
+      value: a security property verifier for containers, based on bigraphs and ProVerif
+    - name: goabu
+      value: a Go implementation of the AbU calculus
+    - name: abuc
+      value: a compiler for the AbU-dsl language
+    - name: thud
+      value: a LaTeX package for writing thesis at the University of Udine
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: Jul 2021
+      description: >
+        Best paper award for the work "Automated Symbolic Verification of Telegram’s MTProto 2.0", 18th International Conference on Security and Cryptography (SECRYPT 2021).
+    - year: Mar 2018
+      description: National Scientific Qualification for the position of Full Professor in Computer Science
+    - year: Jan 2011
+      description: Best poster award, 37th International Conference on Current Trends in Theory and Practice of Computer Science (SOFSEM 2011).
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - I play the tenor saxophone in the <a href="https://bandareana.it/">Banda di Reana</a>, and in the Sax Quartet of the University of Udine.

@@ -6,7 +6,7 @@ permalink: /
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false   # crops the image to make it circular
+  image_circular: true   # crops the image to make it circular
   OPTaddress: >
     <p style="font-size:small">Office L2-17-BC<br/>
     DMIF - Università di Udine<br/>
@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Associate Professor of Computer Science and Deputy Head at <a href="https://www.dmif.uniud.it">Department of Mathematics, Computer Science and Physics</a> of the <a href="https://www.uniud.it">University of Udine</a>. <small>(Qualified to Full Professor since March 2018.)</small>
 
-This webpage collects some information about my research, including my [publications](/publications/), the scientific [projects](/projects/) and [events](/events/) I am involved in, my [teaching](/teaching/) activities and academic [services](/services/).
+This webpage collects some information about my [research](/research/), including my [publications](/publications/), the scientific [projects](/projects/) and [events](/events/) I am involved in, my [teaching](/teaching/) activities and academic [services](/services/).
 
 I know one or two things about
 process calculi,
