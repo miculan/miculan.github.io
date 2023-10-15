@@ -17,13 +17,13 @@
     - title: Summer School "Advanced School on Logic and Artificial Intelligence"
       institution: CISM, Udine (Italy)
       year: Apr 1994
-    - title: Summer school on Types for proofs and programs
+    - title: Summer school "Types for proofs and programs"
       institution: TYPES, Båstad (Sweden)
       year: Jun 1993
     - title: Fourth European Summer School in Logic, Language and Information
       institution: University of Essex (UK)
       year: Aug 1992
-    - title: Laurea in Computer Science
+    - title: MSc in Computer Science (Laurea in Scienze dell'Informazione)
       institution: University of Udine (Italy)
       year: Jul 1992
 
@@ -56,7 +56,7 @@
       institution: INFN (National Institute of Nuclear Physics), Trieste
       year: Jan 1999 – Jun 2000
       description: >
-        I was involved in the creation of the <a href="https://jhep.sissa.it">Journal of High Energy Physics</a> (JHEP), the <em>ante litteram</em> open access journal for theoretical physics. It was a quite applicative position, mostly focused on design and implementation of a real system. During these years I hadn't carried out much research, but I learnt a lot about real distributed systems: I had to cope with the CAP theorem, well before it was proved.
+        I was involved in the creation of the <a href="https://jhep.sissa.it">Journal of High Energy Physics</a> (JHEP), the <em>ante litteram</em> open access journal for theoretical physics. It was a quite applicative position focused on design and implementation of a real distribured, fault-tolerant, scalable system. During these years I hadn't carried out much research, but I learnt a lot about real distributed systems: I had to fight with the CAP theorem, well before it was proved!
     - title: Research Fellow (Assegno di ricerca)
       institution: INFN (National Institute of Nuclear Physics), Trieste
       year: Mar 1997 – Dec 1998
@@ -66,14 +66,14 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Formal methods for security of Concurrent and Distributed Systems
+    - title: Formal methods for Concurrent and Distributed Systems
       items:
-        - process calculi
+        - process calculi (CCS, π-calculus, ambient, and the alike)
         - distributed ledgers
         - bigraphs and bigraphic reactive systems
         - models and languages for edge computing
-        - verification of security protocols
-        - tools (ProVerif, Tamarin, ecc.)
+        - modelisation of security protocols
+        - tools for security protocol verification (ProVerif, Tamarin, ecc.)
         - quantitative systems (DMC, CTMC, MDP)
     - title: Logic and Category theory
       items:
@@ -106,14 +106,13 @@
     - name: abuc
       value: a compiler for the AbU-dsl language
     - name: thud
-      value: a LaTeX package for writing thesis at the University of Udine
+      value: a LaTeX package for writing theses at the University of Udine
 
 - title: Honors and Awards
   type: time_table
   contents:
     - year: Jul 2021
-      description: >
-        Best paper award for the work "Automated Symbolic Verification of Telegram’s MTProto 2.0", 18th International Conference on Security and Cryptography (SECRYPT 2021).
+      description: Best paper award for the work "Automated Symbolic Verification of Telegram’s MTProto 2.0", 18th International Conference on Security and Cryptography (SECRYPT 2021).
     - year: Mar 2018
       description: National Scientific Qualification for the position of Full Professor in Computer Science
     - year: Jan 2011
