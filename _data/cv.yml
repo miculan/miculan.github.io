@@ -63,6 +63,25 @@
       description:
         - As above, but in a fixed-term position.
 
+- title: Visits
+  type: time_table
+  contents:
+    - title: Group "Impact Area Digital Industry", led by A. Cimatti
+      institution: Fondazione Bruno Kessler, Trento
+      year: jun 2022
+    - title: Group "Logic and Semantics", led by T. Uustalu
+      institution: Tallinn University of Technology
+      year: sep 2019
+    - title: Group "Logic and Semantics", led by L. Birkedal
+      institution: Aarhus University
+      year: nov 2013
+    - title: Group "Programming, Logic, and Semantics", led by T. Hildebrandt
+      institution: IT University, Copenhagen
+      year: oct 2012
+    - title: Group "Preuves en théorie des types", led by Y. Bertot
+      institution: INRIA, Sophia-Antipolis
+      year: oct-nov 1994
+
 - title: Academic Interests
   type: nested_list
   contents:
