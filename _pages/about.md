@@ -23,19 +23,19 @@ Associate Professor of Computer Science and Deputy Head at <a href="https://www.
 
 This webpage collects some information about my [research](/research/), including my [publications](/publications/), the scientific [projects](/projects/) and [events](/events/) I am involved in, my [teaching](/teaching/) activities and academic [services](/services/).
 
-I know one or two things about
-process calculi,
-distributed ledgers,
-session types,
-category theory and logic, 
+I know something about
 bigraphs, 
+category theory and logic, 
 coalgebras, 
-structured operational semantics, 
-nominal sets, 
-systems biology, 
-type theory, 
+distributed ledgers,
 logical frameworks,
-proof assistants.
+process calculi,
+proof assistants,
+nominal sets, 
+session types,
+structured operational semantics, 
+systems biology, 
+type theory.
 (In a sense, I am a *horizontal* researcher.)
 
 Currently, I am mostly interested in security issues of distributed, component-based and *smart* systems, whose overall behavior is determined by the interaction of many heterogeneous entities.

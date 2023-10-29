@@ -82,30 +82,27 @@
       institution: INRIA, Sophia-Antipolis
       year: oct-nov 1994
 
-- title: Academic Interests
+- title: Research Interests (akin ACM CCS)
   type: nested_list
   contents:
-    - title: Formal methods for Concurrent and Distributed Systems
+    - title: Theory of computation
+      items: 
+        - Models of computation (Concurrency; Process calculi; Distributed computing models; Probabilistic computation)
+        - Logic (Logic and verification; Proof theory; Modal and temporal logics; Higher order logic; Type theory; Hoare Logic; Abstraction)
+    - title: Software and its engineering
       items:
-        - process calculi (CCS, π-calculus, ambient, and the alike)
-        - distributed ledgers
-        - bigraphs and bigraphic reactive systems
-        - models and languages for edge computing
-        - modelisation of security protocols
-        - tools for security protocol verification (ProVerif, Tamarin, ecc.)
-        - quantitative systems (DMC, CTMC, MDP)
-    - title: Logic and Category theory
+        - Software notations and tools (Distributed programming languages; Concurrent programming structures; Formal language definitions)
+        - Software architectures (Cooperating communicating processes; Peer-to-peer architectures; Publish-subscribe / event-based architectures; Space-based architectures)
+        - Software system structures (Distributed systems organizing principles; Abstraction, modeling and modularity)
+        - Software functional properties (Formal methods)
+        - Software verification and validation (Formal software verification)
+    - title: Security and privacy
       items:
-        - Modal, temporal and spatial logics
-        - Fuzzy sets
-        - Monads
-        - Coalgebras
-        - Nominal sets
-    - title: Type theory
-      items:
-        - session and behavioural types
-        - logical frameworks
-        - proof assistants (Coq)
+        - Formal methods and theory of security (Formal security models; Logic and verification)
+        - Intrusion/anomaly detection and malware mitigation
+        - Security services (Pseudonymity, anonymity and untraceability)
+        - Systems security (Distributed systems security; Operating systems security; Virtualization and security; Information flow control)
+        - Network security (Security protocols)
 
 - title: Open Source Projects
   type: map
@@ -140,4 +137,4 @@
 - title: Other Interests
   type: list
   contents:
-    - I play the tenor saxophone in the <a href="https://bandareana.it/">Banda di Reana</a>, and in the Sax Quartet of the University of Udine.
+    - I play the saxophone in the Sax Quartet of the University of Udine, and in the <a href="https://bandareana.it/">Banda di Reana</a>.
