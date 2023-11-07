@@ -19,5 +19,5 @@ See also my pages on
 My Erdős number is 3 (Miculan – Rizzi – Hell – Erdős).
 
 <div class="publications">
-{% bibliography -f papers -g year -G descending %}
+{% bibliography -f papers -G descending -T bib2 %}
 </div>

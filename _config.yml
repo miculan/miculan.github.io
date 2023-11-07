@@ -237,7 +237,8 @@ scholar:
 
   source: /_bibliography/
   bibliography: papers.bib
-  bibliography_template: bib2
+  bibliography_template: {{reference}}
+  # bibliography_template: bib2
   bibliography_group_tag: h2,h3,h4,h5
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.

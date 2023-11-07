@@ -4,4 +4,4 @@ title: TCS paper about 𝓜,𝓝-adhesivity
 date: 2023-10-31
 inline: true
 ---
-Our paper *A simple criterion for 𝓜,𝓝-adhesivity* has been accepted for publication on [Theoretical Computer Science](https://www.sciencedirect.com/journal/theoretical-computer-science). A pre-proof version is [available online](https://doi.org/10.1016/j.tcs.2023.114280), soon to be replaced with the final version. Spooky Halloween! 👻🎃🧛
+Our paper *A simple criterion for 𝓜,𝓝-adhesivity* has been accepted for publication on [Theoretical Computer Science](https://www.sciencedirect.com/journal/theoretical-computer-science). It can be [downloaded for free here](https://authors.elsevier.com/c/1i2QM15DaIEh7l) until December 26, 2023. Spooky Halloween! 👻🎃🧛

@@ -82,27 +82,26 @@
       institution: INRIA, Sophia-Antipolis
       year: oct-nov 1994
 
-- title: Research Interests (akin ACM CCS)
+- title: Research Interests (according to the ACM CCS classification)
   type: nested_list
   contents:
-    - title: Theory of computation
-      items: 
-        - Models of computation (Concurrency; Process calculi; Distributed computing models; Probabilistic computation)
-        - Logic (Logic and verification; Proof theory; Modal and temporal logics; Higher order logic; Type theory; Hoare Logic; Abstraction)
-    - title: Software and its engineering
-      items:
-        - Software notations and tools (Distributed programming languages; Concurrent programming structures; Formal language definitions)
-        - Software architectures (Cooperating communicating processes; Peer-to-peer architectures; Publish-subscribe / event-based architectures; Space-based architectures)
-        - Software system structures (Distributed systems organizing principles; Abstraction, modeling and modularity)
-        - Software functional properties (Formal methods)
-        - Software verification and validation (Formal software verification)
     - title: Security and privacy
       items:
-        - Formal methods and theory of security (Formal security models; Logic and verification)
-        - Intrusion/anomaly detection and malware mitigation
-        - Security services (Pseudonymity, anonymity and untraceability)
-        - Systems security (Distributed systems security; Operating systems security; Virtualization and security; Information flow control)
-        - Network security (Security protocols)
+        - "Formal methods and theory of security: Formal security models; Logic and verification"
+        - "Intrusion/anomaly detection and malware mitigation"
+        - "Systems security: Distributed systems security; Virtualization and security; Information flow control"
+        - "Network security: Security protocols"
+    - title: Software and its engineering
+      items:
+        - "Software notations and tools: Distributed programming languages; Concurrent programming structures; Formal language definitions"
+        - "Software architectures: Cooperating communicating processes; Peer-to-peer architectures; Publish-subscribe/event-based architectures; Space-based architectures"
+        - "Software system structures: Distributed systems organizing principles; Abstraction, modeling and modularity"
+        - "Software functional properties: Formal methods"
+        - "Software verification and validation: Formal software verification"
+    - title: Theory of computation
+      items: 
+        - "Models of computation: Concurrency; Process calculi; Distributed computing models; Probabilistic computation"
+        - "Logic: Logic and verification; Proof theory; Modal and temporal logics; Higher order logic; Type theory; Hoare Logic; Abstraction"
 
 - title: Open Source Projects
   type: map
