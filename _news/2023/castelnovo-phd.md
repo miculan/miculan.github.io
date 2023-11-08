@@ -6,7 +6,7 @@ inline: false
 ---
 <div style="display: flex; flex-wrap: wrap;">
     <div style="max-width: 570px; min-width: 300px;"> 
-Today, Davide Castelnovo has successfully defended his PhD thesis, titled <em>Fuzzy algebraic theories and 𝓜,𝓝-adhesive categories</em>, in front of the Commission composed by professors Paweł Sobocinski, Stefan Milius and Giovanna D'Agostino. 
+Today, Davide Castelnovo has successfully defended his PhD thesis, titled <em>Fuzzy algebraic theories and 𝓜,𝓝-adhesive categories</em>, in front of the Commission composed by professors Paweł Sobociński, Stefan Milius and Giovanna D'Agostino. 
 <br/>
 So now Davide is PhD in Computer Science. Congratulations!  
     </div>

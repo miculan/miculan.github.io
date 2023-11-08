@@ -22,6 +22,21 @@ Currently I am the coordinator of the [Cybersecurity](https://www.dmif.uniud.it/
 
 See [below](#past-phd-students) for past students.
 
+## Current MSc students
+- Luca Campa (MSc student, AI&Cybersecurity)
+- Mattia Pizzolitto (MSc student)
+- Massimiliano Gregoretti (MSc student, AI&Cybersecurity)
+- Valeria Vicard (MSc student, AI&Cybersecurity)
+- Enrico Talotti (MSc student, Mathematics)
+- Ruggero Franz (MSc student, AI&Cybersecurity)
+- Elia Cal (MSc student, AI&Cybersecurity)
+- Filippo Merlo (MSc student, AI&Cybersecurity)
+- Gianluca Zavan (MSc student, AI&Cybersecurity)
+- Roberto Van Eeden (MSc student, Computer Science)
+
+See [below](#past-undergraduate-students) for some past students.
+
+
 ## Past courses
 In BSc courses
 - *Reti di Calcolatori e Sicurezza* at the "Laurea in Informatica", Faculty of Sciences (2005/06 - 2009/10)
