@@ -30,9 +30,6 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Deputy Head of the Department
-      institution: Department of Mathematical, Computer and Physical Sciences, University of Udine
-      year: July 2023 – today
     - title: Associate Professor in Computer Science
       institution: Department of Environmental Sciences, Computer Science and Statistics, Ca' Foscari University of Venice
       year: May 2022 – today
@@ -81,6 +78,50 @@
     - title: Group "Preuves en théorie des types", led by Y. Bertot
       institution: INRIA, Sophia-Antipolis
       year: oct-nov 1994
+
+- title: Current academic services at the <a href="https://www.uniud.it">University of Udine</a>
+  type: time_table
+  contents:
+    - title: Deputy Head of the <a href="https://www.dmif.uniud.it">Department of Mathematics, Computer Science and Physics</a>
+      year: Jul 2023 – present
+    - title: Member of Research Board of the <a href="https://www.dmif.uniud.it">Department of Mathematics, Computer Science and Physics</a>
+      year: Sep 2023 – present
+    - title: Member of the Faculty Board of the <a href="https://www.dmif.uniud.it/dottorato/iai/">PhD Course in Computer Science and Artificial Intelligence</a>
+      year: Jun 2023 – present
+    - title: Member of the Faculty Board of the <a href="https://www.dmif.uniud.it/dottorato/imf/">PhD Course in Computer Science, Mathematics and Physics</a>
+      year: Mar 2020 – present
+    - title: Head of the <a href="https://cyberchallenge.it">CyberChallenge.it</a> at the University of Udine
+      year: Oct 2019 – present
+    - title: Delegate for Orientation and Tutoring at the <a href="https://www.dmif.uniud.it">Department of Mathematics, Computer Science and Physics</a>
+      year: 2019 – present
+    - title: Representative of the University of Udine in the Scientific-Technical Board of <a href="https://www.formazioneiftsfvg.it/corsi-gratuiti-di-informatica-fvg/">IFTS</a>
+      year: 2016 – present
+    - title: Head of the Udine node of the <a href="https://cybersecnatlab.it">Cybersecurity National Laboratory</a>
+      year: 2015 – present
+    - title: Representative of the University of Udine in the Directive Board of <a href="https://www.consorzio-cini.it">CINI</a>
+      year: 2008 – present
+
+- title: Past academic services
+  type: time_table
+  contents:
+    - title: President of the Selection Committee for the Scientific Class of <a href="https://superiore.uniud.it">Scuola Superiore</a>, the excellence school of the <a href="https://www.uniud.it">University of Udine</a>
+      year: Sep 2024
+    - title: Head of the Web Commission of the DMIF
+      year: 2019 – 2022
+    - title: Director of the Udine node of the CINI consortium
+      year: 2009 – 2020
+    - title: Member of the Faculty Board of the <a href="https://www.dmif.uniud.it/dottorato/informatica/">PhD Course in Computer Science</a>
+      year: 2006 – 2017
+    - title: Responsible of the Erasmus Exchange with Goteborg University
+      year: 2009 – 2020
+    - title: Member of the Paritetic Commission of the DMIF
+      year: 2013 – 2017
+    - title: Deputy head of the Board of Computer Science Curricula
+      year: 2013 – 2016
+    - title: Deputy head of the Department of Mathematics and Computer Science
+      year: 2005 – 2008
+    - title: Member of many selection committees for PhD entrance, for researcher positions, etc.
+      year: 2005 – 2023
 
 - title: Research Interests (according to the ACM CCS classification)
   type: nested_list

@@ -3,14 +3,14 @@ layout: page
 permalink: /services/
 title: services
 description: Academic duties, committees and other services I am involved in.
-nav: true
+nav: false
 nav_order: 41
 ---
 ### Current academic positions
 - Deputy Head of the [Department of Mathematics, Computer Science and Physics](https://www.dmif.uniud.it) (2023-)
 - Member of Research Board of the [Department of Mathematics, Computer Science and Physics](https://www.dmif.uniud.it) (2023-)
-- Member of the Board of the [PhD Course in Computer Science and Artificial Intelligence](https://www.dmif.uniud.it/dottorato/iai/) (2023-)
-- Member of the Board of the [PhD Course in Computer Science, Mathematics and Physics](https://www.dmif.uniud.it/dottorato/imf/) (2020-)
+- Member of the Faculty Board of the [PhD Course in Computer Science and Artificial Intelligence](https://www.dmif.uniud.it/dottorato/iai/) (2023-)
+- Member of the Faculty Board of the [PhD Course in Computer Science, Mathematics and Physics](https://www.dmif.uniud.it/dottorato/imf/) (2020-)
 - Head of the [CyberChallenge.it](https://cyberchallenge.it) at the University of Udine (2020-)
 - Delegate for Orientation and Tutoring at the [Department of Mathematics, Computer Science and Physics](https://www.dmif.uniud.it) (2019-)
 - Representative of the University of Udine in the Scientific-Technical Board of [IFTS](https://www.formazioneiftsfvg.it/corsi-gratuiti-di-informatica-fvg/) (2016-)
