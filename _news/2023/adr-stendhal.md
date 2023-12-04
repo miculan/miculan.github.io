@@ -16,31 +16,29 @@ The STENDHAL team forms a unique combination of expertise including the co-found
 
 Within this project, this research fellowship will be mostly focused on the development of the spatio-temporal logic, keeping an eye on the applications and implementation.
 
-
 ## Who
 
 The ideal candidate should have a research background in areas related to Formal Methods, in particular temporal logics.
-Knowledge in Model Checking and/or Machine Learning are appreciated, but not required.
+Knowledge in Model Checking and/or Machine Learning is appreciated, but not required.
 A prerequisite is to have a MSc in Computer Science or affine subjects.  A PhD is appreciated but not required.
 
 ## When and how much
 
 This is a full-time position for 12 months, possibly extended for other 12 months.
 Starting date can be from Feb-Mar 2024, but no later than June 1, 2024.  
-The overall gross salary of €22.947, including social security contributions; this corresponds to about 1614 euro net per month, tax exempt. 
+The overall gross salary is €22.947, including social security contributions; this corresponds to about 1614 euro net per month, tax free. 
 
 ## Where
 
 The successful candidate will work under the supervision of Marino Miculan, at the Department of Mathematics, Computer Science and Physics (DMIF) of the University of Udine - one of the oldest and largest Computer Science departments in Italy, and with a strong and recognized tradition in Formal Methods.  
-(Life quality in Udine is constantly among the highest in Italy, and cost of living is lower than in larger cities. And Udine is one hour from the Alps and from the Adriatic Sea…).
+(Life quality in Udine is constantly among the highest in Italy, and cost of living is lower than in larger cities. And Udine is one hour from the Alps and the Adriatic Sea…).
 We can consider the possibility of working from remote.
 
-Since the STENDHAL project is a joint effort with the Department of Computer Science at University of Pisa, and the ISTI at CNR, there will be frequent collaborations with the teams led respectively by Fabio Gadducci and Vincenzo Ciancia.
-
+Since the STENDHAL project is a joint effort with the Department of Computer Science at University of Pisa, and the ISTI at CNR, there will be frequent collaborations with the teams led by Fabio Gadducci and Vincenzo Ciancia, respectively.
 
 ## How to Apply
 
-The call is already available at [the UniUD website](https://www.uniud.it/it/albo-ufficiale) (look for call n. 1443). Deadline for applications is **January 12, 2024 14:00 CET**.
+The call is already available at [the UniUD website](https://www.uniud.it/it/albo-ufficiale) (look for call n. 1443). **Deadline for applications is January 12, 2024 14:00 CET.**
 
 If you are interested in this position and you are willing to have more information, please send an email, with a CV, to Marino Miculan [marino.miculan@uniud.it](mailto:marino.miculan@uniud.it).
 
