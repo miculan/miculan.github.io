@@ -31,7 +31,7 @@ The overall gross salary is €22.947, including social security contributions; 
 ## Where
 
 The successful candidate will work under the supervision of Marino Miculan, at the Department of Mathematics, Computer Science and Physics (DMIF) of the University of Udine - one of the oldest and largest Computer Science departments in Italy, and with a strong and recognized tradition in Formal Methods.  
-(Life quality in Udine is constantly among the highest in Italy, and cost of living is lower than in larger cities. And Udine is one hour from the Alps and the Adriatic Sea…).
+(Life quality in Udine is constantly among [the highest in Italy](https://lab24.ilsole24ore.com/qualita-della-vita/), and cost of living is lower than in larger cities. And Udine is one hour from the Alps and the Adriatic Sea…).
 We can consider the possibility of working from remote.
 
 Since the STENDHAL project is a joint effort with the Department of Computer Science at University of Pisa, and the ISTI at CNR, there will be frequent collaborations with the teams led by Fabio Gadducci and Vincenzo Ciancia, respectively.
