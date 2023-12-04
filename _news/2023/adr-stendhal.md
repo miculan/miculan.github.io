@@ -26,7 +26,7 @@ A prerequisite is to have a MSc in Computer Science or affine subjects.  A PhD i
 
 This is a full-time position for 12 months, possibly extended for other 12 months.
 Starting date can be from Feb-Mar 2024, but no later than June 1, 2024.  
-The overall gross salary is €22.947, including social security contributions; this corresponds to about 1614 euro net per month, tax free. 
+The overall gross salary is €22947, including social security contributions; this corresponds to about 1614 euro net per month, tax free. 
 
 ## Where
 
