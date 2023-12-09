@@ -33,27 +33,29 @@
     - title: Associate Professor in Computer Science
       institution: Department of Environmental Sciences, Computer Science and Statistics, Ca' Foscari University of Venice
       year: May 2022 – today
-      description: Due to my activity in computer security, I have a partial affiliation to the University of Venice to participate to the Spoke 6 <em>Software and Platform Security</em> of SERICS. The aim of this spoke's research is to provide an ecosystem where software developers can easily reason about software security, thanks to innovative security-aware programming abstractions and new semantic models. 
+      description: Due to my activity in computer security, I am partially affilated to Ca' Foscari University of Venice, in order to participate to the <a href="https://serics.eu/services/spoke-6-sicurezza-software-piattaforme/">Spoke 6 <em>Software and Platform Security</em></a> of SERICS. The aim of this spoke's research is to provide an ecosystem where software developers can easily reason about software security, thanks to innovative security-aware programming abstractions and new semantic models. 
     - title: Associate Professor in Computer Science 
-      institution: Faculty of Arts and Humanities of the University of Udine, then Faculty of Mathematical, Physical and Natural Sciences, then Department of Mathematical, Computer and Physical Sciences, University of Udine
+      institution: >
+        Department of Mathematical, Computer and Physical Sciences, University of Udine (before: Faculty of Arts and Humanities, then Faculty of Mathematical, Physical and Natural Sciences) 
       year: Jan 2005 – today
       description:
-        - In this position I have taught about <a href="/teaching">10 different courses</a> at the undergraduate level and four courses at PhD level, supervised more than a hundred undergraduate theses, four PhD students, etc;
-        - Written about <a href="/publications">sixty papers</a>, participated to a <a href="/projects">dozen research projects</a> (often with leadership positions), etc;
+        - In this position I have taught about <a href="/teaching">10 different courses</a> at the undergraduate level and four courses at PhD level, supervised more than 150 undergraduate theses, four PhD students;
+        - Written more than <a href="/publications">sixty papers</a>, participated in a <a href="/projects">dozen research projects</a> (often with leadership positions);
+        - PC member of more than <a href="/services">40 international conferences</a>, and chaired six of them;
         - Founded the <a href="https://mads.uniud.it">Laboratory of Models and Applications of Distributed Systems</a>, the <a href="https://cysecud.github.io">Laboratory of Cybersecurity</a> and the <a href="https://www.madrhacks.org">MadrHacks</a>;
-        - Served the Department in many commissions and roles, e.g. as Delegate for Orientation and Tutoring; etc.
+        - Served the Department in many <a href="/services">commissions and roles</a>, etc.
     - title: Assistant Professor in Computer Science
       institution: Faculty of Mathematical, Physical and Natural Sciences, University of Udine
       year: Jul 2000 - Jan 2005
       description: 
-        - In this position I have taught about <a href="/teaching">4 different courses</a> at the undergraduate level (in several Faculties) supervised about 40 undergraduate theses, etc;
-        - Written about <a href="/publications">twenty papers</a>, participated to some <a href="/projects">research projects</a>, etc;
+        - In this position I have taught about <a href="/teaching">4 different courses</a> at the undergraduate level (in several Faculties) supervised about 40 undergraduate theses;
+        - Written about <a href="/publications">twenty papers</a>, participated to some <a href="/projects">research projects</a>, chaired some conferences;
         - Served the Department in many commissions and roles; etc.
     - title: Technologist (Tecnologo)
       institution: INFN (National Institute of Nuclear Physics), Trieste
       year: Jan 1999 – Jun 2000
       description: >
-        I was involved in the creation of the <a href="https://jhep.sissa.it">Journal of High Energy Physics</a> (JHEP), the <em>ante litteram</em> open access journal for theoretical physics. It was a quite applicative position focused on design and implementation of a real distribured, fault-tolerant, scalable system. During these years I hadn't carried out much research, but I learnt a lot about real distributed systems: I had to fight with the CAP theorem, well before it was proved!
+        I was involved in the creation of the <a href="https://jhep.sissa.it">Journal of High Energy Physics</a> (JHEP), the <em>ante litteram</em> open access journal for theoretical physics. It was a quite applicative position focused on design and implementation of a real distribured, fault-tolerant, scalable system. During these years I hadn't carried out much research, but I learnt a lot about real distributed systems: I had to face the dire consequences of the CAP theorem, well before it was proved!
     - title: Research Fellow (Assegno di ricerca)
       institution: INFN (National Institute of Nuclear Physics), Trieste
       year: Mar 1997 – Dec 1998
@@ -105,7 +107,7 @@
   type: time_table
   contents:
     - title: President of the Selection Committee for the Scientific Class of <a href="https://superiore.uniud.it">Scuola Superiore</a>, the excellence school of the <a href="https://www.uniud.it">University of Udine</a>
-      year: Sep 2024
+      year: Sep 2023
     - title: Head of the Web Commission of the DMIF
       year: 2019 – 2022
     - title: Director of the Udine node of the CINI consortium
