@@ -8,9 +8,10 @@ nav_order: 24
 ---
 ### Current and incoming events
 - [8th Italian Conference on Cybersecurity (ITASEC 2024)](https://www.itasec.it/) (PC member)
-- [14th International Workshop on Graph Computation Models (GCM 2023)](https://conf.researchr.org/home/staf-2023/gcm-2023) (PC member)
+- [6th Distributed Ledger Technology Workshop (DLT 2024)](https://dltgroup.dmi.unipg.it/DLTWorkshop/dlt2024.html) (PC member)
 
 ### Past events
+1. [14th International Workshop on Graph Computation Models (GCM 2023)](https://conf.researchr.org/home/staf-2023/gcm-2023) (PC member)
 1. [IEEE 35th International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD 2023)](https://www.inf.pucrs.br/sbacpad2023/) (PC member)
 1. [5th Distributed Ledger Technology Workshop (DLT 2023)](https://dltgroup.dmi.unipg.it/DLTWorkshop/dlt2023.html) (PC member)
 1. [7th Italian Conference on Cybersecurity (ITASEC 2023)](https://www.itasec.it/) (PC member)
