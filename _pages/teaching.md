@@ -20,21 +20,20 @@ Currently I am the coordinator of the [Cybersecurity](https://www.dmif.uniud.it/
 - Matteo Paier (PhD student of the [National PhD in Cybersecurity](https://cysec2022.imtlucca.it/), Cycle XXXVIII, 2022-2025)
 - Michele Lizzit (PhD student of the Computer Science and Artificial Intelligence PhD, Cycle XXXIX, 2023-2026)
 
-See [below](#past-phd-students) for past students.
+See [below](#past-phd-students) for past PhD students.
 
 ## Current MSc students
 - Luca Campa (MSc student, AI&Cybersecurity)
 - Mattia Pizzolitto (MSc student)
 - Massimiliano Gregoretti (MSc student, AI&Cybersecurity)
 - Valeria Vicard (MSc student, AI&Cybersecurity)
-- Enrico Talotti (MSc student, Mathematics)
 - Ruggero Franz (MSc student, AI&Cybersecurity)
 - Elia Cal (MSc student, AI&Cybersecurity)
 - Filippo Merlo (MSc student, AI&Cybersecurity)
 - Gianluca Zavan (MSc student, AI&Cybersecurity)
 - Roberto Van Eeden (MSc student, Computer Science)
 
-See [below](#past-undergraduate-students) for some past students.
+See [below](#past-undergraduate-students) for some past undergrad students.
 
 
 ## Past courses
