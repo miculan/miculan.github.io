@@ -170,11 +170,13 @@
   type: time_table
   contents:
     - year: Jul 2021
-      description: Best paper award for the work "Automated Symbolic Verification of Telegram’s MTProto 2.0", 18th International Conference on Security and Cryptography (SECRYPT 2021).
+      title: Best paper award for the work "Automated Symbolic Verification of Telegram’s MTProto 2.0"
+      institution: 18th International Conference on Security and Cryptography (SECRYPT 2021).
     - year: Mar 2018
-      description: National Scientific Qualification for the position of Full Professor in Computer Science
+      title: National Scientific Qualification for the position of Full Professor in Computer Science
     - year: Jan 2011
-      description: Best poster award, 37th International Conference on Current Trends in Theory and Practice of Computer Science (SOFSEM 2011).
+      title: Best poster award for the work "Formal analysis of Facebook Connect Single Sign-On authentication protocol"
+      institution: 37th International Conference on Current Trends in Theory and Practice of Computer Science (SOFSEM 2011).
 
 - title: Other Interests
   type: list
