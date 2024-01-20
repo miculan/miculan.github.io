@@ -74,7 +74,7 @@ In extra-academic courses
 - *Operating Systems* at the IFTS course “Network and information systems technician”, Gorizia (2002)
 
 ### Past PhD students
-- Davide Castelnovo (PhD in Computer Science, Mathematics and Physics, Cycle XXXV, 2019-2023). Thesis title: *Fuzzy algebraic theories and 𝓜,𝓝-adhesive categories*
+- [Davide Castelnovo](https://www.math.unipd.it/dipartimento/persone/davide.castelnovo/) (PhD in Computer Science, Mathematics and Physics, Cycle XXXV, 2019-2023). Thesis title: *Fuzzy algebraic theories and 𝓜,𝓝-adhesive categories*
 - [Marco Peressotti](https://marcoperessotti.com) (PhD student, Cycle XXVIII, 2013-2016). Thesis title: *Coalgebraic semantics of self-referential behaviours*
 - [Giorgio Bacci](http://people.cs.aau.dk/~grbacci/) (PhD student, Cycle XXIV 2009-2012). Thesis title: *Generalized labelled Markov processes, coalgebraically*
 - [Davide Grohmann](http://dk.linkedin.com/pub/davide-grohmann/38/b3a/535) (PhD student, Cycle XXIII, 2007-2009). Thesis title: *Multi-graph Structures as Frameworks for Distributed and Concurrent Systems*
