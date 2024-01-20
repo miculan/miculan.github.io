@@ -13,10 +13,10 @@ TL;DR: I work or have worked on
     - models and languages for IoT, CAS and edge computing
     - modelisation and verification of security protocols
     - quantitative systems (DMC, CTMC, MDP)
-    - distributed ledgers
 - Distributed architectures, languages and security
     - cooperating communicating processes
     - peer-to-peer, pub-sub and event-based architectures
+    - distributed ledgers
     - security of virtualization and containerization
     - information flow control
 - Logic and Category theory

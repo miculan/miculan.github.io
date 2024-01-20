@@ -24,4 +24,4 @@ nav_order: 41
 - Member of the Paritetic Commission of the DMIF (2013–2017)
 - Deputy head of the Board of Computer Science Curricula (2013–2016)
 - Deputy head of the Department of Mathematics and Computer Science (2005–2008)
-- Member of many selection committees for PhD entrance, for researcher positions, etc.
+- Member of many selection committees for PhD entrance, for researcher positions (RTD), etc.
