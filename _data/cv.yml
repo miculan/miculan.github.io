@@ -146,6 +146,40 @@
         - "Models of computation: Concurrency; Process calculi; Distributed computing models; Probabilistic computation"
         - "Logic: Logic and verification; Proof theory; Modal and temporal logics; Higher order logic; Type theory; Hoare Logic; Abstraction"
 
+- title: Invited talks at international conferences and simposia
+  type: time_table
+  contents:
+    - title: Talk "An attribute-based events model for collective adaptive systems"
+      institution: Theory Days Conference, Randivälja, Estonia
+      year: feb 2024
+    - title: > 
+        Talk "Modeling Collective Adaptive Systems with Attribute-based Events: Recent Trends and Open Problems"
+      institution: IFIP WG 1.8 meeting ``Open Problems in Concurrency'', Bertinoro
+      year: jun 2023
+    - title: > 
+        Talk "The Fellowship of the Semiring: Concerning Quantitative Bisimulations"
+      institution: IFIP WG 1.8 meeting ``Open Problems in Concurrency'', Bertinoro
+      year: jun 2014
+    - title: Talk "Tutorial about Bigraphic Reactive Systems"
+      institution: MeMo Workshop, Berlin (associated with DisCoTec 2014)
+      year: jun 2014
+    - title: Talk "Weak bisimulations for LTSs weighted over semirings"
+      institution: NII Shonan Meeting on "Coinduction for computation structures and programming languages", Japan
+      year: oct 2013
+    - title: Talk "A bigraphical framework for protein and membrane interactions"
+      institution: Theory Days Conference, Andu, Estonia
+      year: feb 2010
+    - title: Talk "Bigraphical models of calculi with names"
+      institution: Conference "Mathematical Theories of Abstraction, Substitution and Naming in Computer Science", ICMS, Edinburgh
+      year: may 2007
+    - title: Talk "The directed bigraphical model"
+      institution: IFIP WG 2.2 Meeting, Nancy
+      year: sep 2007
+    - title: > 
+        Talk "Behind the name: the many faces of atomic terms"
+      institution: Theory Days Conference, Koke, Estonia
+      year: feb 2006
+
 - title: Open Source Projects
   type: map
   contents:
