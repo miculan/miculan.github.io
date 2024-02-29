@@ -8,6 +8,7 @@ nav_order: 25
 ---
 ### Current group
 - Pietro Di Gianantonio (Associate Professor)
+- Marco Comini (Associate Professor)
 - Ivan Scagnetto (Assistant Professor)
 - Vincenzo Riccio (Tenure-track Assistant Professor (RTD-B))
 - Matteo Paier (PhD student of the [National PhD in Cybersecurity](https://cysec2022.imtlucca.it/), Cycle XXXVIII, 2022-2025)

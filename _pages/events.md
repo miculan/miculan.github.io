@@ -10,6 +10,8 @@ nav_order: 24
 - [26th International Symposium on Principles and Practice of Declarative Programming (PPDP 2024)](https://ppdp2024.github.io) (PC member)
 - [8th Italian Conference on Cybersecurity (ITASEC 2024)](https://www.itasec.it/) (PC member)
 - [6th Distributed Ledger Technology Workshop (DLT 2024)](https://dltgroup.dmi.unipg.it/DLTWorkshop/dlt2024.html) (PC member)
+- [15th International Workshop on Graph Computation Models (GCM 2024)](https://conf.researchr.org/home/staf-2024/gcm-2024) (PC member)
+
 
 ### Past events
 #### PC or OC Chair
