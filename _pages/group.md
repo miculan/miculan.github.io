@@ -7,12 +7,13 @@ nav: true
 nav_order: 25
 ---
 ### Current group
-- Pietro Di Gianantonio (Associate Professor)
-- Marco Comini (Associate Professor)
-- Ivan Scagnetto (Assistant Professor)
-- Vincenzo Riccio (Tenure-track Assistant Professor (RTD-B))
-- Matteo Paier (PhD student of the [National PhD in Cybersecurity](https://cysec2022.imtlucca.it/), Cycle XXXVIII, 2022-2025)
-- Michele Lizzit (PhD student of the Computer Science and Artificial Intelligence PhD, Cycle XXXIX, 2023-2026)
+- [Pietro Di Gianantonio](https://users.dimi.uniud.it/~pietro.digianantonio/) (Associate Professor)
+- [Marco Comini](https://users.dimi.uniud.it/~marco.comini/) (Associate Professor)
+- [Ivan Scagnetto](https://users.dimi.uniud.it/~ivan.scagnetto) (Assistant Professor)
+- [Vincenzo Riccio](https://p1ndsvin.github.io/) (Tenure-track Assistant Professor (RTD-B))
+- [Matteo Paier](https://www.imtlucca.it/matteo.paier) (PhD student of the [National PhD in Cybersecurity](https://cysec2022.imtlucca.it/), Cycle XXXVIII, 2022-2025)
+- [Michele Lizzit](https://lizzit.it/) (PhD student of the Computer Science and Artificial Intelligence PhD, Cycle XXXIX, 2023-2026)
+- [Matteo Spadetto](https://spadetto.github.io/) (research fellow)
 
 (but see also the many [MSc students](/teaching#current-msc-students) I am honored to supervise.)
 
@@ -22,6 +23,6 @@ nav_order: 25
 - Claude Stolze (research fellow, oct 2020-sep 2022)
 - [Michele Pasqua](https://michelepasqua.github.io/) (research fellow, oct 2020-sep 2021)
 - [Marco Peressotti](https://marcoperessotti.com) (PhD student, Cycle XXVIII, 2013-2016).
-- [Giorgio Bacci](http://people.cs.aau.dk/~grbacci/) (PhD student, Cycle XXIV 2009-2012).
+- [Giorgio Bacci](http://people.cs.aau.dk/~grbacci/) (PhD student, Cycle XXIV, 2009-2012).
 - Carlo Maiero (research fellow, oct 2010-sep 2011)
 - [Davide Grohmann](http://dk.linkedin.com/pub/davide-grohmann/38/b3a/535) (PhD student, Cycle XXIII, 2007-2009).
