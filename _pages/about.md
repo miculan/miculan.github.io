@@ -30,18 +30,18 @@ To this end, I am applying formal methods (possibly with a pinch of Machine Lear
 <br/>If this sounds interesting to you too, [drop me a note](mailto:marino.miculan@uniud.it).
 
 Besides, I know something about
-bigraphs, 
-category theory and logic, 
-coalgebras, 
-distributed ledgers,
-logical frameworks,
-process calculi,
+type theory,
 proof assistants,
+logical frameworks,
 nominal sets, 
-session types,
+category theory and logic, 
+process calculi,
+coalgebras, 
 structured operational semantics, 
+session types,
+bigraphs, 
 systems biology, 
-type theory.
+distributed ledgers.
 (In a sense, I am a *horizontal* researcher.)
 
 I founded and currently lead the [Models and Applications of Distributed Systems](https://mads.uniud.it) laboratory, the Udine node of the [CINI National CyberSecurity laboratory](https://cybersecnatlab.it), and the [MadrHacks](https://www.madrhacks.org), the ethical hacking team of the University of Udine.<br/>
