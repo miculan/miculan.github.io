@@ -19,6 +19,34 @@ See also my pages on
 [MathSciNet](https://mathscinet.ams.org/mathscinet/MRAuthorID/352119).<br/>
 My Erdős number is 3 (Erdős - Hell - Rizzi - Miculan).
 
+
+<script type="text/javascript">
+  function showOnlyPub(g) {
+    const elenco = document.querySelectorAll('.row');
+    console.log(elenco);
+    elenco.forEach(item => {
+      if (item.classList.contains(g)) {
+          item.parentNode.style.display = 'list-item';
+      } else {
+          item.parentNode.style.display = 'none';
+      }
+    });
+  }
+
+  function showAllPub() {
+    document.querySelectorAll('.row').forEach(item => item.parentNode.style.display = 'list-item');
+  }
+</script>
+
+Show:
+<input type="radio" name="pub_selection" onclick="showAllPub()" checked><label>All</label> |
+<input type="radio" name="pub_selection" onclick="showOnlyPub('article')"><label>Articles</label> |
+<input type="radio" name="pub_selection" onclick="showOnlyPub('inproceedings')"><label>In Proceedings</label> |
+<input type="radio" name="pub_selection" onclick="showOnlyPub('proceedings')"><label>Proceedings</label> |
+<input type="radio" name="pub_selection" onclick="showOnlyPub('preprint')"><label>Preprints</label> |
+<input type="radio" name="pub_selection" onclick="showOnlyPub('thesis')"><label>Theses</label> |
+<input type="radio" name="pub_selection" onclick="showOnlyPub('techreport')"><label>Tech Reports</label> |
+<input type="radio" name="pub_selection" onclick="showOnlyPub('misc')"><label>Misc</label>
 <div class="publications">
 {% bibliography -f papers -G descending -T bib2 %}
 </div>
