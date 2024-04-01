@@ -48,5 +48,5 @@ Show:
 <input type="radio" name="pub_selection" onclick="showOnlyPub('techreport')"><label>Tech Reports</label> |
 <input type="radio" name="pub_selection" onclick="showOnlyPub('misc')"><label>Misc</label>
 <div class="publications">
-{% bibliography -f papers -G descending -T bib2 %}
+{% bibliography -f papers -G descending -T bib3 %}
 </div>

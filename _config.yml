@@ -232,7 +232,10 @@ scholar:
   last_name: [Miculan]
   first_name: [Marino]
 
-  style: apa
+#  style: association-for-computing-machinery
+#  style: ieee
+#  style: springer-lecture-notes-in-computer-science
+  style: din-1505-2
   locale: en
 
   source: /_bibliography/
