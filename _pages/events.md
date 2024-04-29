@@ -7,9 +7,9 @@ nav: true
 nav_order: 24
 ---
 ### Current and incoming events
+- [36th IEEE International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD 2024)](https://sites.google.com/ime.usp.br/sbac2024/) (PC member)
 - [1st Workshop on Formal Methods cross Spatial Logics (FMxSL)](https://fmxsl24.github.io) (PC member)
 - [26th International Symposium on Principles and Practice of Declarative Programming (PPDP 2024)](https://ppdp2024.github.io) (PC member)
-- [8th Italian Conference on Cybersecurity (ITASEC 2024)](https://www.itasec.it/) (PC member)
 - [6th Distributed Ledger Technology Workshop (DLT 2024)](https://dltgroup.dmi.unipg.it/DLTWorkshop/dlt2024.html) (PC member)
 - [15th International Workshop on Graph Computation Models (GCM 2024)](https://conf.researchr.org/home/staf-2024/gcm-2024) (PC member)
 
@@ -26,6 +26,7 @@ nav_order: 24
 1. [TYPES 2007](/types07) (OC and PC co-chair)
 
 #### PC or OC member
+1. [8th Italian Conference on Cybersecurity (ITASEC 2024)](https://www.itasec.it/) (PC member)
 1. [14th International Workshop on Graph Computation Models (GCM 2023)](https://conf.researchr.org/home/staf-2023/gcm-2023) (PC member)
 1. [IEEE 35th International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD 2023)](https://www.inf.pucrs.br/sbacpad2023/) (PC member)
 1. [5th Distributed Ledger Technology Workshop (DLT 2023)](https://dltgroup.dmi.unipg.it/DLTWorkshop/dlt2023.html) (PC member)
