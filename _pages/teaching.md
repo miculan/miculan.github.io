@@ -23,15 +23,14 @@ Currently I am the coordinator of the [Cybersecurity](https://www.dmif.uniud.it/
 See [below](#past-phd-students) for past PhD students.
 
 ## Current MSc students
-- Luca Campa (MSc student, AI&Cybersecurity)
-- Mattia Pizzolitto (MSc student)
-- Massimiliano Gregoretti (MSc student, AI&Cybersecurity)
-- Valeria Vicard (MSc student, AI&Cybersecurity)
-- Ruggero Franz (MSc student, AI&Cybersecurity)
-- Elia Cal (MSc student, AI&Cybersecurity)
-- Filippo Merlo (MSc student, AI&Cybersecurity)
-- Gianluca Zavan (MSc student, AI&Cybersecurity)
-- Roberto Van Eeden (MSc student, AI&Cybersecurity)
+- Luca Campa (AI&Cybersecurity)
+- Mattia Pizzolitto (AI&Cybersecurity)
+- Valeria Vicard (AI&Cybersecurity)
+- Ruggero Franz (AI&Cybersecurity)
+- Elia Cal (AI&Cybersecurity)
+- Filippo Merlo (AI&Cybersecurity)
+- Gianluca Zavan (AI&Cybersecurity)
+- Roberto Van Eeden (AI&Cybersecurity)
 
 See [below](#past-undergraduate-students) for some past undergrad students.
 
@@ -86,7 +85,9 @@ Past students of mine include:
 - [Luca Geatti](https://users.dimi.uniud.it/~luca.geatti/) (2016)
 - [Marco Paviotti](https://mpaviotti.github.io) (2012)
 - [Matteo Cicuttin](http://www.matteocicuttin.it) (2012)
+- [Marco Peressotti](https://marcoperessotti.com) (2012)
 - [Emanuele D'Osualdo](https://www.emanueledosualdo.com) (2010)
 - [Caterina Urban](http://www.di.ens.fr/~urban/Home_Page.html) (2009)
+- [Giorgio Bacci](http://people.cs.aau.dk/~grbacci/) (2008)
 - [Matteo Mio](https://sites.google.com/site/miomatteo/) (2007)
 - [Temesghen Kashai](http://www.lememta.info/) (2006)
