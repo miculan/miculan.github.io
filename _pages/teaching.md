@@ -13,8 +13,10 @@ Currently I am the coordinator of the [Cybersecurity](https://www.dmif.uniud.it/
 
 ## Current courses
 - [Reti di Calcolatori (Computer Networks)](https://uniud.coursecatalogue.cineca.it/insegnamenti/2022/16019/2017/9999/128) at the BSc in [Computer Science](https://www.uniud.it/it/didattica/corsi/area-scientifica/scienze-matematiche-informatiche-multimediali-fisiche/laurea/informatica/corso/informatica) (Laurea in Informatica) at the University of Udine (2009/10 - current)
-- [Network Security](https://uniud.coursecatalogue.cineca.it/insegnamenti/2022/19626/2020/9999/10644) at the MSc in [Computer Science](https://www.uniud.it/it/didattica/corsi/area-scientifica/scienze-matematiche-informatiche-multimediali-fisiche/laurea-magistrale/informatica/corso/informatica) and at the International MSc in  [Artificial Intelligence & Computer Security](https://www.uniud.it/it/didattica/corsi/area-scientifica/scienze-matematiche-informatiche-multimediali-fisiche/laurea-magistrale/artificial-intelligence-cybersecurity/corso/artificial-intelligence-cybersecurity) (Laurea magistrale double degree) at the University of Udine - University of Klagenfurt (2020/21 - current)
-- *Network security* at the [Master in Intelligence and ICT](https://masterintelligenceict.dmif.uniud.it) (2018/19 - current)
+- [Network Security](https://uniud.coursecatalogue.cineca.it/insegnamenti/2023/22729/2020/9999/10644) at the MSc in [Computer Science](https://www.uniud.it/it/didattica/corsi/area-scientifica/scienze-matematiche-informatiche-multimediali-fisiche/laurea-magistrale/informatica/corso/informatica) and at the International MSc in  [Artificial Intelligence & Computer Security](https://www.uniud.it/it/didattica/corsi/area-scientifica/scienze-matematiche-informatiche-multimediali-fisiche/laurea-magistrale/artificial-intelligence-cybersecurity/corso/artificial-intelligence-cybersecurity) (Laurea magistrale double degree) at the University of Udine - University of Klagenfurt (2020/21 - current)
+- *Introduction to Network security* at the [Master in Intelligence and ICT](https://masterintelligenceict.dmif.uniud.it) (2018/19 - current)
+
+See [below](#past-courses) for some past courses.
 
 ## Current PhD students
 - Matteo Paier (PhD student of the [National PhD in Cybersecurity](https://cysec2022.imtlucca.it/), Cycle XXXVIII, 2022-2025)
