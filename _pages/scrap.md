@@ -28,3 +28,12 @@ This result gives a unifying and general account of most techniques used in comp
 Furthermore, to achieve a more natural and practical approach, we introduced the notion of _complete ordered families of equivalence relations_ (COFE) in {%cite dgm:types02%}. COFE offer a more intuitive alternative to specific ultrametric spaces and integrates well with [formalizations](https://1lab.dev/Cat.Instances.OFE.html). This led to COFE becoming a standard tool in [synthetic guarded domain theory](https://ncatlab.org/nlab/show/synthetic+guarded+domain+theory) and step-indexed logical relations like in [Iris](https://iris-project.org/), a verification framework crucial for proving the correctness and semantic soundness of the [Rust programming language](https://www.rust-lang.org/).
 
 ...to be continued...
+
+metamodels
+Operational 
+2006-... Bigraphs
+
+Semantics of processes and calculi. GSOS. Also Quantitative.
+
+
+weak bisimulations.
