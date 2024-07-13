@@ -1,12 +1,13 @@
-github_users:
-  - miculan
+# github_users:
+#  - miculan
 
 github_repos:
-  - abu-lang/goabu
-  - abu-lang/abudsl
-  - abu-lang/abuc
-  - miculan/telegram-mtproto2-verification
-  - miculan/shaping-anonymous-contact-tracing-data
   - miculan/thud
   - bigraphs/jlibbig
   - cysecud/DBCChecker
+  - miculan/telegram-mtproto2-verification
+  - abu-lang/goabu
+  - abu-lang/abudsl
+  - abu-lang/abuc
+  - miculan/shaping-anonymous-contact-tracing-data
+  - lucageatti/Acidify

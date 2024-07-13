@@ -193,6 +193,8 @@
       value: a correctness verifier for the composition of Docker containers
     - name: dbcchecker
       value: a security property verifier for containers, based on bigraphs and ProVerif
+    - name: acidify
+      value: an Erlang behaviour for distributed transactions over distributed storage
     - name: goabu
       value: a Go implementation of the AbU calculus
     - name: abuc
