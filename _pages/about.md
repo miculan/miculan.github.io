@@ -23,9 +23,9 @@ Associate Professor of Computer Science and Deputy Head at <a href="https://www.
 with a second affiliation at the <a href="https://www.unive.it/pag/28183">Department of Environmental Sciences, Informatics and Statistics</a> of the <a href="https://www.unive.it">Ca' Foscari University of Venice</a>.
 <small>(Qualified to Full Professor since March 2018.)</small>
 
-This website collects some information about my [research](/research/), including my [publications](/publications/), the scientific [projects](/projects/) and [events](/events/) I am involved in, my [teaching](/teaching/) activities and academic [services](/services/).
+This website collects some information about my current and past [research](/research/), including my [publications](/publications/), the scientific [projects](/projects/) and [events](/events/) I am involved in, my [teaching](/teaching/) activities and academic [services](/services/).
 
-My current research focuses on ensuring security and trustworthiness in distributed, component-based, and _smart_ systems. These systems involve intricate interactions of numerous heterogeneous components, making their behavior complex to analyze. To address this challenge, I leverage formal methods (potentially with a pinch of machine learning) to develop novel models, languages, methodologies, and verification techniques to formally analyze and ensure the security and trustworthiness of these systems.<br/>
+My current research focuses on ensuring security and trustworthiness of distributed, component-based, and _smart_ systems. These systems involve intricate interactions of numerous heterogeneous components, making their behavior complex to analyze. To address this challenge, I leverage formal methods (potentially with a pinch of machine learning) to develop novel models, languages, methodologies, and verification techniques to formally analyze and ensure the security and trustworthiness of these systems.<br/>
 If this sounds interesting to you too, [drop me a note](mailto:marino.miculan@uniud.it).
 
 Besides, I know something about
