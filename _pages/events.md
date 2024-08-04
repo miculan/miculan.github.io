@@ -49,6 +49,7 @@ nav_order: 24
 1. [CALCO'13](http://coalg.org/calco13/) (PC member)
 1. [TYPES'13](http://www.irit.fr/TYPES2013/) (PC member)
 1. [FOSSACS'11](http://www2.tcs.ifi.lmu.de/Konferenzen/FoSSaCS_2011) (PC member)
+1. [TYPES'10](http://types10.mimuw.edu.pl/) (PC member)
 1. [Logical Frameworks and Meta-Languages: Theory and Practice (LFMTP 2009)](http://workshops.inf.ed.ac.uk/lfmtp/) (PC member)
 1. [Membrane Computing and Biologically Inspired Process Calculi (MECBIC 2009)](http://profs.info.uaic.ro/~mecbic/) (PC member).
 1. [Mathematically Structured Functional Programming (MSFP 2008)](http://msfp.org.uk/) (PC member).
