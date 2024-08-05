@@ -157,11 +157,11 @@
       year: feb 2024
     - title: > 
         Talk "Modeling Collective Adaptive Systems with Attribute-based Events: Recent Trends and Open Problems"
-      institution: IFIP WG 1.8 meeting ``Open Problems in Concurrency'', Bertinoro
+      institution: IFIP WG 1.8 meeting "Open Problems in Concurrency", Bertinoro
       year: jun 2023
     - title: > 
         Talk "The Fellowship of the Semiring: Concerning Quantitative Bisimulations"
-      institution: IFIP WG 1.8 meeting ``Open Problems in Concurrency'', Bertinoro
+      institution: IFIP WG 1.8 meeting "Open Problems in Concurrency", Bertinoro
       year: jun 2014
     - title: Talk "Tutorial about Bigraphic Reactive Systems"
       institution: MeMo Workshop, Berlin (associated with DisCoTec 2014)
@@ -182,6 +182,9 @@
         Talk "Behind the name: the many faces of atomic terms"
       institution: Theory Days Conference, Koke, Estonia
       year: feb 2006
+    - title: >
+        Talk "Unifying Recursive and Corecursive Definitions"
+      institution: Workshop "Proof Theory of Inductive and Coinductive Types"
 
 - title: Open Source Projects
   type: map
@@ -212,7 +215,7 @@
       title: Best paper award for the work "Automated Symbolic Verification of Telegram’s MTProto 2.0"
       institution: 18th International Conference on Security and Cryptography (SECRYPT 2021).
     - year: Mar 2018
-      title: National Scientific Qualification for the position of Full Professor in Computer Science
+      title: National Scientific Habilitation for the position of Full Professor in Computer Science
     - year: Jan 2011
       title: Best poster award for the work "Formal analysis of Facebook Connect Single Sign-On authentication protocol"
       institution: 37th International Conference on Current Trends in Theory and Practice of Computer Science (SOFSEM 2011).

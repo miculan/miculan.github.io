@@ -11,6 +11,7 @@ nav_order: 24
 - [1st Workshop on Formal Methods cross Spatial Logics (FMxSL)](https://fmxsl24.github.io) (PC member)
 - [26th International Symposium on Principles and Practice of Declarative Programming (PPDP 2024)](https://ppdp2024.github.io) (PC member)
 - [15th International Workshop on Graph Computation Models (GCM 2024)](https://conf.researchr.org/home/staf-2024/gcm-2024) (PC member)
+- [9th Italian Conference on Cybersecurity (ITASEC 2025)](https://www.itasec.it/) (PC member)
 
 
 ### Past events
