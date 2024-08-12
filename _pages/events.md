@@ -24,6 +24,8 @@ nav_order: 24
 1. [8th International Conference on Methodologies, Technologies and Tools enabling e-Government (MeTTeG'14)](http://conferences.cs.unicam.it/metteg14/) (PC Co-chair)
 1. [Logical Frameworks and Meta-Languages: Theory and Practice (LFMTP 2010)](http://lfmtp.org/workshops/2010/Site/Welcome.html) (PC Co-chair)
 1. [TYPES 2007](/types07) (OC and PC co-chair)
+1. ACM SIGPLAN [MERλIN'03](https://web.archive.org/web/20070620005050/http://merlin.dimi.uniud.it/merlin03/) (PC co-chair)
+
 
 #### PC or OC member
 1. [6th Distributed Ledger Technology Workshop (DLT 2024)](https://dlt2024.di.unito.it/) (PC member)
@@ -59,11 +61,10 @@ nav_order: 24
 1. [Mathematically Structured Functional Programming (MSFP 2006)](http://cs.ioc.ee/mpc-amast06/msfp/) (PC member)
 1. [IFIP WG 2.2 Anniversary Meeting](/ifip06) (OC member)
 1. ACM SIGPLAN [MERλIN'05](http://merlin.dimi.uniud.it) (PC member)
-1. AICA 2005 (PC member)
-1. ACM SIGPLAN [MERλIN'03](http://merlin.dimi.uniud.it/merlin03) (PC member, OC member)
+1. Congresso nazionale AICA “Comunità Virtuale dalla Ricerca all’Impresa, dalla Formazione al Cittadino” 2005 (PC member)
 1. [COMETA 2003](http://cometa.dimi.uniud.it/cometa03/) final workshop (OC member)
 1. COMETA 2002 [kickoff meeting](http://cometa.dimi.uniud.it/meetings/kickoff) (OC member)
-1. [GioCoNOpLe](http://cometa.dimi.uniud.it/meetings/gioconople/) (OC member)
+1. ACM SIGPLAN [MERλIN'01](https://dblp.org/db/conf/merlin/merlin2001.html) (PC member, OC member)
 1. [TOSCA'01 Final workshop](http://farfarello.dimi.uniud.it/tosca01/) (OC member)
 
 

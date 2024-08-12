@@ -15,11 +15,11 @@ nav_order: 25
 - [Michele Lizzit](https://lizzit.it/) (PhD student of the Computer Science and Artificial Intelligence PhD, Cycle XXXIX, 2023-2026)
 - [Matteo Spadetto](https://spadetto.github.io/) (research fellow)
 
-(but see also the many [MSc students](/teaching#current-msc-students) I am honored to supervise.)
+(but see also the many [MSc students](/teaching#current-msc-students) I have the honour to supervise.)
 
 
 ### Past PhD students and research fellows
-- [Davide Castelnovo](https://www.math.unipd.it/dipartimento/persone/davide.castelnovo/) (PhD student, Cycle XXXV, 2019-2023)
+- Davide Castelnovo (PhD student, Cycle XXXV, 2019-2023)
 - Claude Stolze (research fellow, oct 2020-sep 2022)
 - [Michele Pasqua](https://michelepasqua.github.io/) (research fellow, oct 2020-sep 2021)
 - [Marco Peressotti](https://marcoperessotti.com) (PhD student, Cycle XXVIII, 2013-2016).
