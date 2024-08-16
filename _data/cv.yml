@@ -153,7 +153,7 @@
   type: time_table
   contents:
     - title: >
-      Talk "DBCChecker: Formally Verifying Security Properties of Containers Compositions"
+        Talk "DBCChecker: Formally Verifying Security Properties of Containers Compositions"
       institution: Meeting “5G and Cloud Security Awareness Days”, Rome
       year: jun 2024
     - title: Talk "An attribute-based events model for collective adaptive systems"
