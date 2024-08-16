@@ -26,12 +26,12 @@ Starting date can be negotiated, but it'd better be no later than October 1st, 2
 The overall gross salary is €23,367.00 per year, including social security contributions; this corresponds to about 1640 euro net per month, tax free. 
 
 ## Where
-The successful candidate will work under the supervision of Marino Miculan, at the Department of Mathematics, Computer Science and Physics (DMIF) of the University of Udine - one of the oldest and largest Computer Science departments in Italy, and with a well-renowned tradition in Formal Methods.  
-Life quality in Udine is constantly among [the highest in Italy](https://lab24.ilsole24ore.com/qualita-della-vita/), and cost of living is lower than in larger cities. (And Udine is one hour from both the Alps and the Adriatic Sea…)
+The successful candidate will work under the supervision of Riccardo Focardi (DAIS, Univ. of Venezia Ca' Foscari) and Marino Miculan, at the [Department of Mathematics, Computer Science and Physics](https://www.dmif.uniud.it) (DMIF) of the University of Udine.
+DMIF is one of the oldest and largest Computer Science departments in Italy, and with a well-renowned tradition in Formal Methods.  
+Life quality in Udine is constantly among [the highest in Italy](https://lab24.ilsole24ore.com/qualita-della-vita/), still the cost of living is lower than in larger cities (and Udine is one hour from both the Alps and the Adriatic Sea…).
 We can consider the possibility of working from remote.
 
 ## How to Apply
 The call is available at [the UniVE website](https://www.unive.it/data/17574/#28946870) (look for code 28946870, title "Composizione Sicura di Microservizi: Un Approccio Formale con Bigrafi, Algebre di Processo e Logiche Temporali"). **Deadline for applications is August 26, 2024 12:00 CEST.**
 
 If you are interested in this position and you are willing to have more information, please send an email to Marino Miculan ([marino.miculan@uniud.it](mailto:marino.miculan@uniud.it)).
-
