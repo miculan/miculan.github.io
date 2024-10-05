@@ -14,6 +14,7 @@ nav_order: 25
 - [Matteo Paier](https://www.imtlucca.it/matteo.paier) (PhD student of the [National PhD in Cybersecurity](https://cysec2022.imtlucca.it/), Cycle XXXVIII, 2022-2025)
 - [Michele Lizzit](https://lizzit.it/) (PhD student of the Computer Science and Artificial Intelligence PhD, Cycle XXXIX, 2023-2026)
 - [Matteo Spadetto](https://spadetto.github.io/) (research fellow)
+- [Massimiliano Baldo](https://baldomassimiliano.com/) (research fellow)
 
 (but see also the many [MSc students](/teaching#current-msc-students) I have the honour to supervise.)
 
