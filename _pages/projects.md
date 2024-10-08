@@ -12,10 +12,10 @@ horizontal: true
 1. [STENDHAL](/projects/2023-stendhal/): MUR PRIN 2022 (10/2023-9/2025). Site leader, Work package leader
 1. [PSA AI](/projects/2023-psaai): InterDepartmental Strategic Project on Artificial Intelligence (2023-2025). Leader of Work Package "AI and cybersecurity".
 1. [SERICS](/projects/2023-serics/): NRRP Partnership (1/2023–12/2025)
-1. [GRAMAR](/projects/2022-gramar/): RAFVG PSR 16.7 2014-2020 (6/2022-9/2024)
 1. [EuroProofNet](/projects/2020-europroofnet/): EU COST action CA20111 (11/2021-10/2025)
 
 ## Concluded projects
+1. [GRAMAR](/projects/2022-gramar/): RAFVG PSR 16.7 2014-2020 (6/2022-9/2024)
 1. [IT MATTERS](/projects/2017-it-matters/): MIUR PRIN 2017 (9/2019-8/2023). Site leader, Work package leader
 1. [TRUTHSTER](/projects/2022-truthster/): NGI TruBlo project (H2020-ICT-2018-2020 957228)
 1. [EUTYPES](/projects/2015-eutypes/): EU COST action CA15123 (04/2016-03/2020). Italy's representative in the Management Committee
