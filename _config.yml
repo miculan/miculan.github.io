@@ -11,7 +11,7 @@ description: Marino Miculan's web page.
 OPTfooter_text: > 
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: uniud, marino-miculan, miculan, researcher, computer-science, academic, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords: Marino Miculan, Academic, Behavioural Equivalence, Behavioural Theory, Bigraphs, Bisimulation, Blockchain, Category Theory, Category Logic, Coalgebra, Coalgebras, Coinduction, Computer Science, distributed ledgers, Distributed Systems, Formal Methods, Formal Models, Formal Semantics, Graph Rewriting, Home, Homepage, Informatics, logical frameworks, Page, Personal, Pi Calculi, Pi Calculus, Pi-Calculi, Pi-Calculus, Process Calculi, Process Calculus, Process-Calculi, Process-Calculus, Programming Languages, proof assistants, Reductions, Site, Structural Operational Semantics, session types, Transitions, type theory, Web, Website
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)

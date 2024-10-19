@@ -19,14 +19,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 latest_papers: false # includes 5 most recent papers"
 social: true  # includes social icons at the bottom of the page
 ---
-Associate Professor of Computer Science and Deputy Head at <a href="https://www.dmif.uniud.it">Department of Mathematics, Computer Science and Physics</a> of the <a href="https://www.uniud.it">University of Udine</a>,
-with a second affiliation at the <a href="https://www.unive.it/pag/28183">Department of Environmental Sciences, Informatics and Statistics</a> of the <a href="https://www.unive.it">Ca' Foscari University of Venice</a>.
-<small>(Qualified to Full Professor since March 2018.)</small>
+Associate Professor of Computer Science and Deputy Head at [Department of Mathematics, Computer Science and Physics](https://www.dmif.uniud.it) of the [University of Udine](https://www.uniud.it), with a second affiliation at the [Department of Environmental Sciences, Informatics and Statistics](https://www.unive.it/pag/28183) of the [Ca' Foscari University of Venice](https://www.unive.it).
+<!-- (Qualified to Full Professor since March 2018.)</small -->
 
 This website collects some information about my current and past [research](/research/), including my [publications](/publications/), the scientific [projects](/projects/) and [events](/events/) I am involved in, my [teaching](/teaching/) activities and academic [services](/services/).
 
-My current research focuses on ensuring security and trustworthiness of distributed, component-based, and _smart_ systems. These systems involve intricate interactions of numerous heterogeneous components, making their behavior complex to analyze. To address this challenge, I leverage formal methods (potentially with a pinch of machine learning) to develop novel models, languages, methodologies, and verification techniques to formally analyze and ensure the security and trustworthiness of these systems.<br/>
-If this sounds interesting to you too, [drop me a note](mailto:marino.miculan@uniud.it).
+My current research focuses on ensuring security and trustworthiness of distributed, component-based, and _smart_ systems. These systems involve intricate interactions of numerous heterogeneous components, making their behavior complex to analyze. To address this challenge, I leverage [formal methods](https://en.wikipedia.org/wiki/Formal_methods) (potentially with a pinch of machine learning) to develop novel models, languages, methodologies, and verification techniques to specify, analyze and ensure the security and trustworthiness of these systems.
+Sounds interesting? [drop me a note](mailto:marino.miculan@uniud.it).
 
 Besides, I know something about
 type theory,
