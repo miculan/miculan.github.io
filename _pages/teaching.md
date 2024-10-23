@@ -8,7 +8,7 @@ nav_order: 31
 ---
 I have taught courses on many subjects, and not only in scientific faculties; in fact, Computer Science is intrinsically multidisciplinary, and hence interacting with students and colleagues from different fields is a valuable and inspiring experience. 
 
-I have created _ab nihilo_ several courses, such as *Distributed Systems*, *Network Security*, *Concurrency theory*, *Languages and Models for Global Computing*.
+I have created _ab nihilo_ several courses, such as *Distributed Systems*, *Network Security*, *Concurrency theory*, *Languages and Models for Global Computing*.  
 Currently I am the coordinator of the [Cybersecurity](https://www.dmif.uniud.it/en/master/computer-science/cybersecurity/) track within the Master Degree in Computer Science.
 
 ## Current courses
@@ -19,15 +19,13 @@ Currently I am the coordinator of the [Cybersecurity](https://www.dmif.uniud.it/
 See [below](#past-courses) for some past courses.
 
 ## Current PhD students
-- Matteo Paier (PhD student of the [National PhD in Cybersecurity](https://cysec2022.imtlucca.it/), Cycle XXXVIII, 2022-2025)
+- [Matteo Paier](https://www.imtlucca.it/en/matteo.paier) (PhD student of the [National PhD in Cybersecurity](https://cysec2022.imtlucca.it/), Cycle XXXVIII, 2022-2025)
 - Michele Lizzit (PhD student of the Computer Science and Artificial Intelligence PhD, Cycle XXXIX, 2023-2026)
 
 See [below](#past-phd-students) for past PhD students.
 
 ## Current MSc students
-- Luca Campa (AI&Cybersecurity)
 - Mattia Pizzolitto (AI&Cybersecurity)
-- Valeria Vicard (AI&Cybersecurity)
 - Ruggero Franz (AI&Cybersecurity)
 - Elia Cal (AI&Cybersecurity)
 - Filippo Merlo (AI&Cybersecurity)
@@ -81,8 +79,11 @@ In extra-academic courses
 - [Davide Grohmann](http://dk.linkedin.com/pub/davide-grohmann/38/b3a/535) (PhD student, Cycle XXIII, 2007-2009). Thesis title: *Multi-graph Structures as Frameworks for Distributed and Concurrent Systems*
 
 ### Past undergraduate students
-I have supervised more than 160 BSc and MSc theses; for the complete list use [this form](https://servizi.amm.uniud.it/CercaTesi/Home/Advanced/), putting "miculan" in the "Nominativo relatore" field.
+I have supervised more than 170 BSc and MSc theses; for the complete list use [this form](https://servizi.amm.uniud.it/CercaTesi/Home/Advanced/), putting "miculan" in the "Nominativo relatore" field.  
 Past students of mine include:
+- [Luca Campa]() (2024) 
+- [Alessio Fiorin](https://www.iispv.cat/en/professional/alessio-fiorin/) (2023)
+- [Matteo Paier](https://www.imtlucca.it/en/matteo.paier) (2022)
 - [Valentino Picotti](https://portal.findresearcher.sdu.dk/en/persons/picotti) (2016)
 - [Alessio Mansutti](https://alessiomansutti.github.io) (2016)
 - [Luca Geatti](https://users.dimi.uniud.it/~luca.geatti/) (2016)
