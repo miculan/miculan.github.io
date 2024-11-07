@@ -216,6 +216,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: Nov 2024
+      title: Best paper award for the work "Formal Analysis of Multi-Factor Authentication Schemes in Digital Identity Cards"
+      institution: 22nd International Conference on Software Engineering and Formal Methods (SEFM 2024).
     - year: Jul 2021
       title: Best paper award for the work "Automated Symbolic Verification of Telegram’s MTProto 2.0"
       institution: 18th International Conference on Security and Cryptography (SECRYPT 2021).
