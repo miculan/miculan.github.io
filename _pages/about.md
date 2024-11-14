@@ -40,7 +40,7 @@ session types,
 bigraphs, 
 systems biology, 
 distributed ledgers.
-(In a sense, I am a *horizontal* researcher.)
+(In a sense, I am a [horizontal thinker](https://www.linkedin.com/pulse/thinking-strategies-vertical-vs-horizontal-malik-tubaishat/).)
 
 I founded and currently lead the [Models and Applications of Distributed Systems](https://mads.uniud.it) laboratory, the Udine node of the [CINI National CyberSecurity laboratory](https://cybersecnatlab.it), and the [MadrHacks](https://www.madrhacks.org), the ethical hacking team of the University of Udine.
 I have the fortune to work with great [people](/group/).
