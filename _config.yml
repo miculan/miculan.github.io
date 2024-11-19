@@ -67,6 +67,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: miculan # your GitHub user name
 gitlab_username: # your GitLab user name
+bluesky_url: oniram.bsky.social # your bluesky URL
 twitter_username: # oniramix # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: marino-miculan-2232a52 # your LinkedIn user name
