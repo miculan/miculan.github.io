@@ -20,7 +20,6 @@ latest_papers: false # includes 5 most recent papers"
 social: true  # includes social icons at the bottom of the page
 ---
 Associate Professor of Computer Science and Deputy Head at [Department of Mathematics, Computer Science and Physics](https://www.dmif.uniud.it) of the [University of Udine](https://www.uniud.it), with a second affiliation at the [Department of Environmental Sciences, Informatics and Statistics](https://www.unive.it/pag/28183) of the [Ca' Foscari University of Venice](https://www.unive.it).
-<small>(Qualified to Full Professor since March 2018.)</small>
 
 This website collects some information about my current and past [research](/research/), including my [publications](/publications/), the scientific [projects](/projects/) and [events](/events/) I am involved in, my [teaching](/teaching/) activities and academic [services](/services/).
 
@@ -28,19 +27,17 @@ My current research focuses on ensuring security and trustworthiness of distribu
 Sounds interesting? [drop me a note](mailto:marino.miculan@uniud.it).
 
 Besides, I know something about
-type theory,
-proof assistants,
-logical frameworks,
-nominal sets, 
-category theory and logic, 
-process calculi,
-coalgebras, 
-structured operational semantics, 
-session types,
-bigraphs, 
-systems biology, 
-distributed ledgers.
-(In a sense, I am a [horizontal thinker](https://www.linkedin.com/pulse/thinking-strategies-vertical-vs-horizontal-malik-tubaishat/).)
+[type theory](https://en.wikipedia.org/wiki/Type_theory),
+[proof assistants](https://en.wikipedia.org/wiki/Proof_assistant),
+[logical frameworks](https://en.wikipedia.org/wiki/Logical_framework),
+[nominal sets](https://ncatlab.org/nlab/show/nominal+set), 
+[category theory](https://en.wikipedia.org/wiki/Category_theory) and [categorical logic](https://en.wikipedia.org/wiki/Categorical_logic), 
+[process calculi](https://en.wikipedia.org/wiki/Process_calculus),
+[coalgebras](https://en.wikipedia.org/wiki/F-coalgebra), 
+[semantics](https://en.wikipedia.org/wiki/Semantics_(computer_science)), 
+[session types](https://en.wikipedia.org/wiki/Session_type),
+[bigraphs](https://en.wikipedia.org/wiki/Bigraph), 
+[distributed ledgers](https://en.wikipedia.org/wiki/Distributed_ledger).
 
-I founded and currently lead the [Models and Applications of Distributed Systems](https://mads.uniud.it) laboratory, the Udine node of the [CINI National CyberSecurity laboratory](https://cybersecnatlab.it), and the [MadrHacks](https://www.madrhacks.org), the ethical hacking team of the University of Udine.
+I founded and currently lead the [Models and Applications of Distributed Systems](https://mads.uniud.it) laboratory, the Udine node of the [CINI National CyberSecurity laboratory](https://cybersecnatlab.it), and the [MadrHacks](https://www.madrhacks.org), the ethical hacking team of the University of Udine.  
 I have the fortune to work with great [people](/group/).

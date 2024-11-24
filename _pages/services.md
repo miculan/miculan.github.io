@@ -11,11 +11,11 @@ nav_order: 41
 - Deputy Head of the [Department of Mathematics, Computer Science and Physics](https://www.dmif.uniud.it) (Jul 2023-)
 - Member of the Research Board of the [Department of Mathematics, Computer Science and Physics](https://www.dmif.uniud.it) (Jul 2023-)
 - Member of the Faculty Board of the [PhD Course in Computer Science and Artificial Intelligence](https://www.dmif.uniud.it/dottorato/iai/) (2023-)
-- Representative of the University of Udine in the Scientific-Technical Board of [IFTS](https://www.formazioneiftsfvg.it/corsi-gratuiti-di-informatica-fvg/) (2016-)
 - Representative of the University of Udine in the Directive Board of [CINI](https://www.consorzio-cini.it) (2008-)
 
 ### Past academic positions
 - Member of the Faculty Board of the [PhD Course in Computer Science, Mathematics and Physics](https://www.dmif.uniud.it/dottorato/imf/) (2020-2024)
+- Representative of the University of Udine in the Scientific-Technical Board of [IFTS](https://www.formazioneiftsfvg.it/corsi-gratuiti-di-informatica-fvg/) (2016-2023)
 - Delegate for Orientation and Tutoring at the [Department of Mathematics, Computer Science and Physics](https://www.dmif.uniud.it) (2019-2024)
 - President of the Selection Committee for the Scientific Class of [Scuola Superiore](https://superiore.uniud.it), the excellence school of the [University of Udine](https://www.uniud.it) (2024)
 - Head of the Web Commission of the DMIF (2019-2022)
