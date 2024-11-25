@@ -92,4 +92,4 @@ AbU is being implemented in Go and other languages (see tools for [the AbU Langu
 
 While my focus has shifted towards distributed programming language theory and security protocol analysis, I remain committed to foundational research, particularly in graph-based metamodels. In recent work {%cite DBLP:conf/fossacs/CastelnovoGM22%}{%cite CASTELNOVO2024114280 %}, we introduced a novel criterion for 𝓜,𝓝-adhesivity, a crucial property for categories in algebraic rewriting. This new criterion finds application in hierarchical graph structures like bigraphs.
 
-つづく (to be continued)
+つづく
