@@ -12,21 +12,22 @@ I have created _ab nihilo_ several courses, such as *Distributed Systems*, *Netw
 Currently I am the coordinator of the [Cybersecurity](https://www.dmif.uniud.it/en/master/computer-science/cybersecurity/) track within the Master Degree in Computer Science.
 
 ## Current courses
-- [Reti di Calcolatori (Computer Networks)](https://uniud.coursecatalogue.cineca.it/insegnamenti/2022/16019/2017/9999/128) at the BSc in [Computer Science](https://www.uniud.it/it/didattica/corsi/area-scientifica/scienze-matematiche-informatiche-multimediali-fisiche/laurea/informatica/corso/informatica) (Laurea in Informatica) at the University of Udine (2009/10 - current)
-- [Network Security](https://uniud.coursecatalogue.cineca.it/insegnamenti/2023/22729/2020/9999/10644) at the MSc in [Computer Science](https://www.uniud.it/it/didattica/corsi/area-scientifica/scienze-matematiche-informatiche-multimediali-fisiche/laurea-magistrale/informatica/corso/informatica) and at the International MSc in  [Artificial Intelligence & Computer Security](https://www.uniud.it/it/didattica/corsi/area-scientifica/scienze-matematiche-informatiche-multimediali-fisiche/laurea-magistrale/artificial-intelligence-cybersecurity/corso/artificial-intelligence-cybersecurity) (Laurea magistrale double degree) at the University of Udine - University of Klagenfurt (2020/21 - current)
+- [Reti di Calcolatori (Computer Networks)](https://uniud.coursecatalogue.cineca.it/insegnamenti/2024/16019/2017/9999/128) at the BSc in [Computer Science](https://www.uniud.it/it/didattica/corsi/area-scientifica/scienze-matematiche-informatiche-multimediali-fisiche/laurea/informatica/corso/informatica) (Laurea in Informatica) at the University of Udine (2009/10 - current)
+- [Network Security](https://uniud.coursecatalogue.cineca.it/insegnamenti/2024/22729/2020/9999/10644) at the MSc in [Computer Science](https://www.uniud.it/it/didattica/corsi/area-scientifica/scienze-matematiche-informatiche-multimediali-fisiche/laurea-magistrale/informatica/corso/informatica) and at the International MSc in  [Artificial Intelligence & Computer Security](https://www.uniud.it/it/didattica/corsi/area-scientifica/scienze-matematiche-informatiche-multimediali-fisiche/laurea-magistrale/artificial-intelligence-cybersecurity/corso/artificial-intelligence-cybersecurity) (Laurea magistrale double degree) at the University of Udine - University of Klagenfurt (2020/21 - current)
 - *Introduction to Network security* at the [Master in Intelligence and ICT](https://masterintelligenceict.dmif.uniud.it) (2018/19 - current)
+- *Fundaments of Computer Security* at the Scuola Superiore of the University of Udine (2024/25)
 
 See [below](#past-courses) for some past courses.
 
 ## Current PhD students
-- [Matteo Paier](https://www.imtlucca.it/en/matteo.paier) (PhD student of the [National PhD in Cybersecurity](https://cysec2022.imtlucca.it/), Cycle XXXVIII, 2022-2025)
-- Michele Lizzit (PhD student of the Computer Science and Artificial Intelligence PhD, Cycle XXXIX, 2023-2026)
+- [Matteo Paier](https://www.imtlucca.it/en/matteo.paier) (Student of the [National PhD in Cybersecurity](https://cysec2022.imtlucca.it/), Cycle XXXVIII, 2022-2025)
+- Michele Lizzit (Student of the Computer Science and Artificial Intelligence PhD, Cycle XXXIX, 2023-2026)
 
 See [below](#past-phd-students) for past PhD students.
 
 ## Current MSc students
 - Mattia Pizzolitto (AI&Cybersecurity)
-- Ruggero Franz (AI&Cybersecurity)
+- Ruggero Franz (Computer Science)
 - Elia Cal (AI&Cybersecurity)
 - Filippo Merlo (AI&Cybersecurity)
 - Gianluca Zavan (AI&Cybersecurity)
