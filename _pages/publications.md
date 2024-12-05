@@ -40,8 +40,8 @@ My Erdős number is 3 (Erdős - Hell - Rizzi - Miculan).
 
 Show:
 <input type="radio" name="pub_selection" onclick="showAllPub()" checked><label>All</label> |
-<input type="radio" name="pub_selection" onclick="showOnlyPub('article')"><label>Articles</label> |
-<input type="radio" name="pub_selection" onclick="showOnlyPub('inproceedings')"><label>In Proceedings</label> |
+<input type="radio" name="pub_selection" onclick="showOnlyPub('article')"><label>Articles in Journals</label> |
+<input type="radio" name="pub_selection" onclick="showOnlyPub('inproceedings')"><label>Articles in Proceedings</label> |
 <input type="radio" name="pub_selection" onclick="showOnlyPub('proceedings')"><label>Proceedings</label> |
 <input type="radio" name="pub_selection" onclick="showOnlyPub('preprint')"><label>Preprints</label> |
 <input type="radio" name="pub_selection" onclick="showOnlyPub('thesis')"><label>Theses</label> |
