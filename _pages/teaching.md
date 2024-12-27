@@ -27,7 +27,6 @@ See [below](#past-phd-students) for past PhD students.
 
 ## Current MSc students
 - Mattia Pizzolitto (AI&Cybersecurity)
-- Ruggero Franz (Computer Science)
 - Elia Cal (AI&Cybersecurity)
 - Filippo Merlo (AI&Cybersecurity)
 - Gianluca Zavan (AI&Cybersecurity)
@@ -82,7 +81,7 @@ In extra-academic courses
 ### Past undergraduate students
 I have supervised more than 170 BSc and MSc theses; for the complete list use [this form](https://servizi.amm.uniud.it/CercaTesi/Home/Advanced/), putting "miculan" in the "Nominativo relatore" field.  
 Past students of mine include:
-- [Luca Campa]() (2024) 
+- [Luca Campa](https://lucacampa.it) (2024) 
 - [Alessio Fiorin](https://www.iispv.cat/en/professional/alessio-fiorin/) (2023)
 - [Matteo Paier](https://www.imtlucca.it/en/matteo.paier) (2022)
 - [Valentino Picotti](https://portal.findresearcher.sdu.dk/en/persons/picotti) (2016)
