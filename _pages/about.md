@@ -8,7 +8,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true   # crops the image to make it circular
   OPTaddress: >
-    <p style="font-size:small">Office L2-17-BC<br/>
+    <p style="font-size:small">Room A2 98<br/>
     DMIF - Università di Udine<br/>
     Via delle Scienze 206<br/>
     I-33100, Udine, Italy</p>
