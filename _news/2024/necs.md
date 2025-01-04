@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-12-16
+date: 2024-12-12
 inline: false
 title: Speaker at NECS 2025 PhD Winter School
 ---

@@ -8,7 +8,6 @@ nav_order: 24
 ---
 ### Current and incoming events
 - [3rd International Workshop on Trends in Digital Identity (TDI 2025)](https://st.fbk.eu/events/TDI2025) (PC member)
-- [36th IEEE International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD 2024)](https://sites.google.com/ime.usp.br/sbac2024/) (PC member)
 - [9th Italian Conference on Cybersecurity (ITASEC 2025)](https://www.itasec.it/) (PC member)
 
 
@@ -26,6 +25,7 @@ nav_order: 24
 
 
 #### PC or OC member
+1. [36th IEEE International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD 2024)](https://sites.google.com/ime.usp.br/sbac2024/) (PC member)
 1. [26th International Symposium on Principles and Practice of Declarative Programming (PPDP 2024)](https://ppdp2024.github.io) (PC member)
 1. [15th International Workshop on Graph Computation Models (GCM 2024)](https://conf.researchr.org/home/staf-2024/gcm-2024) (PC member)
 1. [6th Distributed Ledger Technology Workshop (DLT 2024)](https://dlt2024.di.unito.it/) (PC member)
