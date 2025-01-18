@@ -15,10 +15,10 @@ profile:
   address: 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-latest_papers: false # includes 5 most recent papers"
+latest_papers: false # includes 5 most recent papers
 social: true  # includes social icons at the bottom of the page
 ---
-Associate Professor of Computer Science and Deputy Head at [Department of Mathematics, Computer Science and Physics](https://www.dmif.uniud.it) of the [University of Udine](https://www.uniud.it), with a second affiliation at the [Department of Environmental Sciences, Informatics and Statistics](https://www.unive.it/pag/28183) of the [Ca' Foscari University of Venice](https://www.unive.it).
+Associate Professor of Computer Science at the [Department of Mathematics, Computer Science and Physics](https://www.dmif.uniud.it) of the [University of Udine](https://www.uniud.it), with a second affiliation at the [Department of Environmental Sciences, Informatics and Statistics](https://www.unive.it/pag/28183) of the [Ca' Foscari University of Venice](https://www.unive.it).
 
 This website collects some information about my current and past [research](/research/), including my [publications](/publications/), the scientific [projects](/projects/) and [events](/events/) I am involved in, my [teaching](/teaching/) activities and academic [services](/services/).
 

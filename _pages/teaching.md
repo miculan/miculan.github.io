@@ -8,8 +8,10 @@ nav_order: 31
 ---
 I have taught courses on many subjects, and not only in scientific faculties; in fact, Computer Science is intrinsically multidisciplinary, and hence interacting with students and colleagues from different fields is a valuable and inspiring experience. 
 
-I have created _ab nihilo_ several courses, such as *Distributed Systems*, *Network Security*, *Concurrency theory*, *Languages and Models for Global Computing*.  
+I have created several courses, such as *Distributed Systems*, *Network Security*, *Concurrency theory*, *Languages and Models for Global Computing*.  
 Currently I am the coordinator of the [Cybersecurity](https://www.dmif.uniud.it/en/master/computer-science/cybersecurity/) track within the Master Degree in Computer Science.
+
+For recurring question about current courses, [check the FAQs](/faq)
 
 ## Current courses
 - [Reti di Calcolatori (Computer Networks)](https://uniud.coursecatalogue.cineca.it/insegnamenti/2024/16019/2017/9999/128) at the BSc in [Computer Science](https://www.uniud.it/it/didattica/corsi/area-scientifica/scienze-matematiche-informatiche-multimediali-fisiche/laurea/informatica/corso/informatica) (Laurea in Informatica) at the University of Udine (2009/10 - current)
@@ -20,17 +22,17 @@ Currently I am the coordinator of the [Cybersecurity](https://www.dmif.uniud.it/
 See [below](#past-courses) for some past courses.
 
 ## Current PhD students
-- [Matteo Paier](https://www.imtlucca.it/en/matteo.paier) (Student of the [National PhD in Cybersecurity](https://cysec2022.imtlucca.it/), Cycle XXXVIII, 2022-2025)
-- Michele Lizzit (Student of the Computer Science and Artificial Intelligence PhD, Cycle XXXIX, 2023-2026)
+- [Matteo Paier](https://www.imtlucca.it/en/matteo.paier) ([National PhD in Cybersecurity](https://cysec2022.imtlucca.it/), Cycle XXXVIII, 2022-2025)
+- Michele Lizzit (PhD in Computer Science and Artificial Intelligence, Cycle XXXIX, 2023-2026)
 
 See [below](#past-phd-students) for past PhD students.
 
 ## Current MSc students
-- Mattia Pizzolitto (AI&Cybersecurity)
-- Elia Cal (AI&Cybersecurity)
-- Filippo Merlo (AI&Cybersecurity)
-- Gianluca Zavan (AI&Cybersecurity)
-- Roberto Van Eeden (AI&Cybersecurity)
+- Mattia Pizzolitto (AI & Cybersecurity)
+- Elia Cal (AI & Cybersecurity)
+- Filippo Merlo (AI & Cybersecurity)
+- Gianluca Zavan (AI & Cybersecurity)
+- Roberto Van Eeden (AI & Cybersecurity)
 
 See [below](#past-undergraduate-students) for some past undergrad students.
 
