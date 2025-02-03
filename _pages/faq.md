@@ -38,9 +38,9 @@ A: No. Prima si supera l'esame di Reti, poi si può parlare del tirocinio/tesi.
 # FAQ on Theses
 
 Q: Esiste un formato standard per scrivere le tesi?  
-A: Sì, si può usare la classe LaTeX THUD che si [trova su github](https://github.com/miculan/thud).
+A: Sì, si può usare la classe LaTeX THUD che si [trova su GitHub](https://github.com/miculan/thud).
 
-Q: Ma ma… non so usare github.  
+Q: Ma ma… non so usare GitHub.  
 A: Male, [ora di imparare](https://learn.microsoft.com/it-it/training/modules/introduction-to-github/).
 
 Q: Ma ma… non so scrivere in LaTeX.  

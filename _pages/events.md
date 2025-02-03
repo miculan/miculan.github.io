@@ -7,15 +7,17 @@ nav: true
 nav_order: 24
 ---
 ### Current and incoming events
+- [27th Estonian Winter School in Computer Science (EWSCS 2025)](https://cs.ioc.ee/ewscs/2025/) (speaker)
 - [3rd International Workshop on Trends in Digital Identity (TDI 2025)](https://st.fbk.eu/events/TDI2025) (PC member)
 - [9th Italian Conference on Cybersecurity (ITASEC 2025)](https://www.itasec.it/) (PC member)
-- [8th European Network for Cybersecurity PhD School (NeCS 2025)](https://necs-winterschool.disi.unitn.it) (speaker)
-
 
 ### Past events
-#### PC or OC Chair
-1. [Italy OWASP Day 2019](https://wiki.owasp.org/index.php/Italy_OWASP_Day_Udine_2019) (OC chair)
+#### International PhD Schools
+1. [8th European Network for Cybersecurity PhD School (NeCS 2025)](https://necs-winterschool.disi.unitn.it) (speaker)
 1. [2018 EUTypes Summer School on Types for Programming and Verification (EUTYPES School 2018)](https://sites.google.com/view/2018eutypesschool/home) (chair)
+
+#### Conference PC or OC Chair
+1. [Italy OWASP Day 2019](https://wiki.owasp.org/index.php/Italy_OWASP_Day_Udine_2019) (OC chair)
 1. [Logics, Types, and Semantics: a Journey in Theoretical Computer Science (2018)](http://lts.dimi.uniud.it/) (co-chair)
 1. [Logical Frameworks and Meta-Languages: Theory and Practice (LFMTP 2017)](http://lfmtp.org/workshops/2017/home.shtml) (PC Co-chair)
 1. [2nd International Workshop on Meta Models for Process Languages (MeMo 2015)](http://discotec2015.inria.fr/memo-2015/) (PC Chair)
@@ -25,7 +27,7 @@ nav_order: 24
 1. ACM SIGPLAN [MERλIN'03](https://web.archive.org/web/20070620005050/http://merlin.dimi.uniud.it/merlin03/) (PC co-chair)
 
 
-#### PC or OC member
+#### Conference PC or OC member
 1. [36th IEEE International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD 2024)](https://sites.google.com/ime.usp.br/sbac2024/) (PC member)
 1. [26th International Symposium on Principles and Practice of Declarative Programming (PPDP 2024)](https://ppdp2024.github.io) (PC member)
 1. [15th International Workshop on Graph Computation Models (GCM 2024)](https://conf.researchr.org/home/staf-2024/gcm-2024) (PC member)
