@@ -14,7 +14,7 @@ OPTfooter_text: >
 keywords: Marino Miculan, Academic, Behavioural Equivalence, Behavioural Theory, Bigraphs, Bisimulation, Blockchain, Category Theory, Category Logic, Coalgebra, Coalgebras, Coinduction, Computer Science, distributed ledgers, Distributed Systems, Formal Methods, Formal Models, Formal Semantics, Graph Rewriting, Home, Homepage, Informatics, logical frameworks, Page, Personal, Pi Calculi, Pi Calculus, Pi-Calculi, Pi-Calculus, Process Calculi, Process Calculus, Process-Calculi, Process-Calculus, Programming Languages, proof assistants, Reductions, Site, Structural Operational Semantics, session types, Transitions, type theory, Web, Website
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://marino.miculan.org # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
