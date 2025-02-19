@@ -8,6 +8,9 @@ nav_order: 24
 ---
 ### Current and incoming events
 - [27th Estonian Winter School in Computer Science (EWSCS 2025)](https://cs.ioc.ee/ewscs/2025/) (speaker)
+- [7th Distributed Ledger Technology Workshop (DLT 2025)]() (PC member)
+- [1st International Workshop on Security and Risk in Identity Management (SeRIM 2025)](https://st.fbk.eu/events/SeRIM2025/) (PC member)
+
 
 ### Past events
 #### International PhD Schools
