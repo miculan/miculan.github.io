@@ -87,14 +87,12 @@
 - title: Current academic services at the <a href="https://www.uniud.it">University of Udine</a>
   type: time_table
   contents:
+    - title: Head of Research Board of the <a href="https://www.dmif.uniud.it">Department of Mathematics, Computer Science and Physics</a>
+      year: Feb 2025 – present
     - title: Deputy Head of the <a href="https://www.dmif.uniud.it">Department of Mathematics, Computer Science and Physics</a>
       year: Jul 2023 – present
-    - title: Member of Research Board of the <a href="https://www.dmif.uniud.it">Department of Mathematics, Computer Science and Physics</a>
-      year: Sep 2023 – present
     - title: Member of the Faculty Board of the <a href="https://www.dmif.uniud.it/dottorato/iai/">PhD Course in Computer Science and Artificial Intelligence</a>
       year: Jun 2023 – present
-    - title: Member of the Faculty Board of the <a href="https://www.dmif.uniud.it/dottorato/imf/">PhD Course in Computer Science, Mathematics and Physics</a>
-      year: Mar 2020 – present
     - title: Head of the <a href="https://cyberchallenge.it">CyberChallenge.it</a> at the University of Udine
       year: Oct 2019 – present
     - title: Head of the Udine node of the <a href="https://cybersecnatlab.it">Cybersecurity National Laboratory</a>
@@ -105,6 +103,10 @@
 - title: Past academic services
   type: time_table
   contents:
+    - title: Member of Research Board of the <a href="https://www.dmif.uniud.it">Department of Mathematics, Computer Science and Physics</a>
+      year: Sep 2023 – Jan 2025
+    - title: Member of the Faculty Board of the <a href="https://www.dmif.uniud.it/dottorato/imf/">PhD Course in Computer Science, Mathematics and Physics</a>
+      year: Mar 2020 – Oct 2024
     - title: Member of many selection committees for PhD entrance, for researcher positions, etc.
       year: 2005 – 2024
     - title: Delegate for Orientation and Tutoring at the <a href="https://www.dmif.uniud.it">Department of Mathematics, Computer Science and Physics</a>
