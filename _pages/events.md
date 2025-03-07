@@ -7,15 +7,15 @@ nav: true
 nav_order: 24
 ---
 ### Current and incoming events
-- [27th Estonian Winter School in Computer Science (EWSCS 2025)](https://cs.ioc.ee/ewscs/2025/) (speaker)
 - [7th Distributed Ledger Technology Workshop (DLT 2025)]() (PC member)
 - [1st International Workshop on Security and Risk in Identity Management (SeRIM 2025)](https://st.fbk.eu/events/SeRIM2025/) (PC member)
 
 
 ### Past events
 #### International PhD Schools
-1. [8th European Network for Cybersecurity PhD School (NeCS 2025)](https://necs-winterschool.disi.unitn.it) (speaker)
-1. [2018 EUTypes Summer School on Types for Programming and Verification (EUTYPES School 2018)](https://sites.google.com/view/2018eutypesschool/home) (chair)
+1. [27th Estonian Winter School in Computer Science (EWSCS 2025)](https://cs.ioc.ee/ewscs/2025/) (teacher)
+1. [8th European Network for Cybersecurity PhD School (NeCS 2025)](https://necs-winterschool.disi.unitn.it) (teacher)
+1. [EUTypes Summer School on Types for Programming and Verification (EUTYPES School 2018)](https://sites.google.com/view/2018eutypesschool/home) (chair)
 
 #### Conference PC or OC Chair
 1. [Italy OWASP Day 2019](https://wiki.owasp.org/index.php/Italy_OWASP_Day_Udine_2019) (OC chair)
