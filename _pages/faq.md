@@ -42,13 +42,13 @@ A: No. Prima si supera l'esame di Reti, poi si può parlare del tirocinio/tesi.
 ## Network Security
 
 Q: Will be the lectures streamed online?  
-A: Maybe. However, since I use quite a lot the blackboard and the slides, the experience from remote is not comparable with that in presence.  So, if possible, come in presence.
+A: Likely. However, since I use quite a lot the blackboard and the slides, the experience from remote is not comparable with that in presence.  So, if possible, come in presence.
 
 Q: Will be the lectures recordings available online?  
 A: Yes, somehow. Either those of this year or of the last year. However, see above.
 
 Q: I am enrolled at the University of Udine, but I am away for xyz reasons. May I take the written exam from remote?  
-A: No. It must be taken in presence.
+A: No. It must be taken in presence (unless you manage to obtain an explicit exemption from the Rector).
 
 Q: I am enrolled at the University of Udine, but I am away for xyz reasons. May I give the presentation of the essay from remote?  
 A: Yes, because you have taken the written test in presence.
@@ -77,3 +77,5 @@ A: Non con me 😡
 Q: Posso usare Overleaf?  
 A: Io non lo uso. Perché pagare per qualcosa che Knuth ha creato e ci ha dato gratis?
 
+Q: Esiste un formato standard per le slide?  
+A: Per le triennali, sì: è un formato Powerpoint che vi verrà inviato direttamente dalla segreteria didattica.  Per le magistrali no, non c'è un formato standard, ma circolano alcuni formati semi-ufficiali sia in PPT sia per Beamer con i colori di UniUD.
