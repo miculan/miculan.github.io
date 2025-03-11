@@ -7,9 +7,7 @@ nav: true
 nav_order: 43
 ---
 
-# FAQ on Courses
-
-## Reti di Calcolatori
+## FAQ on "Reti di Calcolatori"
 
 Q: Il programma è troppo pesante. Non si può ridurre?  
 A: È già stato ridotto rispetto a qualche anno fa; ormai non c'è più niente da togliere.
@@ -37,15 +35,21 @@ Q: Il libro di testo, in edizione italiana, è fuori stampa. Con cosa posso sost
 A: Con la versione inglese più aggiornata, che è anche [disponibile gratuitamente online](https://book.systemsapproach.org).
 
 Q: Vorrei fare un tirocinio/una tesi su questi argomenti. Posso iniziare prima di avere sostenuto l'esame?  
-A: No. Prima si supera l'esame di Reti, poi si può parlare del tirocinio/tesi.
+A: Bene per l'interesse, ma no: prima si supera l'esame di Reti, poi si può parlare del tirocinio/tesi.
 
-## Network Security
+## FAQ on "Network Security"
 
 Q: Will be the lectures streamed online?  
 A: Likely. However, since I use quite a lot the blackboard and the slides, the experience from remote is not comparable with that in presence.  So, if possible, come in presence.
 
 Q: Will be the lectures recordings available online?  
 A: Yes, somehow. Either those of this year or of the last year. However, see above.
+
+Q: How is the exam structured?  
+A: The Network Security exam is comprised of two parts. First, students will complete a one-hour, in-person written test covering the course content through questions and exercises. Second, students will write and present an essay on a Network Security topic. The topic will be selected in collaboration with the instructor. The essay will culminate in a 45-minute presentation, supported by slides. Presentation dates are determined individually; students should contact the instructor to request a topic when ready, submit the completed essay 2-3 weeks following topic selection, and schedule the presentation approximately one week after submission.
+
+Q: How long is the written test valid?
+A: The written test is valid for the entire academic year. You must complete the essay and presentation within the same academic year. Otherwise, you will need to retake the written test.
 
 Q: I am enrolled at the University of Udine, but I am away for xyz reasons. May I take the written exam from remote?  
 A: No. It must be taken in presence (unless you manage to obtain an explicit exemption from the Rector).
@@ -59,8 +63,7 @@ A: Yes, but we have to arrange some specific surveillance at AAU, the day of the
 Q: I am enrolled at the University of Klagenfurt. May I give the presentation of the essay from remote?  
 A: Yes.
 
-
-# FAQ on Theses
+## FAQ on Theses
 
 Q: Esiste un formato standard per scrivere le tesi?  
 A: Sì, si può usare la classe LaTeX THUD che si [trova su GitHub](https://github.com/miculan/thud).
