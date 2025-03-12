@@ -9,16 +9,15 @@ nav_order: 31
 I have taught courses on many subjects, and not only in scientific faculties; in fact, Computer Science is intrinsically multidisciplinary, and hence interacting with students and colleagues from different fields is a valuable and inspiring experience. 
 
 I have created several courses, such as *Distributed Systems*, *Network Security*, *Concurrency theory*, *Languages and Models for Global Computing*.  
-Currently I am the coordinator of the [Cybersecurity](https://www.dmif.uniud.it/en/master/computer-science/cybersecurity/) track within the Master Degree in Computer Science.
-
-For recurring question about current courses, [check out the FAQs](/faq)
+Currently I am the coordinator of the [Cybersecurity track](https://www.dmif.uniud.it/en/master/computer-science/cybersecurity/) within the Master Degree in Computer Science.
 
 ## Current courses
 - [Reti di Calcolatori (Computer Networks)](https://uniud.coursecatalogue.cineca.it/insegnamenti/2024/16019/2017/9999/128) at the BSc in [Computer Science](https://www.uniud.it/it/didattica/corsi/area-scientifica/scienze-matematiche-informatiche-multimediali-fisiche/laurea/informatica/corso/informatica) (Laurea in Informatica) at the University of Udine (2009/10 - current)
 - [Network Security](https://uniud.coursecatalogue.cineca.it/insegnamenti/2024/22729/2020/9999/10644) at the MSc in [Computer Science](https://www.uniud.it/it/didattica/corsi/area-scientifica/scienze-matematiche-informatiche-multimediali-fisiche/laurea-magistrale/informatica/corso/informatica) and at the International MSc in  [Artificial Intelligence & Computer Security](https://www.uniud.it/it/didattica/corsi/area-scientifica/scienze-matematiche-informatiche-multimediali-fisiche/laurea-magistrale/artificial-intelligence-cybersecurity/corso/artificial-intelligence-cybersecurity) (Laurea magistrale double degree) at the University of Udine - University of Klagenfurt (2020/21 - current)
 - *Introduction to Network security* at the [Master in Intelligence and ICT](https://masterintelligenceict.dmif.uniud.it) (2018/19 - current)
-- *Fundaments of Computer Security* at the Scuola Superiore of the University of Udine (2024/25)
+- [Fundaments of Computer Security](https://superiore.uniud.it/it/didattica/corsi-superiori-1/disciplinari-classe-scientifica/fondamenti-di-sicurezza-informatica) at the Scuola Superiore of the University of Udine (2024/25)
 
+For recurring question about these courses, [check out the FAQs](/faq).  
 See [below](#past-courses) for some past courses.
 
 ## Current PhD students
@@ -94,7 +93,7 @@ Past students of mine include:
 - [Marco Peressotti](https://marcoperessotti.com) (2012)
 - [Emanuele D'Osualdo](https://www.emanueledosualdo.com) (2010)
 - [Eddy Maddalena](http://www.eddymaddalena.net) (2010)
-- [Caterina Urban](http://www.di.ens.fr/~urban/Home_Page.html) (2009)
+- [Caterina Urban](https://caterinaurban.github.io/) (2009)
 - [Giorgio Bacci](http://people.cs.aau.dk/~grbacci/) (2008)
 - [Matteo Mio](https://sites.google.com/site/miomatteo/) (2007)
 - [Davide Grohmann](http://dk.linkedin.com/pub/davide-grohmann/38/b3a/535) (2007)
