@@ -1,7 +1,7 @@
 ---
 layout: about
 title: home
-OPTsubtitle: Wanderer above the Sea of Computer Science
+subtitle: Disce, sed a doctis, indoctos ipse doceto
 permalink: /
 profile:
   align: right
