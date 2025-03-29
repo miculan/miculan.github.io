@@ -43,10 +43,10 @@ Q: Will be the lectures streamed online?
 A: Likely. However, since I use quite a lot the blackboard and the slides, the experience from remote is not comparable with that in presence.  So, if possible, come in presence.
 
 Q: Will be the lectures recordings available online?  
-A: Yes, somehow. Either those of this year or of the last year. However, see above.
+A: Yes, somehow. However, see above.
 
 Q: How is the exam structured?  
-A: The Network Security exam is comprised of two parts. First, students will complete a one-hour, in-person written test covering the course content through questions and exercises. Second, students will write and present an essay on a Network Security topic. The topic will be selected in collaboration with the instructor. The essay will culminate in a 45-minute presentation, supported by slides. Presentation dates are determined individually; students should contact the instructor to request a topic when ready, submit the completed essay 2-3 weeks following topic selection, and schedule the presentation approximately one week after submission.
+A: The Network Security exam is composed of two parts. First, students will complete a one-hour, in-person written test covering the course content through questions and exercises. Second, students will write and present an essay on a Network Security topic. The topic will be selected in collaboration with the instructor. The essay will culminate in a 45-minute presentation, supported by slides. Presentation dates are determined individually; students should contact the instructor to request a topic when ready, submit the completed essay 2-3 weeks following topic selection, and schedule the presentation approximately one week after submission.
 
 Q: How long is the written test valid?
 A: The written test is valid for the entire academic year. You must complete the essay and presentation within the same academic year. Otherwise, you will need to retake the written test.
@@ -62,6 +62,9 @@ A: Yes, but we have to arrange some specific surveillance at AAU, the day of the
 
 Q: I am enrolled at the University of Klagenfurt. May I give the presentation of the essay from remote?  
 A: Yes.
+
+Q: Sono iscritto a una laurea triennale (ad esempio Informatica o IBML); posso inserire questo corso della laurea magistrale tra i miei crediti a scelta libera?  
+A: Tecnicamente sì, ma in generale è fortemente sconsigliato se poi si ha intenzione di proseguire con la laurea magistrale. Anticipare esami della magistrale durante la triennale può creare problemi al momento dell'iscrizione alla magistrale, in particolare se quell'esame risulta obbligatorio in un determinato percorso. Questo potrebbe costringere lo studente a presentare un piano di studi personalizzato per evitare sovrapposizioni.
 
 ## FAQ on Theses
 
@@ -81,4 +84,4 @@ Q: Posso usare Overleaf?
 A: Io non lo uso. Perché pagare per qualcosa che Knuth ha creato e ci ha dato gratis?
 
 Q: Esiste un formato standard per le slide?  
-A: Per le triennali, sì: è un formato Powerpoint che vi verrà inviato direttamente dalla segreteria didattica.  Per le magistrali no, non c'è un formato standard, ma circolano alcuni formati semi-ufficiali sia in PPT sia per Beamer con i colori di UniUD.
+A: Per le triennali, sì: è un formato Powerpoint che vi verrà inviato direttamente dalla segreteria didattica.  Per le magistrali non c'è un formato standard, ma circolano alcuni formati semi-ufficiali sia in PPT sia per Beamer con i colori di UniUD.
