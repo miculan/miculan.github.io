@@ -19,7 +19,7 @@ Q: Ci vorrebbe un Laboratorio.
 A: Sono d'accordo, ma si veda la FAQ precedente.
 
 Q: Ci vogliono più esercitazioni.  
-A: Nell'A.A. 2024/25 abbiamo aggiunto 6 lezioni integrative appositamente per fare esercitazioni (e la partecipazione non è stata proprio altissima).
+A: Nell'A.A. 2024/25 abbiamo aggiunto 6 lezioni integrative appositamente per fare esercitazioni - e la partecipazione non è stata proprio altissima.
 
 Q: È possibile registrare e/o trasmettere le lezioni per chi non può partecipare in aula?  
 A: Su Teams sono presenti registrazioni di lezioni precedenti, risalenti a qualche anno fa; il programma del corso è rimasto sostanzialmente invariato.
@@ -32,7 +32,7 @@ Q: Ma neanche solo lo scritto?
 A: Nooo! Inutile insistere, no è no.
 
 Q: Il libro di testo, in edizione italiana, è fuori stampa. Con cosa posso sostituirlo?  
-A: Con la versione inglese più aggiornata, che è anche [disponibile gratuitamente online](https://book.systemsapproach.org).
+A: Con la versione inglese più aggiornata, che è anche [disponibile gratuitamente online](https://book.systemsapproach.org). Ma ci sono tanti altri libri validi, sia in inglese sia in italiano.
 
 Q: Vorrei fare un tirocinio/una tesi su questi argomenti. Posso iniziare prima di avere sostenuto l'esame?  
 A: Bene per l'interesse, ma no: prima si supera l'esame di Reti, poi si può parlare del tirocinio/tesi.
@@ -51,7 +51,7 @@ A: The Network Security exam is composed of two parts. First, students will comp
 Q: How long is the written test valid?
 A: The written test is valid for the entire academic year. You must complete the essay and presentation within the same academic year. Otherwise, you will need to retake the written test.
 
-Q: I am enrolled at the University of Udine, but I am away for xyz reasons. May I take the written exam from remote?  
+Q: I am enrolled at the University of Udine, but I am away for xyz reasons. May I take the written test from remote?  
 A: No. It must be taken in presence (unless you manage to obtain an explicit exemption from the Rector).
 
 Q: I am enrolled at the University of Udine, but I am away for xyz reasons. May I give the presentation of the essay from remote?  
@@ -63,8 +63,8 @@ A: Yes, but we have to arrange some specific surveillance at AAU, the day of the
 Q: I am enrolled at the University of Klagenfurt. May I give the presentation of the essay from remote?  
 A: Yes.
 
-Q: Sono iscritto a una laurea triennale (ad esempio Informatica o IBML); posso inserire questo corso della laurea magistrale tra i miei crediti a scelta libera?  
-A: Tecnicamente sì, ma in generale è fortemente sconsigliato se poi si ha intenzione di proseguire con la laurea magistrale. Anticipare esami della magistrale durante la triennale può creare problemi al momento dell'iscrizione alla magistrale, in particolare se quell'esame risulta obbligatorio in un determinato percorso. Questo potrebbe costringere lo studente a presentare un piano di studi personalizzato per evitare sovrapposizioni.
+Q: Sono iscritto a una laurea triennale (ad esempio Informatica o IBML). Posso inserire questo corso della laurea magistrale tra i miei crediti a scelta libera?  
+A: Tecnicamente sì, ma in generale è fortemente sconsigliato se poi si ha intenzione di proseguire con la laurea magistrale. Anticipare un esame della magistrale durante la triennale può creare problemi al momento dell'iscrizione alla magistrale, in particolare se quell'esame risulta obbligatorio in un determinato percorso. Questo potrebbe costringere lo studente a presentare un piano di studi personalizzato per evitare sovrapposizioni (e non è detto che venga accettato).
 
 ## FAQ on Theses
 
