@@ -13,14 +13,15 @@ nav_order: 25
 - [Vincenzo Riccio](https://p1ndsvin.github.io/) - Tenure-track Assistant Professor (RTD-B)
 - [Matteo Paier](https://www.imtlucca.it/matteo.paier) - PhD student of the [National PhD Programme in Cybersecurity](https://cysec2022.imtlucca.it/) (Cycle XXXVIII, 2022-2025)
 - [Michele Lizzit](https://lizzit.it/) - PhD student of the Computer Science and Artificial Intelligence PhD Programme (Cycle XXXIX, 2023-2026)
-- [Matteo Spadetto](https://spadetto.github.io/) - post-doc research fellow
 - [Massimiliano Baldo](https://baldomassimiliano.com/) - pre-doc research fellow
+- Luca Gemolotto - pre-doc research fellow
 
 But see also the many [MSc students](/teaching#current-msc-students) I have and had the honour to supervise.
 
 
 ### Past PhD students and research fellows
-- Davide Castelnovo - PhD student (Cycle XXXV, 2019-2023)
+- [Matteo Spadetto](https://spadetto.github.io/) - post-doc research fellow (mar 2024-mar 2025)
+- [Davide Castelnovo](https://davidecaste.github.io/) - PhD student (Cycle XXXV, 2019-2023)
 - Claude Stolze - research fellow (oct 2020-sep 2022)
 - [Michele Pasqua](https://michelepasqua.github.io/) - post-doc research fellow (oct 2020-sep 2021)
 - [Marco Peressotti](https://marcoperessotti.com) - PhD student (Cycle XXVIII, 2013-2016)
