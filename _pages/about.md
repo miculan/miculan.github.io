@@ -20,9 +20,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 I am Professor of Computer Science at the [Department of Mathematics, Computer Science and Physics](https://www.dmif.uniud.it) of the [University of Udine](https://www.uniud.it), with a second affiliation at the [Department of Environmental Sciences, Informatics and Statistics](https://www.unive.it/pag/28183) of the [Ca' Foscari University of Venice](https://www.unive.it).
 
-This website collects some information about my current and past [research](/research/), including my [publications](/publications/), the scientific [projects](/projects/) and [events](/events/) I am involved in, my [teaching](/teaching/) activities and my academic [services](/services/).
+This website collects some information about my current and past [research](/research/), including my [publications](/publications/), the scientific [projects](/projects/) I am involved in, my academic [services](/services/) and my [teaching](/teaching/) activities.
 
-My current research focuses on ensuring the security and trustworthiness of distributed, component-based, and _smart_ systems. These interconnected systems involve numerous heterogeneous components, which makes analyzing their behavior a complex challenge. To address this, I leverage [formal methods](https://en.wikipedia.org/wiki/Formal_methods) to develop novel models, languages, methodologies, and verification techniques to specify, analyze, and ensure the security and trustworthiness of these systems. 
+My [current research](/research/) focuses on ensuring the security and trustworthiness of distributed, component-based, and _smart_ systems. These interconnected systems involve numerous heterogeneous components, which makes analyzing their behavior a complex challenge. To address this, I leverage [formal methods](https://en.wikipedia.org/wiki/Formal_methods) to develop novel models, languages, methodologies, and verification techniques to specify, analyze, and ensure the security and trustworthiness of these systems. 
 If this sounds interesting to you, [feel free to reach out](mailto:marino.miculan@uniud.it).
 
 
