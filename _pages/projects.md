@@ -9,7 +9,7 @@ display_categories: [current, past]
 horizontal: true
 ---
 ## Ongoing projects
-1. [STENDHAL](/projects/2023-stendhal/): MUR PRIN 2022 (10/2023-9/2025). Site leader, Work package leader
+1. [STENDHAL](/projects/2023-stendhal/): MUR PRIN 2022 (10/2023-2/2026). Site leader, Work package leader
 1. [PSA AI](/projects/2023-psaai): InterDepartmental Strategic Project on Artificial Intelligence (2023-2025). Leader of Work Package "AI and cybersecurity".
 1. [SERICS](/projects/2023-serics/): NRRP Partnership (1/2023–12/2025)
 1. [EuroProofNet](/projects/2020-europroofnet/): EU COST action CA20111 (11/2021-10/2025)

@@ -48,7 +48,7 @@ A: Yes, somehow. However, see above.
 Q: How is the exam structured?  
 A: The Network Security exam is composed of two parts. First, students will complete a one-hour, in-person written test covering the course content through questions and exercises. Second, students will write and present an essay on a Network Security topic. The topic will be selected in collaboration with the instructor. The essay will culminate in a 45-minute presentation, supported by slides. Presentation dates are determined individually; students should contact the instructor to request a topic when ready, submit the completed essay 2-3 weeks following topic selection, and schedule the presentation approximately one week after submission.
 
-Q: How long is the written test valid?
+Q: How long is the written test valid?  
 A: The written test is valid for the entire academic year. You must complete the essay and presentation within the same academic year. Otherwise, you will need to retake the written test.
 
 Q: I am enrolled at the University of Udine, but I am away for xyz reasons. May I take the written test from remote?  

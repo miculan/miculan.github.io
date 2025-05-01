@@ -9,7 +9,7 @@ nav_order: 31
 I have taught courses on many subjects, and not only in scientific faculties; in fact, Computer Science is intrinsically multidisciplinary, and hence interacting with students and colleagues from different fields is a valuable and inspiring experience. 
 
 I have created several courses, such as *Distributed Systems*, *Network Security*, *Concurrency theory*, *Languages and Models for Global Computing*.  
-Currently I am the coordinator of the [Cybersecurity track](https://www.dmif.uniud.it/en/master/computer-science/cybersecurity/) within the Master Degree in Computer Science.
+Currently I am the coordinator of the "Cybersecurity" track within the [Master Degree in Computer Science](https://www.uniud.it/en/education/offer/courses/scientific-area/mathematics-computer-sciences-multimedia-physics/master-degree-courses-graduate-120-ects/computer-science/computer-science?set_language=en).
 
 ## Current courses
 - [Reti di Calcolatori (Computer Networks)](https://uniud.coursecatalogue.cineca.it/insegnamenti/2024/16019/2017/9999/128) at the BSc in [Computer Science](https://www.uniud.it/it/didattica/corsi/area-scientifica/scienze-matematiche-informatiche-multimediali-fisiche/laurea/informatica/corso/informatica) (Laurea in Informatica) at the University of Udine (2009/10 - current)
