@@ -11,19 +11,20 @@ nav_order: 24
 - Associate Editor for the Smart Contracts section of the journal [Frontiers in Blockchain](https://www.frontiersin.org/journals/blockchain/sections/smart-contracts) (Oct 2024-).
 - Deputy Head of the [Department of Mathematics, Computer Science and Physics](https://www.dmif.uniud.it) (Jul 2023-)
 - Member of the Faculty Board of the [PhD Course in Computer Science and Artificial Intelligence](https://www.dmif.uniud.it/dottorato/iai/) (2023-)
-- Representative of the University of Udine in the Directive Board of [CINI](https://www.consorzio-cini.it) (2008-)
 
 ### Current and incoming events
 - [7th Distributed Ledger Technology Workshop (DLT 2025)](https://events.dimes.unical.it/dlt2025/) (PC member)
 - [1st International Workshop on Security and Risk in Identity Management (SeRIM 2025)](https://st.fbk.eu/events/SeRIM2025/) (PC member)
 
 ### Past academic positions
+- Representative of the University of Udine in the Directive Board of [CINI](https://www.consorzio-cini.it) (2008-2025)
 - Member of the Research Board of the [Department of Mathematics, Computer Science and Physics](https://www.dmif.uniud.it) (Jul 2023-Jan 2025)
 - Member of the Faculty Board of the [PhD Course in Computer Science, Mathematics and Physics](https://www.dmif.uniud.it/dottorato/imf/) (2020-2024)
 - Delegate for Orientation and Tutoring at the [Department of Mathematics, Computer Science and Physics](https://www.dmif.uniud.it) (2019-2024)
 - Representative of the University of Udine in the Scientific-Technical Board of [IFTS](https://www.formazioneiftsfvg.it/corsi-gratuiti-di-informatica-fvg/) (2016-2023)
 - President of the Selection Committee for the Scientific Class of [Scuola Superiore](https://superiore.uniud.it), the excellence school of the [University of Udine](https://www.uniud.it) (2023)
 - Head of the Web Commission of the DMIF (2019-2022)
+- Responsible of the Computer Science PCTO (aka Alternanza Scuola-Lavoro) (2018-2020)
 - Director of the Udine node of the CINI consortium (2009-2020)
 - Member of the Faculty Board of the [PhD Course in Computer Science](https://www.dmif.uniud.it/dottorato/informatica/) (2006-2017)
 - Responsible of the Erasmus Exchange with Goteborg University (2009-2020)
@@ -31,7 +32,6 @@ nav_order: 24
 - Deputy head of the Board of Computer Science Curricula (2013–2016)
 - Deputy head of the Department of Mathematics and Computer Science (2005–2008)
 - Member of many selection committees for PhD entrance, for researcher positions (RTD), etc.
-
 
 ### Past events
 #### International PhD Schools
@@ -48,7 +48,6 @@ nav_order: 24
 1. [Logical Frameworks and Meta-Languages: Theory and Practice (LFMTP 2010)](http://lfmtp.org/workshops/2010/Site/Welcome.html) (PC Co-chair)
 1. [TYPES 2007](/types07) (OC and PC co-chair)
 1. ACM SIGPLAN [MERλIN'03](https://web.archive.org/web/20070620005050/http://merlin.dimi.uniud.it/merlin03/) (PC co-chair)
-
 
 #### Conference PC or OC member
 1. [3rd International Workshop on Trends in Digital Identity (TDI 2025)](https://st.fbk.eu/events/TDI2025) (PC member)
