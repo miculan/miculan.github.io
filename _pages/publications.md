@@ -23,7 +23,6 @@ My Erdős number is 3 (Erdős - Hell - Rizzi - Miculan).
 <script type="text/javascript">
   function showOnlyPub(g) {
     const elenco = document.querySelectorAll('.row');
-    console.log(elenco);
     elenco.forEach(item => {
       if (item.classList.contains(g)) {
           item.parentNode.style.display = 'list-item';
@@ -45,6 +44,7 @@ Show:
 <input type="radio" name="pub_selection" onclick="showOnlyPub('proceedings')"><label>Proceedings</label> |
 <input type="radio" name="pub_selection" onclick="showOnlyPub('preprint')"><label>Preprints</label> |
 <input type="radio" name="pub_selection" onclick="showOnlyPub('thesis')"><label>Theses</label> |
+<input type="radio" name="pub_selection" onclick="showOnlyPub('book')"><label>Books</label> |
 <input type="radio" name="pub_selection" onclick="showOnlyPub('techreport')"><label>Tech Reports</label> |
 <input type="radio" name="pub_selection" onclick="showOnlyPub('misc')"><label>Misc</label>
 <div class="publications">
