@@ -236,7 +236,8 @@ scholar:
 #  style: association-for-computing-machinery
 #  style: ieee
 #  style: springer-lecture-notes-in-computer-science
-  style: din-1505-2
+#  style: din-1505-2
+  style: apa
   locale: en
 
   source: /_bibliography/
