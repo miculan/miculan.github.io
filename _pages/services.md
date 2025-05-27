@@ -23,7 +23,7 @@ nav_order: 24
 - Delegate for Orientation and Tutoring at the [Department of Mathematics, Computer Science and Physics](https://www.dmif.uniud.it) (2019-2024)
 - Representative of the University of Udine in the Scientific-Technical Board of [IFTS](https://www.formazioneiftsfvg.it/corsi-gratuiti-di-informatica-fvg/) (2016-2023)
 - President of the Selection Committee for the Scientific Class of [Scuola Superiore](https://superiore.uniud.it), the excellence school of the [University of Udine](https://www.uniud.it) (2023)
-- Head of the Web Commission of the DMIF (2019-2022)
+- Head of the Web Committee of the DMIF (2019-2022)
 - Responsible of the Computer Science PCTO (aka Alternanza Scuola-Lavoro) (2018-2020)
 - Director of the Udine node of the CINI consortium (2009-2020)
 - Member of the Faculty Board of the [PhD Course in Computer Science](https://www.dmif.uniud.it/dottorato/informatica/) (2006-2017)
