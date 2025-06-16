@@ -35,7 +35,7 @@ Q: Il libro di testo, in edizione italiana, è fuori stampa. Con cosa posso sost
 A: Con la versione inglese più aggiornata, che è anche [disponibile gratuitamente online](https://book.systemsapproach.org). Ma ci sono tanti altri libri validi, sia in inglese sia in italiano.
 
 Q: Vorrei fare un tirocinio/una tesi su questi argomenti. Posso iniziare prima di avere sostenuto l'esame?  
-A: Bene per l'interesse, ma no: prima si supera l'esame di Reti, poi si può parlare del tirocinio/tesi.
+A: Mi compiaccio per l'interesse, ma no: prima si supera l'esame di Reti, poi si può parlare del tirocinio/tesi.
 
 ## FAQ on _Network Security_
 
@@ -46,7 +46,16 @@ Q: Will be the lectures recordings available online?
 A: Yes, somehow. However, see above.
 
 Q: How is the exam structured?  
-A: The Network Security exam is composed of two parts. First, students will complete a one-hour, in-person written test covering the course content through questions and exercises. Second, students will write and present an essay on a Network Security topic. The topic will be selected in collaboration with the instructor. The essay will culminate in a 45-minute presentation, supported by slides. Presentation dates are determined individually; students should contact the instructor to request a topic when ready, submit the completed essay 2-3 weeks following topic selection, and schedule the presentation approximately one week after submission.
+A: The Network Security exam is composed of two parts: first, students will complete a one-hour, in-person written test covering the course content through questions and exercises. Second, students will write an essay on a topic related to Network Security, which will be presented in a 45-minute talk, supported by slides.
+
+Q: How and when can I choose the topic for the essay?  
+A: The topic will be selected in collaboration with the instructor, after that the written test has been successfully passed. When ready, each student should contact the instructor (that is, me) to agree on a topic.
+
+Q: When and how should the essay be submitted?  
+A: The completed essay should be submitted 3-4 weeks after topic selection, on the suitable TurnitIn account.
+
+Q: When will the presentation be given?   
+A: The presentation will be scheduled approximately one week after submission of the essay; the exact date will be agreed with the teacher.
 
 Q: How long is the written test valid?  
 A: The written test is valid for the entire academic year. You must complete the essay and presentation within the same academic year. Otherwise, you will need to retake the written test.
@@ -64,7 +73,7 @@ Q: I am enrolled at the University of Klagenfurt. May I give the presentation of
 A: Yes.
 
 Q: Sono iscritto a una laurea triennale (ad esempio Informatica o IBML). Posso inserire questo corso della laurea magistrale tra i miei crediti a scelta libera?  
-A: Tecnicamente sì, ma in generale è fortemente sconsigliato se poi si ha intenzione di proseguire con la laurea magistrale. Anticipare un esame della magistrale durante la triennale può creare problemi al momento dell'iscrizione alla magistrale, in particolare se quell'esame risulta obbligatorio in un determinato percorso. Questo potrebbe costringere lo studente a presentare un piano di studi personalizzato per evitare sovrapposizioni (e non è detto che venga accettato).
+A: Tecnicamente sì, ma in generale è fortemente sconsigliato se poi si ha intenzione di proseguire con la laurea magistrale. Anticipare un esame della magistrale durante la triennale può creare problemi al momento dell'iscrizione alla magistrale, in particolare se quell'esame risulta obbligatorio in un determinato percorso. Dato che l'esame non può essere ripetuto, lo studente potrebbe essere costretto a presentare un piano di studi personalizzato per evitare sovrapposizioni (e non è detto che venga accettato).
 
 ## FAQ on Theses
 
