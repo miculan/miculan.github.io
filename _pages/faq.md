@@ -21,6 +21,12 @@ A: Sono d'accordo, ma si veda la FAQ precedente.
 Q: Ci vogliono più esercitazioni.  
 A: Nell'A.A. 2024/25 abbiamo aggiunto 6 lezioni integrative appositamente per fare esercitazioni - e la partecipazione non è stata proprio altissima.
 
+Q: Il libro di testo, in edizione italiana, è fuori stampa. Con cosa posso sostituirlo?  
+A: Con la versione inglese più aggiornata, che è [disponibile gratuitamente online](https://book.systemsapproach.org). Ma ci sono tanti altri libri validi, sia in inglese sia in italiano.
+
+Q: Si può avere le slide in italiano?  
+A: Non ha senso tradurre le slide, perché la materia ha un lessico standard in inglese. (E se al terzo anno di Informatica o IBML avete problemi a leggere l'inglese, fatevi una domanda.)
+
 Q: È possibile registrare e/o trasmettere le lezioni per chi non può partecipare in aula?  
 A: Su Teams sono presenti registrazioni di lezioni precedenti, risalenti a qualche anno fa; il programma del corso è rimasto sostanzialmente invariato.
 Tuttavia, la frequenza in aula è fortemente consigliata: la partecipazione attiva alla vita accademica arricchisce l'esperienza di apprendimento con importanti opportunità di confronto e approfondimento, e l'interazione diretta con i docenti e i colleghi è un elemento formativo essenziale.
@@ -30,9 +36,6 @@ A: No.
 
 Q: Ma neanche solo lo scritto?  
 A: Nooo! Inutile insistere, no è no.
-
-Q: Il libro di testo, in edizione italiana, è fuori stampa. Con cosa posso sostituirlo?  
-A: Con la versione inglese più aggiornata, che è anche [disponibile gratuitamente online](https://book.systemsapproach.org). Ma ci sono tanti altri libri validi, sia in inglese sia in italiano.
 
 Q: Vorrei fare un tirocinio/una tesi su questi argomenti. Posso iniziare prima di avere sostenuto l'esame?  
 A: Mi compiaccio per l'interesse, ma no: prima si supera l'esame di Reti, poi si può parlare del tirocinio/tesi.

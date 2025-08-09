@@ -15,7 +15,7 @@ Congratulations also to all the Cyberdefenders who participated in the ethical h
 They can now join [MadrHacks](https://ctftime.org/team/114509), the Udine-based team of ethical hackers born out of these competitions, and one of the top 50 teams worldwide.  
 Special thanks to all the instructors and tutors who guided the students throughout this training journey, as well as our sponsors [karmasec](https://karmasec.com) and [Danieli Automation](https://www.dca.it).
 
-The next step will be the national competition, which take place at the United Nations Training Campus ITC-ILO in Turin, on July 4-7.  There, the University of Udine will be represented by Mattia Calligaro, Daniel Fragrante, Gabriele Tommasi and Michele Vecchiato (students at the Bachelor degree in Computer Science), Nicolò Frescura (student at the Bachelor degree in Internet of things, big data, machine learning) and Oliver Stevanovic  (student at the International Master degree in Artificial intelligence & cybersecurity).
+The next step will be the [CyberChallenge national competition](https://cyberchallenge.it/halloffame/2025), which take place at the United Nations Training Campus ITC-ILO in Turin, on July 4-7.  There, the University of Udine will be represented by Mattia Calligaro, Daniel Fragrante, Gabriele Tommasi and Michele Vecchiato (students at the Bachelor degree in Computer Science), Nicolò Frescura (student at the Bachelor degree in Internet of things, big data, machine learning) and Oliver Stevanovic  (student at the International Master degree in Artificial intelligence & cybersecurity).
 
 More information on [Qui.uniud](https://qui.uniud.it/ateneo/sicurezza-informatica-tre-studenti-dellateneo-vincono-cyberchallengeit-sfida-fra-giovani-hacker-etici/).
 
