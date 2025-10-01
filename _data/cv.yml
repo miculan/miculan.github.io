@@ -33,14 +33,17 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Associate Professor in Computer Science
+    - title: Full Professor in Computer Science 
+      institution: Department of Mathematical, Computer and Physical Sciences, University of Udine
+      year: Oct 2025 – today
+    - title: Professor in Computer Science
       institution: Department of Environmental Sciences, Computer Science and Statistics, Ca' Foscari University of Venice
       year: May 2022 – today
       description: I have a second affiliation with Ca' Foscari University of Venice, in order to participate to the <a href="https://serics.eu/services/spoke-6-sicurezza-software-piattaforme/">Spoke 6 <em>Software and Platform Security</em></a> of SERICS. The aim of this spoke's research is to provide an ecosystem where software developers can easily reason about software security, thanks to innovative security-aware programming abstractions and new semantic models. 
     - title: Associate Professor in Computer Science 
       institution: >
         Department of Mathematical, Computer and Physical Sciences, University of Udine (before: Faculty of Arts and Humanities, then Faculty of Mathematical, Physical and Natural Sciences) 
-      year: Jan 2005 – today
+      year: Jan 2005 – Sep 2025
       description:
         - In this position I have taught about <a href="/teaching">10 different courses</a> at the undergraduate level and four courses at PhD level, supervised more than 120 undergraduate theses, four PhD students;
         - Written about <a href="/publications">seventy papers</a>, participated in a <a href="/projects">dozen research projects</a> (often with leadership positions);
@@ -97,14 +100,14 @@
       year: Oct 2019 – present
     - title: Head of the Udine node of the <a href="https://cybersecnatlab.it">Cybersecurity National Laboratory</a>
       year: 2015 – present
-    - title: Representative of the University of Udine in the Directive Board of <a href="https://www.consorzio-cini.it">CINI</a>
-      year: 2008 – present
 
 - title: Past academic services
   type: time_table
   contents:
     - title: Member of Research Board of the <a href="https://www.dmif.uniud.it">Department of Mathematics, Computer Science and Physics</a>
       year: Sep 2023 – Jan 2025
+    - title: Representative of the University of Udine in the Directive Board of <a href="https://www.consorzio-cini.it">CINI</a>
+      year: 2008 – 2025
     - title: Member of the Faculty Board of the <a href="https://www.dmif.uniud.it/dottorato/imf/">PhD Course in Computer Science, Mathematics and Physics</a>
       year: Mar 2020 – Oct 2024
     - title: Member of many selection committees for PhD entrance, for researcher positions, etc.

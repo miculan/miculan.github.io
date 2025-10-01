@@ -13,8 +13,8 @@ nav_order: 24
 - Member of the Faculty Board of the [PhD Course in Computer Science and Artificial Intelligence](https://www.dmif.uniud.it/dottorato/iai/) (2023-)
 
 ### Current and incoming events
-- [7th Distributed Ledger Technology Workshop (DLT 2025)](https://events.dimes.unical.it/dlt2025/) (PC member)
-- [1st International Workshop on Security and Risk in Identity Management (SeRIM 2025)](https://st.fbk.eu/events/SeRIM2025/) (PC member)
+- [32nd International Conference on Types for Proofs and Programs (TYPES 2026)](https://types2026.cse.chalmers.se/) (PC member)
+- [10th Italian Conference on Cybersecurity (ITASEC 2026)](https://www.itasec.it/) (PC member)
 
 ### Past academic positions
 - Representative of the University of Udine in the Directive Board of [CINI](https://www.consorzio-cini.it) (2008-2025)
@@ -50,6 +50,8 @@ nav_order: 24
 1. ACM SIGPLAN [MERλIN'03](https://web.archive.org/web/20070620005050/http://merlin.dimi.uniud.it/merlin03/) (PC co-chair)
 
 #### Conference PC or OC member
+1. [1st International Workshop on Security and Risk in Identity Management (SeRIM 2025)](https://st.fbk.eu/events/SeRIM2025/) (PC member)
+1. [7th Distributed Ledger Technology Workshop (DLT 2025)](https://events.dimes.unical.it/dlt2025/) (PC member)
 1. [3rd International Workshop on Trends in Digital Identity (TDI 2025)](https://st.fbk.eu/events/TDI2025) (PC member)
 1. [9th Italian Conference on Cybersecurity (ITASEC 2025)](https://www.itasec.it/) (PC member)
 1. [36th IEEE International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD 2024)](https://sites.google.com/ime.usp.br/sbac2024/) (PC member)

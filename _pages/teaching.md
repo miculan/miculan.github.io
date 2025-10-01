@@ -30,7 +30,7 @@ See [below](#past-phd-students) for past PhD students.
 - Mattia Pizzolitto (AI & Cybersecurity)
 - Elia Cal (AI & Cybersecurity)
 - Filippo Merlo (AI & Cybersecurity)
-- Gianluca Zavan (AI & Cybersecurity)
+- Gabriele Tam (AI & Cybersecurity)
 - Roberto Van Eeden (AI & Cybersecurity)
 
 See [below](#past-undergraduate-students) for some past undergrad students.

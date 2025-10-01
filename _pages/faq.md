@@ -90,7 +90,7 @@ Q: Ma ma… non so scrivere in LaTeX.
 A: Malissimo! [ora di imparare](https://www.learnlatex.org/en/)!
 
 Q: Ma non posso usare Word o qualcosa di simile?  
-A: Non con me 😡
+A: Sì, e allora si può anche usare la forchetta per mangiare il brodo.  (cmq: no, non con me 😡)
 
 Q: Posso usare Overleaf?  
 A: Io non lo uso. Perché pagare per qualcosa che Knuth ha creato e ci ha dato gratis?
@@ -99,7 +99,7 @@ Q: Esiste un formato standard per le slide?
 A: Per le triennali, sì: è un formato Powerpoint che vi verrà inviato direttamente dalla segreteria didattica.  Per le magistrali non c'è un formato standard, ma circolano alcuni formati semi-ufficiali sia in PPT sia per Beamer con i colori di UniUD.
 
 Q: Solo *due* slide per le lauree triennali, da presentare in 3 minuti?? E cosa ci mettiamo??  
-A: Dato il poco tempo e spazio a disposizione, bisogna andare velocemente al sodo. Sulla prima slide, quella del titolo, si può mettere una figura e si introduce il problema (a parole). Sulla seconda slide, si mette un elenco puntato con: obiettivo, metodo, risultati ottenuti. In parte si può mettere una o più figure. Non sono permesse animazioni.
+A: Dato il poco tempo e spazio a disposizione, bisogna andare velocemente al sodo. Sulla prima slide, quella del titolo, si può mettere una figura e si introduce il problema (a parole). Sulla seconda slide, si mette un elenco puntato con: obiettivo, metodo, risultati ottenuti. A fianco dell'elenco si può mettere una o più figure. Non sono permesse animazioni.
 
 
 ## FAQ on Percorso _Sicurezza Informatica_
