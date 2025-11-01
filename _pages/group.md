@@ -7,13 +7,14 @@ nav: true
 nav_order: 25
 ---
 ### Current group
+- [Marino Miculan](/) - Full Professor
 - [Pietro Di Gianantonio](https://users.dimi.uniud.it/~pietro.digianantonio/) - Associate Professor
 - [Marco Comini](https://users.dimi.uniud.it/~marco.comini/) - Associate Professor
+- [Vincenzo Riccio](https://p1ndsvin.github.io/) - Associate Professor
 - [Ivan Scagnetto](https://users.dimi.uniud.it/~ivan.scagnetto) - Assistant Professor
-- [Vincenzo Riccio](https://p1ndsvin.github.io/) - Tenure-track Assistant Professor (RTD-B)
 - [Matteo Paier](https://www.imtlucca.it/matteo.paier) - PhD student of the [National PhD Programme in Cybersecurity](https://cysec2022.imtlucca.it/) (Cycle XXXVIII, 2022-2025)
 - [Michele Lizzit](https://lizzit.it/) - PhD student of the Computer Science and Artificial Intelligence PhD Programme (Cycle XXXIX, 2023-2026)
-- [Luca Gemolotto]() - PhD student of the Computer Science and Artificial Intelligence PhD Programme (Cycle XXXXI, 2025-2028)
+- Luca Gemolotto - PhD student of the Computer Science and Artificial Intelligence PhD Programme (Cycle XXXXI, 2025-2028)
 - [Massimiliano Baldo](https://baldomassimiliano.com/) - pre-doc research fellow
 
 See also the many [MSc students](/teaching#current-msc-students) I have and had the honour to supervise.
