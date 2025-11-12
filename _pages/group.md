@@ -14,7 +14,7 @@ nav_order: 25
 - [Ivan Scagnetto](https://users.dimi.uniud.it/~ivan.scagnetto) - Assistant Professor
 - [Matteo Paier](https://www.imtlucca.it/matteo.paier) - PhD student of the [National PhD Programme in Cybersecurity](https://cysec2022.imtlucca.it/) (Cycle XXXVIII, 2022-2025)
 - [Michele Lizzit](https://lizzit.it/) - PhD student of the Computer Science and Artificial Intelligence PhD Programme (Cycle XXXIX, 2023-2026)
-- Luca Gemolotto - PhD student of the Computer Science and Artificial Intelligence PhD Programme (Cycle XXXXI, 2025-2028)
+- [Luca Gemolotto](https://lucagemolotto.github.io/) - PhD student of the Computer Science and Artificial Intelligence PhD Programme (Cycle XXXXI, 2025-2028)
 - [Massimiliano Baldo](https://baldomassimiliano.com/) - pre-doc research fellow
 
 See also the many [MSc students](/teaching#current-msc-students) I have and had the honour to supervise.
