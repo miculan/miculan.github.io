@@ -15,14 +15,17 @@ Currently I am the coordinator of the ["Cybersecurity" track](/faq#faq-on-percor
 - [Reti di Calcolatori (Computer Networks)](https://uniud.coursecatalogue.cineca.it/insegnamenti/2024/16019/2017/9999/128) at the BSc in [Computer Science](https://www.uniud.it/it/didattica/corsi/area-scientifica/scienze-matematiche-informatiche-multimediali-fisiche/laurea/informatica/corso/informatica) (Laurea in Informatica) at the University of Udine (2009/10 - current)
 - [Network Security](https://uniud.coursecatalogue.cineca.it/insegnamenti/2024/22729/2020/9999/10644) at the MSc in [Computer Science](https://www.uniud.it/it/didattica/corsi/area-scientifica/scienze-matematiche-informatiche-multimediali-fisiche/laurea-magistrale/informatica/corso/informatica) and at the International MSc in  [Artificial Intelligence & Computer Security](https://www.uniud.it/it/didattica/corsi/area-scientifica/scienze-matematiche-informatiche-multimediali-fisiche/laurea-magistrale/artificial-intelligence-cybersecurity/corso/artificial-intelligence-cybersecurity) (Laurea magistrale double degree) at the University of Udine - University of Klagenfurt (2020/21 - current)
 - *Introduction to Network security* at the [Master in Intelligence and ICT](https://masterintelligenceict.dmif.uniud.it) (2018/19 - current)
-- [Fundaments of Computer Security](https://superiore.uniud.it/it/didattica/corsi-superiori-1/disciplinari-classe-scientifica/fondamenti-di-sicurezza-informatica) at the Scuola Superiore of the University of Udine (2024/25)
 
 For recurring question about these courses, [check out the FAQs](/faq).  
 See [below](#past-courses) for some past courses.
 
 ## Current PhD students
 - [Matteo Paier](https://www.imtlucca.it/en/matteo.paier) ([National PhD in Cybersecurity](https://cysec2022.imtlucca.it/), Cycle XXXVIII, 2022-2025)
-- Michele Lizzit (PhD in Computer Science and Artificial Intelligence, Cycle XXXIX, 2023-2026)
+- [Michele Lizzit](https://lizzit.it/) ([PhD in Informatics and Artificial Intelligence](https://dmif.uniud.it/it/didattica/dottorato/iai/phd-course-in-computer-science-and-artificial-intelligence), Cycle XXXIX, 2023-2026)
+- [Luca Gemolotto](https://lucagemolotto.github.io/) ([PhD in Informatics and Artificial Intelligence](https://dmif.uniud.it/it/didattica/dottorato/iai/phd-course-in-computer-science-and-artificial-intelligence), Cycle XXXXI, 2025-2028)
+- [Massimiliano Baldo](https://baldomassimiliano.com/) - ([National PhD in Cybersecurity](https://cysec2022.imtlucca.it/), Cycle XXXVIII, 2025-2028)
+
+
 
 See [below](#past-phd-students) for past PhD students.
 
@@ -30,7 +33,6 @@ See [below](#past-phd-students) for past PhD students.
 - Mattia Pizzolitto (AI & Cybersecurity)
 - Elia Cal (AI & Cybersecurity)
 - Filippo Merlo (AI & Cybersecurity)
-- Gabriele Tam (AI & Cybersecurity)
 - Roberto Van Eeden (AI & Cybersecurity)
 
 See [below](#past-undergraduate-students) for some past undergrad students.
@@ -54,6 +56,7 @@ In MSc courses
 - *Languages and Models for Global Computing* at the MSc in Computer Science, Faculty of Sciences (2004/05 - 2009/10)
 
 In PhD courses and excellence schools
+- [Fundaments of Computer Security](https://superiore.uniud.it/it/didattica/corsi-superiori-1/disciplinari-classe-scientifica/fondamenti-di-sicurezza-informatica) at the Scuola Superiore of the University of Udine (2024/25)
 - [Introduction to Distributed Systems](https://superiore.uniud.it/it/didattica/corsi_anni_precedenti/corsi-2022-2023/disciplinari-classe-scientifica/introduzione-ai-sistemi-distribuiti) at the Scuola Superiore of the University of Udine (2022/23)
 - *Category theory* at the PhD in Computer Science and the Scuola Superiore of the University of Udine (2012/13, 2017/18, 2020/21)
 - *Logical Frameworks* at the Scuola Superiore of the University of Udine (2016)
