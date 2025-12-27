@@ -19,13 +19,16 @@ Q: Ci vorrebbe un Laboratorio.
 A: Sono d'accordo, ma si veda la FAQ precedente.
 
 Q: Ci vogliono più esercitazioni.  
-A: Nell'A.A. 2024/25 abbiamo aggiunto 6 lezioni integrative appositamente per fare esercitazioni - e la partecipazione non è stata proprio altissima.
+A: Fin dall'A.A. 2024/25 abbiamo aggiunto 6 lezioni integrative appositamente per fare esercitazioni - e la partecipazione non è proprio altissima.
 
 Q: Il libro di testo, in edizione italiana, è fuori stampa. Con cosa posso sostituirlo?  
 A: Con la versione inglese più aggiornata, che è [disponibile gratuitamente online](https://book.systemsapproach.org). Ma ci sono tanti altri libri validi, sia in inglese sia in italiano.
 
 Q: Si può avere le slide in italiano?  
 A: Non ha senso tradurre le slide, perché la materia ha un lessico standard in inglese. (E se al terzo anno di Informatica o IBML avete problemi a leggere l'inglese, fatevi una domanda.)
+
+Q: Su Teams mancano le slide del Capitolo 7.  
+A: Il Capitolo 7 non fa parte del programma.
 
 Q: È possibile registrare e/o trasmettere le lezioni per chi non può partecipare in aula?  
 A: Su Teams sono presenti registrazioni di lezioni precedenti, risalenti a qualche anno fa; il programma del corso è rimasto sostanzialmente invariato.
@@ -89,8 +92,8 @@ A: Male, [ora di imparare](https://learn.microsoft.com/it-it/training/modules/in
 Q: Ma ma… non so scrivere in LaTeX.  
 A: Malissimo! [ora di imparare](https://www.learnlatex.org/en/)!
 
-Q: Ma non posso usare Word o qualcosa di simile?  
-A: Sì, e allora si può anche usare la forchetta per mangiare il brodo.  (cmq: no, non con me 😡)
+Q: Ma non si può usare Word o qualcosa di simile?  
+A: E allora si può anche usare la forchetta per mangiare il brodo.  (cmq: no, non con me 😡)
 
 Q: Posso usare Overleaf?  
 A: Io non lo uso. Perché pagare per qualcosa che Knuth ha creato e ci ha dato gratis?
