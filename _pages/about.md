@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 latest_papers: false # includes 5 most recent papers
 social: true  # includes social icons at the bottom of the page
 ---
-I am Full Professor of Computer Science at the [Department of Mathematics, Computer Science and Physics](https://www.dmif.uniud.it) of the [University of Udine](https://www.uniud.it), with a second affiliation at the [Department of Environmental Sciences, Informatics and Statistics](https://www.unive.it/pag/28183) of the [Ca' Foscari University of Venice](https://www.unive.it).
+I am Full Professor of Computer Science at the [Department of Mathematics, Computer Science and Physics](https://www.dmif.uniud.it) of the [University of Udine](https://www.uniud.it).
 
 This website collects some information about my current and past [research](/research/), including my [publications](/publications/), the scientific [projects](/projects/) I am involved in, my academic [services](/services/) and my [teaching](/teaching/) activities.
 
