@@ -7,6 +7,7 @@ nav: true
 nav_order: 24
 ---
 ### Current academic positions
+- Representative of the University of Udine in the Scientific-Technical Board of [CITI IFTS](https://www.formazioneiftsfvg.it/corsi-gratuiti-di-informatica-fvg/) (2025-)
 - Research Delegate and Head of the Research Board of the [Department of Mathematics, Computer Science and Physics](https://www.dmif.uniud.it) (Feb 2025-)
 - Associate Editor for the Smart Contracts section of the journal [Frontiers in Blockchain](https://www.frontiersin.org/journals/blockchain/sections/smart-contracts) (Oct 2024-).
 - Deputy Head of the [Department of Mathematics, Computer Science and Physics](https://www.dmif.uniud.it) (Jul 2023-)
