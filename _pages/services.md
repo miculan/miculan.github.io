@@ -16,6 +16,8 @@ nav_order: 24
 ### Current and incoming events
 - [32nd International Conference on Types for Proofs and Programs (TYPES 2026)](https://types2026.cse.chalmers.se/) (PC member)
 - [10th Italian Conference on Cybersecurity (ITASEC 2026)](https://www.itasec.it/) (PC member)
+- [8th Distributed Ledger Technology Workshop (DLT 2026)](https://convegni.unica.it/dlt2026/) (PC member)
+
 
 ### Past academic positions
 - Representative of the University of Udine in the Directive Board of [CINI](https://www.consorzio-cini.it) (2008-2025)
