@@ -40,6 +40,11 @@ A: No.
 Q: Ma neanche solo lo scritto?  
 A: Nooo! Inutile insistere, no è no.
 
+Q: Mi manca solo Reti di Calcolatori per potermi laureare. È possibile avere un appello supermegaultrastraordinario solo per me?  
+A: No. Non vengono concessi appelli straordinari su richiesta individuale.  Il calendario degli esami è pianificato per garantire equità a tutti gli studenti e per rispettare il carico di lavoro dei docenti. Chiedere un trattamento di favore mostra una mancanza di rispetto verso le regole accademiche e verso il tempo del docente.  
+Ma soprattutto, una tale domanda dimostra una mancanza di visione del percorso accademico. L'esame non è un "ostacolo" burocratico da superare per ottenere un titolo, ma il momento di verifica dell'acquisizione di conoscenze fondamentali. Considerare un esame come un "impiccio" di cui liberarsi svilisce il valore della laurea stessa.  La conoscenza della materia non si ottiene tentando ripetutamente l'esame nella speranza di un esito favorevole per contingenza. Si ottiene attraverso uno studio rigoroso e approfondito.  
+
+
 Q: Vorrei fare un tirocinio/una tesi su questi argomenti. Posso iniziare prima di avere sostenuto l'esame?  
 A: Mi compiaccio per l'interesse, ma no: prima si supera l'esame di Reti, poi si può parlare del tirocinio/tesi.
 
