@@ -24,7 +24,7 @@ A: Fin dall'A.A. 2024/25 abbiamo aggiunto 6 lezioni integrative appositamente pe
 Q: Il libro di testo, in edizione italiana, è fuori stampa. Con cosa posso sostituirlo?  
 A: Con la versione inglese più aggiornata, che è [disponibile gratuitamente online](https://book.systemsapproach.org). Ma ci sono tanti altri libri validi, sia in inglese sia in italiano.
 
-Q: Si può avere le slide in italiano?  
+Q: Si possono avere le slide in italiano?  
 A: Non ha senso tradurre le slide, perché la materia ha un lessico standard in inglese. (E se al terzo anno di Informatica o IBML avete problemi a leggere l'inglese, fatevi una domanda.)
 
 Q: Su Teams mancano le slide del Capitolo 7.  
