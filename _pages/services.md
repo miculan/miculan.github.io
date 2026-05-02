@@ -19,7 +19,7 @@ nav_order: 24
 - [8th Distributed Ledger Technology Workshop (DLT 2026)](https://convegni.unica.it/dlt2026/) (PC member)
 - [17th International Workshop on Graph Computation Models (GCM 2026)](https://conf.researchr.org/home/staf-2026/gcm-2026) (PC member)
 - [2nd International Workshop on Security and Risk in Identity Management (SeRIM 2026)](https://st.fbk.eu/events/SeRIM2026/) (PC member)
-
+- [Joint 36th Annual Symposium on Logic-Based Program Synthesis and Transformation, and 28th International Symposium on Principles and Practice of Declarative Programming (LOPSTR+PPDP 2026)](https://icfp26.sigplan.org/home/lopstr-ppdp-2026/) (PC member)
 
 ### Past academic positions
 - Representative of the University of Udine in the Directive Board of [CINI](https://www.consorzio-cini.it) (2008-2025)
@@ -73,7 +73,7 @@ nav_order: 24
 1. [6th Italian Conference on Cybersecurity (ITASEC 2022)](https://2022.itasec.it/) (PC member)
 1. [5th Italian Conference on Cybersecurity (ITASEC 2021)](https://2021.itasec.it/) (PC member)
 1. [4th Italian Conference on Cybersecurity (ITASEC 2020)](https://2020.itasec.it/) (PC member)
-1. [EXPRESS/SOS 2019](https://express-sos2019.cs.ru.nl) (PC member)
+1. [Combined 26th International Workshop on Expressiveness in Concurrency and 16th Workshop on Structural Operational Semantics (EXPRESS/SOS 2019)](https://express-sos2019.cs.ru.nl) (PC member)
 1. [3rd Italian Conference on Cybersecurity (ITASEC 2019)](https://2019.itasec.it/) (PC member)
 1. [2nd Italian Conference on Cybersecurity (ITASEC 2018)](https://2018.itasec.it/) (PC member)
 1. [18th Italian Conference on Theoretical Computer Science (ICTCS 2017)](http://ictcs2017.unina.it) (PC member)
@@ -84,10 +84,10 @@ nav_order: 24
 1. [16th Italian Conference on Theoretical Computer Science (ICTCS 2015)](http://ictcs2015.disia.unifi.it) (PC member)
 1. [1st International Workshop on Meta Models for Process Languages (MeMo 2014)](http://www.itu.dk/research/models/wiki/index.php/MeMo2014/) (OC member)
 1. [Logical Frameworks and Meta-Languages: Theory and Practice (LFMTP 2014)](http://complogic.cs.mcgill.ca/lfmtp14/) (PC member)
-1. [CALCO'13](http://coalg.org/calco13/) (PC member)
-1. [TYPES'13](http://www.irit.fr/TYPES2013/) (PC member)
-1. [FOSSACS'11](http://www2.tcs.ifi.lmu.de/Konferenzen/FoSSaCS_2011) (PC member)
-1. [TYPES'10](http://types10.mimuw.edu.pl/) (PC member)
+1. [5th Conference on Algebra and Coalgebra in Computer Science (CALCO 2013)](https://web.archive.org/web/20191020061139/https://www.coalg.org/calco13/) (PC member)
+1. [19th Conference on Types for Proofs and Programs (TYPES'13)](http://www.irit.fr/TYPES2013/) (PC member)
+1. [14th Conference on Foundations of Software Science and Computation Structures (FOSSACS 2011)](https://www.etaps.org/2011/fossacs.html) (PC member)
+1. [19th Conference on Types for Proofs and Programs (TYPES'10)](http://types10.mimuw.edu.pl/) (PC member)
 1. [Logical Frameworks and Meta-Languages: Theory and Practice (LFMTP 2009)](http://workshops.inf.ed.ac.uk/lfmtp/) (PC member)
 1. [Membrane Computing and Biologically Inspired Process Calculi (MECBIC 2009)](http://profs.info.uaic.ro/~mecbic/) (PC member).
 1. [Mathematically Structured Functional Programming (MSFP 2008)](http://msfp.org.uk/) (PC member).
