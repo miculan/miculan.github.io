@@ -6,7 +6,8 @@ description: Academic duties, committees and other services I am honored to offe
 nav: true
 nav_order: 24
 ---
-### Current academic positions
+### Current academic positions and services
+- [Types conference](https://sites.google.com/view/thetypesconferences/home/) Steering Committee member (May 2026-)
 - Co-Editor of the Concurrency Column of the [Bulletin of EATCS](https://eatcs.org/index.php/eatcs-bulletin) (Mar 2026-).
 - Representative of the University of Udine in the Scientific-Technical Board of [CITI IFTS](https://www.formazioneiftsfvg.it/corsi-gratuiti-di-informatica-fvg/) (2025-)
 - Research Delegate and Head of the Research Board of the [Department of Mathematics, Computer Science and Physics](https://www.dmif.uniud.it) (Feb 2025-)
