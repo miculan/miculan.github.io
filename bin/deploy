@@ -92,6 +92,10 @@ git checkout -b $DEPLOY_BRANCH
 # Export JEKYLL_ENV=production
 export JEKYLL_ENV=production
 
+# Ensure UTF-8 locale so bibtex-ruby can parse non-ASCII characters in .bib files
+export LANG=en_US.UTF-8
+export LC_ALL=en_US.UTF-8
+
 # Build site
 bundle exec jekyll build
 
