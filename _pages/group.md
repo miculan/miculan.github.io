@@ -25,7 +25,7 @@ See also the many [MSc students](/teaching#current-msc-students) I have and had 
 ### Past PhD students and research fellows
 - [Matteo Spadetto](https://spadetto.github.io/) - post-doc research fellow (mar 2024-mar 2025)
 - [Davide Castelnovo](https://davidecaste.github.io/) - PhD student (Cycle XXXV, 2019-2023)
-- Claude Stolze - research fellow (oct 2020-sep 2022)
+- [Claude Stolze](https://www.uni-bamberg.de/gdi/team/luke-burke-1/) - post-doc research fellow (oct 2020-sep 2022)
 - [Michele Pasqua](https://michelepasqua.github.io/) - post-doc research fellow (oct 2020-sep 2021)
 - [Marco Peressotti](https://marcoperessotti.com) - PhD student (Cycle XXVIII, 2013-2016)
 - [Giorgio Bacci](http://people.cs.aau.dk/~grbacci/) - PhD student (Cycle XXIV, 2009-2012)

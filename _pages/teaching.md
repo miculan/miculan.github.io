@@ -22,19 +22,18 @@ See [below](#past-courses) for some past courses.
 ## Current PhD students
 - [Matteo Paier](https://www.imtlucca.it/en/matteo.paier) - [National PhD in Cybersecurity](https://cysec2022.imtlucca.it/), Cycle XXXVIII, 2022-2025
 - [Michele Lizzit](https://lizzit.it/) - [PhD in Informatics and Artificial Intelligence](https://dmif.uniud.it/it/didattica/dottorato/iai/phd-course-in-computer-science-and-artificial-intelligence), Cycle XXXIX, 2023-2026
-- [Massimiliano Baldo](https://baldomassimiliano.com/) - [National PhD in Cybersecurity](https://cysec2022.imtlucca.it/), Cycle XXXVIII, 2025-2028
+- [Massimiliano Baldo](https://baldomassimiliano.com/) - [National PhD in Cybersecurity](https://cysec2022.imtlucca.it/), Cycle XXXXI, 2025-2028
 - [Luca Gemolotto](https://lucagemolotto.github.io/) - [PhD in Informatics and Artificial Intelligence](https://dmif.uniud.it/it/didattica/dottorato/iai/phd-course-in-computer-science-and-artificial-intelligence), Cycle XXXXI, 2025-2028
 - [Gabriele Tam]() - [PhD in Informatics and Artificial Intelligence](https://dmif.uniud.it/it/didattica/dottorato/iai/phd-course-in-computer-science-and-artificial-intelligence), Cycle XXXXI, 2025-2028
-
-
 
 See [below](#past-phd-students) for past PhD students.
 
 ## Current MSc students
-- Mattia Pizzolitto (AI & Cybersecurity)
-- Elia Cal (AI & Cybersecurity)
-- Filippo Merlo (AI & Cybersecurity)
 - Roberto Van Eeden (AI & Cybersecurity)
+- Xhulia Palaj (AI & Cybersecurity)
+- Riccardo Modolo Zanchetta (AI & Cybersecurity)
+- Thomas Da Dalt (Computer Science)
+
 
 See [below](#past-undergraduate-students) for some past undergrad students.
 
