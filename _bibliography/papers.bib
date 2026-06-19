@@ -28,6 +28,23 @@
   abstract  = {This paper introduces a methodology for the formal modelling and verification of multi-factor authentication (MFA) schemes utilized in eIDAS digital identity cards. Our approach employs an interface-based threat model to systematically analyse potential vulnerabilities and enumerate a range of threat scenarios based on varying attacker capabilities. We demonstrate the automated generation of ProVerif models for these scenarios using the Italian Carta di Identit{\`a} Elettronica (CIE), an eIDAS-compliant digital identity card, as a practical case study. Our analysis reveals several security weaknesses; notably, an attacker possessing only Level 1 (i.e. single-factor) credentials can, in certain circumstances, achieve Level 2 multi-factor authentication without needing to compromise any communication interface. To mitigate these vulnerabilities, we propose minor modifications to the protocols. Furthermore, at Level 3, our analysis shows that the authentication scheme relying on the CieID smartphone application presents a broader attack surface compared to the method employing a PC with a smart card reader. The interface-based modelling and analysis methodology presented in this work offers a valuable framework that can be adapted for the security assessment of other eIDAS digital identity cards.}
 }
 
+@inproceedings{bdpm:sacmat26,
+	author       = {Baldo, Massimiliano and Di Gianantonio, Pietro and Paier, Matteo and Miculan, Marino},
+	title        = {Strobilus: Enriching {Cedar} with Stateful Policies},
+	booktitle    = {Proceedings of the 31st {ACM} Symposium on Access Control Models and Technologies (SACMAT '26)},
+	location     = {Waterloo, ON, Canada, July 08-10, 2026},
+	publisher    = {Association for Computing Machinery},
+	year         = 2026,
+	pages        = {1--12},
+	doi          = {10.1145/3750555.3811892},
+	html         = {https://doi.org/10.1145/3750555.3811892},
+	pdf          = {2026-SACMAT.pdf},
+	code         = {https://github.com/strobilus-lang/strobilus-tinytodo-example},
+	isbn         = {979-8-4007-2107-6},
+  selected     = true,
+	abstract     = {Authorization is a fundamental problem in modern distributed systems, and the ``policies-as-code'' paradigm has emerged as a promising solution to decouple access control logic from application code. However, most policy languages lack the ability to handle stateful policies directly. This limitation forces developers to manage policy-related state within the application code, reintroducing the very coupling that policies as code aims to eliminate and opening the door to security vulnerabilities. To address this gap, we introduce Strobilus, a language designed to express effects over policy-specific data. Strobilus is built to seamlessly complement and integrate with Amazon's Cedar, allowing developers to write stateful policies without modifying Cedar's core syntax or evaluation engine. Strobilus is distinguished by its formal semantics, a strong typing system, and a guarantee of termination, which facilitates rigorous analysis and verification of policies. We have developed a prototype implementation in Rust, which demonstrates that Strobilus may lead to significant performance improvements over external methods for policy data management. This approach aims to fully realizes the promise of ``policies-as-code'' by providing a comprehensive, safe, and verifiable solution for both stateless and stateful authorization policies.}
+}
+
 @inproceedings{efmd:itasec26,
 	author       = {Ejeh, Dennis Glenn and Foresti, Gian Luca and Marino Miculan and De Nardin, Axel},
 	editor       = {Davide Maiorca and Pierangela Samarati},
@@ -368,8 +385,7 @@ abstract = {MTProto 2.0 is the suite of security protocols for instant messagin
   publisher={Springer},
   pages = {473-494},
   number=22,
-  keywords={concurrency,session types,process calculi,compositionality},
-  selected=true
+  keywords={concurrency,session types,process calculi,compositionality}
 }
 
 @article{pcm:access22,
