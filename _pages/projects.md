@@ -9,7 +9,7 @@ display_categories: [current, past]
 horizontal: true
 ---
 ## Ongoing projects
-1. [TRUTHSTER2](/projects/2022-truthster/): Funded by someone.
+1. [TRUTHSTER POC](/projects/2025-truthsterpoc/): PR FESR FVG 2021-2027 (5/2025-7/2026).
 
 ## Concluded projects
 1. [STENDHAL](/projects/2023-stendhal/): MUR PRIN 2022 (10/2023-2/2026). Site leader, Work package leader
