@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2026-06-20
-title: 🚀 The June issue of the Bulletin of EATCS is online
+title: The June issue of the Bulletin of EATCS is online
 inline: false
 ---
 In this issue, the Concurrency Column, which I have the honour of co-editing, features two outstanding contributions:
