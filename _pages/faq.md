@@ -122,4 +122,4 @@ Q: Quali sono le differenze rispetto alla Laurea Magistrale interateneo in AI & 
 A: Le differenze tra i due percorsi sono significative, a partire dalla natura nazionale della Laurea Magistrale in Informatica, che non prevede l'obbligo di trascorrere un semestre in Austria. Tuttavia, la distinzione principale risiede nell'approccio metodologico: questo percorso pone un'enfasi maggiore sui fondamenti teorici e metodologici, con l'obiettivo di fornire una base concettuale solida e duratura, in grado di affrontare le sfide future del settore.
 
 Q: Dove posso trovare più informazioni?  
-A: Su queste [slide di presentazione](/assets/pdf/LM_Sicurezza_Informatica.pdf), o contattando il [referente del percorso](/).
+A: Su queste [slide di presentazione](/assets/pdf/2026-LM_Sicurezza_Informatica.pdf), o contattando il [referente del percorso](/).
