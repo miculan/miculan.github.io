@@ -6,6 +6,19 @@
 
 
 
+@inproceedings{mpp:secrypt26,
+  author       = {Marino Miculan and Matteo Paier and Jacopo Plozner},
+  title        = {Experimental Evaluation of Lightweight Encryption Algorithms on 16-bit Microcontrollers},
+  booktitle    = {Proceedings of the 23rd International Conference on Security and Cryptography - SECRYPT},
+  year         = {2026},
+  publisher    = {SciTePress},
+  organization = {INSTICC},
+  doi          = {10.5220/0015189200004103},
+  html         = {https://doi.org/10.5220/0015189200004103},
+  Pdf          = {2026-SECRYPT.pdf},
+  abstract     = {The Internet of Things (IoT) increasingly relies on resource-constrained devices that require efficient symmetric encryption. Lightweight cryptography (LWC) addresses this by providing algorithms optimized for minimal computational and energy overhead. However, the performance of any cryptographic primitive is highly architecture-dependent, and direct experimental data on microcontrollers remains scarce in the literature. In this paper we present a rigorous evaluation of ten lightweight encryption algorithms — seven block ciphers (AES, CLEFIA, LEA, PRINCE, QARMAv2, SPARX, SPECK) and three stream ciphers (Ascon, ChaCha20, Hummingbird-2) — running on the 16-bit Texas Instruments MSP430FR6989 microcontroller, a platform widely used in industrial IoT and smart metering. Unlike prior surveys that rely solely on software counters or emulation, our methodology employs professional-grade instrumentation for real-time current profiling at the hardware level. Each algorithm is characterised under two compiler optimisation profiles (speed-optimised and size-optimised) across three metrics: encryption throughput, code footprint, and charge consumption. Our results show that ARX-based ciphers — particularly LEA and SPECK 32/64 — achieve the best energy efficiency, outperforming AES by up to 25% in charge consumption while maintaining a significantly smaller code footprint. Hardware-oriented designs (PRINCE, QARMAv2) perform poorly in software, confirming that hardware efficiency does not translate to software performance. Among stream ciphers, Ascon — the NIST LWC standard — offers the best balance of security and efficiency, whereas ChaCha20 proves unsuitable for heavily resource-constrained contexts. We provide concrete algorithm recommendations for developers targeting MSP430 and similar 16-bit platforms, and we openly release all benchmark implementations.}
+}
+
 @Article{PM:sttt26,
   author    = {Pasqua, Michele and Miculan, Marino},
   title     = {Attribute-based memory updates with priorities for collective adaptive systems},
