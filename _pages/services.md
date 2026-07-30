@@ -16,11 +16,10 @@ nav_order: 24
 - Member of the Faculty Board of the [PhD Course in Computer Science and Artificial Intelligence](https://www.dmif.uniud.it/dottorato/iai/) (2023-)
 
 ### Current and incoming events
-- [32nd International Conference on Types for Proofs and Programs (TYPES 2026)](https://types2026.cse.chalmers.se/) (PC member)
-- [8th Distributed Ledger Technology Workshop (DLT 2026)](https://convegni.unica.it/dlt2026/) (PC member)
-- [17th International Workshop on Graph Computation Models (GCM 2026)](https://conf.researchr.org/home/staf-2026/gcm-2026) (PC member)
-- [2nd International Workshop on Security and Risk in Identity Management (SeRIM 2026)](https://st.fbk.eu/events/SeRIM2026/) (PC member)
 - [Joint 36th Annual Symposium on Logic-Based Program Synthesis and Transformation, and 28th International Symposium on Principles and Practice of Declarative Programming (LOPSTR+PPDP 2026)](https://icfp26.sigplan.org/home/lopstr-ppdp-2026/) (PC member)
+- [25th Italian Summer School in Logics (AILA-Summer School 2026)](https://www.ailalogica.it/attivita/scuola-estiva/come-partecipare-alla-scuola-estiva-di-logica/) (teacher)
+- [33rd International Conference on Types for Proofs and Programs (TYPES 2027)](https://types2027.uniud.it/) (General chair, PC chair)
+
 
 ### Past academic positions
 - Representative of the University of Udine in the Directive Board of [CINI](https://www.consorzio-cini.it) (2008-2025)
@@ -56,6 +55,10 @@ nav_order: 24
 1. ACM SIGPLAN [MERλIN'03](https://web.archive.org/web/20070620005050/http://merlin.dimi.uniud.it/merlin03/) (PC co-chair)
 
 #### Conference PC or OC member
+1. [17th International Workshop on Graph Computation Models (GCM 2026)](https://conf.researchr.org/home/staf-2026/gcm-2026) (PC member)
+1. [2nd International Workshop on Security and Risk in Identity Management (SeRIM 2026)](https://st.fbk.eu/events/SeRIM2026/) (PC member)
+1. [8th Distributed Ledger Technology Workshop (DLT 2026)](https://convegni.unica.it/dlt2026/) (PC member)
+1. [32nd International Conference on Types for Proofs and Programs (TYPES 2026)](https://types2026.cse.chalmers.se/) (PC member)
 1. [10th Italian Conference on Cybersecurity (ITASEC 2026)](https://www.itasec.it/) (PC member)
 1. [1st International Workshop on Security and Risk in Identity Management (SeRIM 2025)](https://st.fbk.eu/events/SeRIM2025/) (PC member)
 1. [7th Distributed Ledger Technology Workshop (DLT 2025)](https://events.dimes.unical.it/dlt2025/) (PC member)
