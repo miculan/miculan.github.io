@@ -6,6 +6,9 @@ description: My research statement and mission.
 nav: true
 nav_order: 21
 ---
+## Current research
+My current work is about making distributed, component-based and _smart_ systems trustworthy — and provably so. These systems are assembled from many heterogeneous components whose interactions are hard to predict and harder to secure, so I attack them with formal methods (and a pinch of machine learning): models, languages and verification techniques that turn security into something one can prove, rather than merely test. In practice, this means formal models of containerized and microservice architectures, together with tools that check the security of their composition before deployment; machine-checked analyses of deployed security protocols, from Telegram's MTProto 2.0 to the multi-factor authentication of the Italian eIDAS identity card; languages for specifying access-control policies and for coordinating edge and IoT ensembles; and, underneath all of this, the graph-based metamodels, the category theory and the type theory the abstractions come from. The three periods below retrace how I got here; see [publications](/publications) for the full list of papers, and [projects](/projects) for the projects supporting this work.
+
 ## TL;DR: I work or have worked on 
 - Formal methods for Concurrent and Distributed Systems
     - process calculi (CCS, π-calculus, et similia)
@@ -39,7 +42,8 @@ Ultimately, my goal is to foster innovation, pushing the boundaries of distribut
 My research career has been dedicated to developing formal methods for modeling, verification, and analysis of complex systems, ensuring their trustworthiness. Along over three decades and almost one hundred papers, my interests have evolved within this broad landscape, tackling new challenges as they emerged.
 Here I recall the main achievements; see [publications](/publications) for the complete list of papers.
 
-My **initial work (1994-1997 and 2000-2006)** centered on formalizing programs and processes within logical frameworks and proof assistants based on type theory (e.g., Lego, Coq). Recognizing the theoretical and practical limitations of existing tools, I concentrated on developing novel techniques to streamline the formalization and reasoning process.
+### 1994–1997 and 2000–2006: logical frameworks and type theory
+My initial work centered on formalizing programs and processes within logical frameworks and proof assistants based on type theory (e.g., Lego, Coq). Recognizing the theoretical and practical limitations of existing tools, I concentrated on developing novel techniques to streamline the formalization and reasoning process.
 A key outcome of this effort was the introduction of the _weak Higher-Order Abstract Syntax_ (weak HOAS) technique for handling binders in inductive type theories {% cite DBLP:conf/types/HonsellM95 mik:eltop miculan:icalp99 %}. This innovation, now a [standard technique](https://www.seas.upenn.edu/~plclub/poplmark/) within the Coq community, continues to be actively used for reasoning about languages with binders.  
 While powerful, weak HOAS presents challenges for reasoning by induction over higher-order terms. 
 To address this, we introduced the _Theory of Contexts_, a set of three axioms that demonstrably improve inductive reasoning {% cite hms:picic %}; this work is still a landmark in formal reasoning about π-calculus and similar models in Coq. 
@@ -52,7 +56,8 @@ Furthermore, to achieve a more natural and practical approach, we introduced the
 Years later, this interesting subject re-emerged during a visit to Aarhus, resulting in a collaborative work with Lars Birkedal's group {%cite bbm:tlca14%}.
 
 
-My exploration of logical frameworks sparked an interest in _metamodels_, which became the main subject of my **second research period (2006-2016)**. 
+### 2006–2016: metamodels, bigraphs and coalgebraic semantics
+My exploration of logical frameworks sparked an interest in _metamodels_, which became the main subject of my second research period. 
 Metamodels are abstract frameworks that allow for proving general results about entire classes of models. Logical frameworks themselves can be viewed as logical metamodels, ideal for reasoning about logical systems. Other metamodels offer advantages for reasoning about the operational semantics of programs and processes.
 I particularly investigated [Bigraphs](https://en.wikipedia.org/wiki/Bigraph) and Bigraphical Reactive Systems (BRSs), a graphical metamodel conceived by [Robin Milner](https://en.wikipedia.org/wiki/Robin_Milner). BRSs offer a powerful approach to describing the syntax and semantics of distributed systems by leveraging the distinct concepts of _connectivity_ and _locality_.
 To address limitations in original bigraphs, we introduced _directed bigraphs_ {% cite gm:mfps07 %}. This extension enhanced expressivity while preserving the core strengths of bigraphs, particularly the RPO construction and bisimulations. 
@@ -68,7 +73,8 @@ Additionally, we developed a general algorithm {%cite mp:ictcs17%} for efficient
 And using categorical tools in {%cite bm:ictcs16 DBLP:journals/tcs/BernardoM19%} we established an unexpected result: disjunctive probabilistic modal logic is enough to fully characterize bisimilarity on reactive probabilistic systems (also known as Markov decision processes).
 
 
-The study of metamodels for distributed computational models increased my interest in security and trustworthiness issues of distributed, component-based, and _smart_ systems, which is the focus of my **third (and current) research period (2016-today)**. 
+### 2016–today: security and trustworthiness of distributed systems
+The study of metamodels for distributed computational models increased my interest in security and trustworthiness issues of distributed, component-based, and _smart_ systems, which is the focus of my third and current research period. 
 These systems involve intricate interactions of numerous heterogeneous components, making their behavior complex to analyze. To address this challenge, currently I leverage formal methods (with a pinch of machine learning) to develop novel models, languages, methodologies, and verification techniques to formally analyze and ensure the security and trustworthiness of these systems. 
 I approach this subject from multiple angles, focusing on coordination and security issues.
 
