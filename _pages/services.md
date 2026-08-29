@@ -6,8 +6,11 @@ description: Academic duties, committees and other services I am honored to offe
 nav: true
 nav_order: 24
 ---
-### Current academic positions and services
-- [Types conference](https://sites.google.com/view/thetypesconferences/home/) Steering Committee member (May 2026-)
+Jump to: [institutional roles](#institutional-roles-and-services) · [conferences, schools and workshops](#conferences-schools-and-workshops) · [steering committees](#steering-committees)
+
+## Institutional roles and services
+
+### Current
 - Co-Editor of the Concurrency Column of the [Bulletin of EATCS](https://eatcs.org/index.php/eatcs-bulletin) (Mar 2026-).
 - Representative of the University of Udine in the Scientific-Technical Board of [CITI IFTS](https://www.formazioneiftsfvg.it/corsi-gratuiti-di-informatica-fvg/) (2025-)
 - Research Delegate and Head of the Research Board of the [Department of Mathematics, Computer Science and Physics](https://www.dmif.uniud.it) (Feb 2025-)
@@ -15,13 +18,7 @@ nav_order: 24
 - Deputy Head of the [Department of Mathematics, Computer Science and Physics](https://www.dmif.uniud.it) (Jul 2023-)
 - Member of the Faculty Board of the [PhD Course in Computer Science and Artificial Intelligence](https://www.dmif.uniud.it/dottorato/iai/) (2023-)
 
-### Current and incoming events
-- [Joint 36th Annual Symposium on Logic-Based Program Synthesis and Transformation, and 28th International Symposium on Principles and Practice of Declarative Programming (LOPSTR+PPDP 2026)](https://icfp26.sigplan.org/home/lopstr-ppdp-2026/) (PC member)
-- [25th Italian Summer School in Logics (AILA-Summer School 2026)](https://www.ailalogica.it/attivita/scuola-estiva/come-partecipare-alla-scuola-estiva-di-logica/) (teacher)
-- [33rd International Conference on Types for Proofs and Programs (TYPES 2027)](https://types2027.uniud.it/) (General chair, PC chair)
-
-
-### Past academic positions
+### Past
 - Representative of the University of Udine in the Directive Board of [CINI](https://www.consorzio-cini.it) (2008-2025)
 - Member of the Research Board of the [Department of Mathematics, Computer Science and Physics](https://www.dmif.uniud.it) (Jul 2023-Jan 2025)
 - Member of the Faculty Board of the [PhD Course in Computer Science, Mathematics and Physics](https://www.dmif.uniud.it/dottorato/imf/) (2020-2024)
@@ -38,13 +35,14 @@ nav_order: 24
 - Deputy head of the Department of Mathematics and Computer Science (2005–2008)
 - Member of many selection committees for PhD entrance, for researcher positions (RTD), etc.
 
-### Past events
-#### International PhD Schools
-1. [27th Estonian Winter School in Computer Science (EWSCS 2025)](https://cs.ioc.ee/ewscs/2025/) (teacher)
-1. [8th European Network for Cybersecurity PhD School (NeCS 2025)](https://necs-winterschool.disi.unitn.it) (teacher)
-1. [EUTypes Summer School on Types for Programming and Verification (EUTYPES School 2018)](https://sites.google.com/view/2018eutypesschool/home) (chair)
+## Conferences, schools and workshops
 
-#### Conference PC or OC Chair
+### Current and incoming
+- [Joint 36th Annual Symposium on Logic-Based Program Synthesis and Transformation, and 28th International Symposium on Principles and Practice of Declarative Programming (LOPSTR+PPDP 2026)](https://icfp26.sigplan.org/home/lopstr-ppdp-2026/) (PC member)
+- [25th Italian Summer School in Logics (AILA-Summer School 2026)](https://www.ailalogica.it/attivita/scuola-estiva/come-partecipare-alla-scuola-estiva-di-logica/) (teacher)
+- [33rd International Conference on Types for Proofs and Programs (TYPES 2027)](https://types2027.uniud.it/) (General chair, PC chair)
+
+### Conference PC or OC chair
 1. [Italy OWASP Day 2019](https://wiki.owasp.org/index.php/Italy_OWASP_Day_Udine_2019) (OC chair)
 1. [Logics, Types, and Semantics: a Journey in Theoretical Computer Science (2018)](http://lts.dimi.uniud.it/) (co-chair)
 1. [Logical Frameworks and Meta-Languages: Theory and Practice (LFMTP 2017)](http://lfmtp.org/workshops/2017/home.shtml) (PC Co-chair)
@@ -54,7 +52,17 @@ nav_order: 24
 1. [TYPES 2007](https://web.archive.org/web/20070212215800/http://www.dimi.uniud.it/types07/) (OC and PC co-chair)
 1. ACM SIGPLAN [MERλIN'03](https://web.archive.org/web/20070620005050/http://merlin.dimi.uniud.it/merlin03/) (PC co-chair)
 
-#### Conference PC or OC member
+### Steering committees
+1. [Types conference](https://sites.google.com/view/thetypesconferences/home/) Steering Committee member (May 2026-)
+1. [Logical Frameworks and Meta-Languages: Theory and Practice](http://lfmtp.org/) Steering Committee member (2017-2022)
+1. [Logical Frameworks and Meta-Languages: Theory and Practice](http://lfmtp.org/) Steering Committee member (2010-2015)
+
+### International PhD schools
+1. [27th Estonian Winter School in Computer Science (EWSCS 2025)](https://cs.ioc.ee/ewscs/2025/) (teacher)
+1. [8th European Network for Cybersecurity PhD School (NeCS 2025)](https://necs-winterschool.disi.unitn.it) (teacher)
+1. [EUTypes Summer School on Types for Programming and Verification (EUTYPES School 2018)](https://sites.google.com/view/2018eutypesschool/home) (chair)
+
+### Conference PC or OC member
 1. [17th International Workshop on Graph Computation Models (GCM 2026)](https://conf.researchr.org/home/staf-2026/gcm-2026) (PC member)
 1. [2nd International Workshop on Security and Risk in Identity Management (SeRIM 2026)](https://st.fbk.eu/events/SeRIM2026/) (PC member)
 1. [8th Distributed Ledger Technology Workshop (DLT 2026)](https://convegni.unica.it/dlt2026/) (PC member)
@@ -106,7 +114,3 @@ nav_order: 24
 1. ACM SIGPLAN [MERλIN'01](https://dblp.org/db/conf/merlin/merlin2001.html) (PC member, OC member)
 1. [TOSCA'01 Final workshop](http://farfarello.dimi.uniud.it/tosca01/) (OC member)
 
-
-#### Steering Committees
-1. [Logical Frameworks and Meta-Languages: Theory and Practice](http://lfmtp.org/) Steering Committee member (2017-2022)
-1. [Logical Frameworks and Meta-Languages: Theory and Practice](http://lfmtp.org/) Steering Committee member (2010-2015)
