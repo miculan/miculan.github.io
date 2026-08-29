@@ -51,7 +51,7 @@ nav_order: 24
 1. [2nd International Workshop on Meta Models for Process Languages (MeMo 2015)](http://discotec2015.inria.fr/memo-2015/) (PC Chair)
 1. [8th International Conference on Methodologies, Technologies and Tools enabling e-Government (MeTTeG'14)](http://conferences.cs.unicam.it/metteg14/) (PC Co-chair)
 1. [Logical Frameworks and Meta-Languages: Theory and Practice (LFMTP 2010)](http://lfmtp.org/workshops/2010/Site/Welcome.html) (PC Co-chair)
-1. [TYPES 2007](/types07) (OC and PC co-chair)
+1. [TYPES 2007](https://web.archive.org/web/20070212215800/http://www.dimi.uniud.it/types07/) (OC and PC co-chair)
 1. ACM SIGPLAN [MERλIN'03](https://web.archive.org/web/20070620005050/http://merlin.dimi.uniud.it/merlin03/) (PC co-chair)
 
 #### Conference PC or OC member
@@ -98,7 +98,7 @@ nav_order: 24
 1. [Logical Frameworks and Meta-Languages: Theory and Practice (LFMTP 2007)](http://www.cs.mcgill.ca/~bpientka/lfmtp07/) (PC member)
 1. [Effects and Type Theory, EffTT 2007](http://cs.ioc.ee/efftt/) (PC member)
 1. [Mathematically Structured Functional Programming (MSFP 2006)](http://cs.ioc.ee/mpc-amast06/msfp/) (PC member)
-1. [IFIP WG 2.2 Anniversary Meeting](/ifip06) (OC member)
+1. [IFIP WG 2.2 Anniversary Meeting](https://web.archive.org/web/20070203110310/http://www.dimi.uniud.it/ifip06/) (OC member)
 1. ACM SIGPLAN [MERλIN'05](http://merlin.dimi.uniud.it) (PC member)
 1. Congresso nazionale AICA “Comunità Virtuale dalla Ricerca all’Impresa, dalla Formazione al Cittadino” 2005 (PC member)
 1. [COMETA 2003](http://cometa.dimi.uniud.it/cometa03/) final workshop (OC member)

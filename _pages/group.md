@@ -16,7 +16,7 @@ nav_order: 25
 - [Michele Lizzit](https://lizzit.it/) - PhD student of the [PhD Programme in Informatics and Artificial Intelligence](https://dmif.uniud.it/it/didattica/dottorato/iai/phd-course-in-computer-science-and-artificial-intelligence) (Cycle XXXIX, 2023-2026)
 - [Massimiliano Baldo](https://baldomassimiliano.com/) - PhD student of the [National PhD Programme in Cybersecurity](https://cysec.imtlucca.it/) (Cycle XXXXI, 2025-2028)
 - [Luca Gemolotto](https://lucagemolotto.github.io/) -  PhD student of the [PhD Programme in Informatics and Artificial Intelligence](https://dmif.uniud.it/it/didattica/dottorato/iai/phd-course-in-computer-science-and-artificial-intelligence) (Cycle XXXXI, 2025-2028)
-- [Gabriele Tam]() -  PhD student of the [PhD Programme in Informatics and Artificial Intelligence](https://dmif.uniud.it/it/didattica/dottorato/iai/phd-course-in-computer-science-and-artificial-intelligence) (Cycle XXXXI, 2025-2028)
+- Gabriele Tam -  PhD student of the [PhD Programme in Informatics and Artificial Intelligence](https://dmif.uniud.it/it/didattica/dottorato/iai/phd-course-in-computer-science-and-artificial-intelligence) (Cycle XXXXI, 2025-2028)
 
 
 See also the many [MSc students](/teaching#current-msc-students) I have and had the honour to supervise.

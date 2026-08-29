@@ -10,4 +10,4 @@ STENDHAL’s innovative methods will be rigorously validated through case studie
 
 STENDHAL is led by the University of Pisa, in collaboration with the National Research Council (CNR) and the University of Udine (where I am the Principal Investigator). The expertise and resources of multiple institutions will ensure a comprehensive exploration of the project’s objectives.
 
-More details will be on the forthcoming [project's web page]()
+More details are on the [project's web page](https://www.uniud.it/it/ricerca/progetti-e-iniziative/progetti-finanziati/prin-2022/dmif/stendhal-spatio-temporal-enhancement-of-neural-nets-for-deeply-hierarchical-automatised-logic)
