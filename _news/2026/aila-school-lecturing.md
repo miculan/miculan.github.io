@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2026-08-29
+date: 2026-08-31
 inline: false
 title: Lecturing at the AILA Summer School of Logic 2026
 ---
