@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Matteo Paier defended his PhD thesis
-date: 2026-09-15
+date: 2026-09-14
 inline: false
 ---
 Today, Matteo Paier has successfully defended his PhD thesis, titled _Fine-grained symbolic verification of heterogeneous systems_, at IMT Lucca, in front of the Commission composed by professors Luca Viganò, Chiara Bodei and Gabriele Costa, receiving an _excellent_ evaluation.  

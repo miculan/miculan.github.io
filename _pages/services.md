@@ -38,8 +38,7 @@ Jump to: [institutional roles](#institutional-roles-and-services) · [conference
 ## Conferences, schools and workshops
 
 ### Current and incoming
-- [Joint 36th Annual Symposium on Logic-Based Program Synthesis and Transformation, and 28th International Symposium on Principles and Practice of Declarative Programming (LOPSTR+PPDP 2026)](https://icfp26.sigplan.org/home/lopstr-ppdp-2026/) (PC member)
-- [25th Italian Summer School in Logics (AILA-Summer School 2026)](https://www.ailalogica.it/attivita/scuola-estiva/come-partecipare-alla-scuola-estiva-di-logica/) (teacher)
+- [11th Italian Conference on Cybersecurity (ITASEC 2027)](https://www.itasec.it/) (PC member)
 - [33rd International Conference on Types for Proofs and Programs (TYPES 2027)](https://types2027.uniud.it/) (General chair, PC chair)
 
 ### Conference PC or OC chair
@@ -58,11 +57,13 @@ Jump to: [institutional roles](#institutional-roles-and-services) · [conference
 1. [Logical Frameworks and Meta-Languages: Theory and Practice](http://lfmtp.org/) Steering Committee member (2010-2015)
 
 ### International PhD schools
+1. [25th Italian Summer School in Logics (AILA-Summer School 2026)](https://www.ailalogica.it/attivita/scuola-estiva/come-partecipare-alla-scuola-estiva-di-logica/) (lecturer)
 1. [27th Estonian Winter School in Computer Science (EWSCS 2025)](https://cs.ioc.ee/ewscs/2025/) (teacher)
 1. [8th European Network for Cybersecurity PhD School (NeCS 2025)](https://necs-winterschool.disi.unitn.it) (teacher)
 1. [EUTypes Summer School on Types for Programming and Verification (EUTYPES School 2018)](https://sites.google.com/view/2018eutypesschool/home) (chair)
 
 ### Conference PC or OC member
+1. [Joint 36th Annual Symposium on Logic-Based Program Synthesis and Transformation, and 28th International Symposium on Principles and Practice of Declarative Programming (LOPSTR+PPDP 2026)](https://icfp26.sigplan.org/home/lopstr-ppdp-2026/) (PC member)
 1. [17th International Workshop on Graph Computation Models (GCM 2026)](https://conf.researchr.org/home/staf-2026/gcm-2026) (PC member)
 1. [2nd International Workshop on Security and Risk in Identity Management (SeRIM 2026)](https://st.fbk.eu/events/SeRIM2026/) (PC member)
 1. [8th Distributed Ledger Technology Workshop (DLT 2026)](https://convegni.unica.it/dlt2026/) (PC member)
