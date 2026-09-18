@@ -4,6 +4,7 @@ permalink: /news/
 title: news
 nav: true
 nav_order: 12
+pagination: enabled
 ---
           
 <div class="news">
