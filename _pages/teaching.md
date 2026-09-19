@@ -20,7 +20,6 @@ For recurring question about these courses, [check out the FAQs](/faq).
 See [below](#past-courses) for some past courses.
 
 ## Current PhD students
-- [Matteo Paier](https://www.imtlucca.it/en/matteo.paier) - [National PhD in Cybersecurity](https://cysec2022.imtlucca.it/), Cycle XXXVIII, 2022-2025
 - [Michele Lizzit](https://lizzit.it/) - [PhD in Informatics and Artificial Intelligence](https://dmif.uniud.it/it/didattica/dottorato/iai/phd-course-in-computer-science-and-artificial-intelligence), Cycle XXXIX, 2023-2026
 - [Massimiliano Baldo](https://baldomassimiliano.com/) - [National PhD in Cybersecurity](https://cysec2022.imtlucca.it/), Cycle XXXXI, 2025-2028
 - [Luca Gemolotto](https://lucagemolotto.github.io/) - [PhD in Informatics and Artificial Intelligence](https://dmif.uniud.it/it/didattica/dottorato/iai/phd-course-in-computer-science-and-artificial-intelligence), Cycle XXXXI, 2025-2028
@@ -31,9 +30,6 @@ See [below](#past-phd-students) for past PhD students.
 ## Current MSc students
 - Roberto Van Eeden (AI & Cybersecurity)
 - Xhulia Palaj (AI & Cybersecurity)
-- Riccardo Modolo Zanchetta (AI & Cybersecurity)
-- Thomas Da Dalt (Computer Science)
-
 
 See [below](#past-undergraduate-students) for some past undergrad students.
 
@@ -77,13 +73,14 @@ In extra-academic courses
 - *Operating Systems* at the IFTS course “Network and information systems technician”, Gorizia (2002)
 
 ### Past PhD students
+- [Matteo Paier](https://www.imtlucca.it/en/matteo.paier) (National PhD in Cybersecurity, Cycle XXXVIII, 2022-2025). Thesis title: *Fine-grained symbolic verification of heterogeneous systems*
 - [Davide Castelnovo](https://davidecaste.github.io/)  (PhD in Computer Science, Mathematics and Physics, Cycle XXXV, 2019-2023). Thesis title: *Fuzzy algebraic theories and 𝓜,𝓝-adhesive categories*
 - [Marco Peressotti](https://marcoperessotti.com) (PhD in Computer Science, Cycle XXVIII, 2013-2016). Thesis title: *Coalgebraic semantics of self-referential behaviours*
 - [Giorgio Bacci](http://people.cs.aau.dk/~grbacci/) (PhD in Computer Science, Cycle XXIV 2009-2012). Thesis title: *Generalized labelled Markov processes, coalgebraically*
 - [Davide Grohmann](http://dk.linkedin.com/pub/davide-grohmann/38/b3a/535) (PhD in Computer Science, Cycle XXIII, 2007-2009). Thesis title: *Multi-graph Structures as Frameworks for Distributed and Concurrent Systems*
 
 ### Past undergraduate students
-I have supervised more than 180 BSc and MSc theses; for the complete list use [this form](https://servizi.amm.uniud.it/CercaTesi/Home/Advanced/), putting "miculan" in the "Nominativo relatore" field.  
+I have supervised more than 200 BSc and MSc theses; for the complete list use [this form](https://servizi.amm.uniud.it/CercaTesi/Home/Advanced/), putting "miculan" in the "Nominativo relatore" field.  
 Past students of mine include:
 - [Luca Campa](https://lucacampa.it) (2024) 
 - [Alessio Fiorin](https://www.iispv.cat/en/professional/alessio-fiorin/) (2023)
