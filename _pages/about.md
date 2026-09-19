@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 I am Full Professor of Computer Science at the [Department of Mathematics, Computer Science and Physics](https://www.dmif.uniud.it) of the [University of Udine](https://www.uniud.it).
 
-This website collects some information about my current and past [research](/research/), including my [publications](/publications/), the scientific [projects](/projects/) I am involved in, my academic [services](/services/) and my [teaching](/teaching/) activities.
+This website collects some information about my current and past [research](/research/), including my [publications](/publications/), the scientific [projects](/projects/) I am involved in, my academic [services](/services/) and my [teaching](/teaching/) activities, as well as my full [CV](/cv/).
 
 My [current research](/research/) focuses on ensuring the security and trustworthiness of distributed, component-based, and _smart_ systems. These interconnected systems involve numerous heterogeneous components, which makes analyzing their behavior a complex challenge. To address this, I leverage [formal methods](https://en.wikipedia.org/wiki/Formal_methods) to develop novel models, languages, methodologies, and verification techniques to specify, analyze, and ensure the security and trustworthiness of these systems. 
 If this sounds interesting to you, [feel free to reach out](mailto:marino.miculan@uniud.it).
