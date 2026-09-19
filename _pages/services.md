@@ -8,8 +8,6 @@ nav_order: 24
 ---
 See also [events](/events/) I have organized or served (conferences, schools, workshops).
 
-## Institutional roles and services
-
 ### Current
 - Co-Editor of the Concurrency Column of the [Bulletin of EATCS](https://eatcs.org/index.php/eatcs-bulletin) (Mar 2026-).
 - Representative of the University of Udine in the Scientific-Technical Board of [CITI IFTS](https://www.formazioneiftsfvg.it/corsi-gratuiti-di-informatica-fvg/) (2025-)
