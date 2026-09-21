@@ -63,7 +63,7 @@ Q: How and when can I choose the topic for the essay?
 A: The topic will be selected in collaboration with the instructor, after that the written test has been successfully passed. When ready, each student should contact the instructor (that is, me) to agree on a topic.
 
 Q: When and how should the essay be submitted?  
-A: The completed essay should be submitted about 4 weeks after topic selection, on [TurnitIn](https://www.turnitin.com).  You will receive the link for the suitable Turnitin class at the end of the course.
+A: The completed essay should be submitted about 4 weeks after topic selection, by email to the instructor, who will then upload it to [Compilatio](https://www.compilatio.net/en) for the plagiarism check.
 
 Q: When will the presentation be given?   
 A: The presentation will be scheduled approximately one week after submission of the essay; the exact date will be agreed with the teacher.
