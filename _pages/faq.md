@@ -44,9 +44,8 @@ Q: Mi manca solo Reti di Calcolatori per potermi laureare. È possibile avere un
 A: No. Non vengono concessi appelli straordinari su richiesta individuale.  Il calendario degli esami è pianificato per garantire equità a tutti gli studenti e per rispettare il carico di lavoro dei docenti. Chiedere un trattamento di favore mostra una mancanza di rispetto verso le regole accademiche e verso il tempo del docente.  
 Ma soprattutto, una tale domanda dimostra una mancanza di visione del percorso accademico. L'esame non è un "ostacolo" burocratico da superare per ottenere un titolo, ma il momento di verifica dell'acquisizione di conoscenze fondamentali. Considerare un esame come un "impiccio" di cui liberarsi svilisce il valore della laurea stessa.  La conoscenza della materia non si ottiene tentando ripetutamente l'esame nella speranza di un esito favorevole per contingenza. Si ottiene attraverso uno studio rigoroso e approfondito.  
 
-
 Q: Vorrei fare un tirocinio/una tesi su questi argomenti. Posso iniziare prima di avere sostenuto l'esame?  
-A: Mi compiaccio per l'interesse, ma no: prima si supera l'esame di Reti, poi si può parlare del tirocinio/tesi.
+A: Mi compiaccio per l'interesse, ma no: prima si supera l'esame di Reti con un voto minimo di 24/30, poi si può parlare del tirocinio/tesi.
 
 ## FAQ on _Network Security_
 
@@ -91,13 +90,13 @@ A: Tecnicamente sì, ma in generale è fortemente sconsigliato se poi si ha inte
 Q: Esiste un formato standard per scrivere le tesi?  
 A: Sì, si può usare la classe LaTeX THUD che si [trova su GitHub](https://github.com/miculan/thud).
 
-Q: Ma ma… non so usare GitHub.  
+Q: Ma… non so usare GitHub.  
 A: Male, [ora di imparare](https://learn.microsoft.com/it-it/training/modules/introduction-to-github/).
 
-Q: Ma ma… non so scrivere in LaTeX.  
+Q: Ma… non so scrivere in LaTeX.  
 A: Malissimo! [ora di imparare](https://www.learnlatex.org/en/)!
 
-Q: Ma non si può usare Word o qualcosa di simile?  
+Q: Ma… non si può usare Word o qualcosa di simile?  
 A: E allora si può anche usare la forchetta per mangiare il brodo.  (cmq: no, non con me 😡)
 
 Q: Posso usare Overleaf?  
