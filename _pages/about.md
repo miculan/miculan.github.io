@@ -22,7 +22,7 @@ I am Full Professor of Computer Science at the [Department of Mathematics, Compu
 
 This website collects some information about my current and past [research](/research/), including my [publications](/publications/), the scientific [projects](/projects/) I am involved in, my academic [services](/services/) and my [teaching](/teaching/) activities, as well as my full [CV](/cv/).
 
-My [current research](/research/) focuses on ensuring the security and trustworthiness of distributed, component-based, and _smart_ systems. These interconnected systems involve numerous heterogeneous components, which makes analyzing their behavior a complex challenge. To address this, I leverage [formal methods](https://en.wikipedia.org/wiki/Formal_methods) to develop novel models, languages, methodologies, and verification techniques to specify, analyze, and ensure the security and trustworthiness of these systems. 
+My [current research](/research/) focuses on ensuring the security and trustworthiness of distributed, component-based, and _smart_ systems. These interconnected systems involve numerous heterogeneous components, possibly AI-based, which makes analyzing their behavior a complex challenge. To address this, I leverage [formal methods](https://en.wikipedia.org/wiki/Formal_methods) to develop novel models, languages, methodologies, and verification techniques to specify, analyze, and ensure the security and trustworthiness of these systems. 
 If this sounds interesting to you, [feel free to reach out](mailto:marino.miculan@uniud.it).
 
 
@@ -39,5 +39,5 @@ Besides, I know something about
 [bigraphs](https://en.wikipedia.org/wiki/Bigraph), 
 [distributed ledgers](https://en.wikipedia.org/wiki/Distributed_ledger).
 
-I founded and currently lead the [Models and Applications of Distributed Systems](https://mads.uniud.it) laboratory, the Udine node of the [CINI National CyberSecurity laboratory](https://cybersecnatlab.it), and the [MadrHacks](https://www.madrhacks.org), the ethical hacking team of the University of Udine.  
+I founded and currently lead the [MADS](https://mads.uniud.it) laboratory (which includes the Udine node of the [CINI National CyberSecurity laboratory](https://cybersecnatlab.it)), and the [MadrHacks](https://www.madrhacks.org), the ethical hacking team of the University of Udine.  
 I have the fortune to work with great [people](/group/).
